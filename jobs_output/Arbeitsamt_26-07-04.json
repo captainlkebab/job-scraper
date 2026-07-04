@@ -1,0 +1,778 @@
+[
+    {
+        "id": "10000-1205268830-S",
+        "title": "Masterarbeit (m/w/d) mit dem Themenschwerpunkt Datenanalyse mit KI in der Qualität",
+        "company": "ABB AG",
+        "description": "Bei ABB unterstützen wir Industrien dabei, effizienter und nachhaltiger zu werden. Fortschritt ist bei uns keine Option, sondern selbstverständlich – für Sie, Ihr Team und die Welt. Als globaler Marktführer bieten wir Ihnen alles, was Sie brauchen, um diesen Wandel voranzutreiben. Der Weg dorthin ist nicht immer einfach – denn echtes Wachstum erfordert Mut. Aber bei ABB gehen Sie ihn nicht allein. Führe, was die Welt bestimmt.\n\nDiese Position berichtet an:\n\nQualitätsmanager\n\n**Masterarbeit:&#32;**\n\n**Einsatz künstlicher Intelligenz zur automatisierten Analyse von Produktionsdaten in Power BI – Potenziale zur Qualitätsoptimierung in der Elektroindustrie**\n\n**Ihre Rolle und Verantwortlichkeiten**\n\nIn dieser Masterarbeit haben Sie die Möglichkeit, den Qualitätsbereich im Geschäftsbereich ELSB bei der Digitalisierung und intelligenten Nutzung von Produktionsdaten zu unterstützen. Sie entwickeln KI-gestützte Analysemethoden, die zur kontinuierlichen Verbesserung der Produktionsqualität beitragen und datenbasierte Entscheidungen ermöglichen.\n\nDiese Masterarbeit trägt zum Qualitätsmanagement im Geschäftsbereich ELSB bei.\n\nDas Arbeitszeitmodell für diese Position ist: #Hybrid\n\nSie sind hauptsächlich verantwortlich für:\n\n- Einbindung von SQL-Datenbanken und weiteren Datenquellen für die KI-gestützte Analyse von Produktionsdaten\n- Entwicklung und Implementierung von KI-Algorithmen zur täglichen Analyse und Bewertung der Anlagenperformance\n- Ableitung von Themenschwerpunkten und Handlungsempfehlungen aus den analysierten Daten zur Qualitätsoptimierung\n- Visualisierung und Darstellung der Analyseergebnisse bevorzugt in Power BI\n- Bewertung der Potenziale KI-gestützter Datenanalyse für das Qualitätsmanagement in der Elektroindustrie\n- Enge Zusammenarbeit mit dem Qualitätsteam und den Produktionsverantwortlichen\n- Dokumentation der Ergebnisse in Form einer wissenschaftlichen Masterarbeit\n\n**Qualifikationen für die Rolle**\n\n- Laufendes Masterstudium im Bereich KI-Ingenieurwissenschaften, Informatik, Wirtschaftsinformatik, Data Science oder verwandten Fachrichtungen\n- Kenntnisse in künstlicher Intelligenz, Machine Learning und Datenanalyse\n- Erfahrung mit Power BI oder vergleichbaren Business Intelligence Tools\n- Programmierkenntnisse in Python oder R sowie Erfahrung mit SQL-Datenbanken\n- Analytisches Denkvermögen und strukturierte Arbeitsweise\n- Eigenständige und lösungsorientierte Arbeitsweise mit dem Willen, praxisrelevante Ergebnisse zu erzielen\n- Gute Deutsch- und Englischkenntnisse in Wort und Schrift\n- Verfügbarkeit für die Dauer der Masterarbeit (ca. 6 Monate)\n\nHaben wir Ihr Interesse geweckt? Dann freuen wir uns über Ihre aussagekräftige Bewerbung (Lebenslauf, Anschreiben, Notenspiegel) über unser Online-Karrieretool. Bei gleicher Eignung werden Menschen mit Schwerbehinderung und diesen Gleichgestellte bevorzugt.\n\nABB AG\n\nSeien Sie Teil von etwas Größerem. Hier wird Fortschritt vorangetrieben, Teams ergreifen die Initiative und gemeinsam bewegen wir die Welt vorwärts. Führe, was die Welt bestimmt.",
+        "source": "Arbeitsagentur",
+        "scraped_at": "2026-07-04T14:53:31.370151",
+        "api_raw_details": {
+            "stellenangebotsart": "PRAKTIKUM_TRAINEE",
+            "stellenangebotsTitel": "Masterarbeit (m/w/d) mit dem Themenschwerpunkt Datenanalyse mit KI in der Qualität",
+            "stellenangebotsBeschreibung": "Bei ABB unterstützen wir Industrien dabei, effizienter und nachhaltiger zu werden. Fortschritt ist bei uns keine Option, sondern selbstverständlich – für Sie, Ihr Team und die Welt. Als globaler Marktführer bieten wir Ihnen alles, was Sie brauchen, um diesen Wandel voranzutreiben. Der Weg dorthin ist nicht immer einfach – denn echtes Wachstum erfordert Mut. Aber bei ABB gehen Sie ihn nicht allein. Führe, was die Welt bestimmt.\n\nDiese Position berichtet an:\n\nQualitätsmanager\n\n**Masterarbeit:&#32;**\n\n**Einsatz künstlicher Intelligenz zur automatisierten Analyse von Produktionsdaten in Power BI – Potenziale zur Qualitätsoptimierung in der Elektroindustrie**\n\n**Ihre Rolle und Verantwortlichkeiten**\n\nIn dieser Masterarbeit haben Sie die Möglichkeit, den Qualitätsbereich im Geschäftsbereich ELSB bei der Digitalisierung und intelligenten Nutzung von Produktionsdaten zu unterstützen. Sie entwickeln KI-gestützte Analysemethoden, die zur kontinuierlichen Verbesserung der Produktionsqualität beitragen und datenbasierte Entscheidungen ermöglichen.\n\nDiese Masterarbeit trägt zum Qualitätsmanagement im Geschäftsbereich ELSB bei.\n\nDas Arbeitszeitmodell für diese Position ist: #Hybrid\n\nSie sind hauptsächlich verantwortlich für:\n\n- Einbindung von SQL-Datenbanken und weiteren Datenquellen für die KI-gestützte Analyse von Produktionsdaten\n- Entwicklung und Implementierung von KI-Algorithmen zur täglichen Analyse und Bewertung der Anlagenperformance\n- Ableitung von Themenschwerpunkten und Handlungsempfehlungen aus den analysierten Daten zur Qualitätsoptimierung\n- Visualisierung und Darstellung der Analyseergebnisse bevorzugt in Power BI\n- Bewertung der Potenziale KI-gestützter Datenanalyse für das Qualitätsmanagement in der Elektroindustrie\n- Enge Zusammenarbeit mit dem Qualitätsteam und den Produktionsverantwortlichen\n- Dokumentation der Ergebnisse in Form einer wissenschaftlichen Masterarbeit\n\n**Qualifikationen für die Rolle**\n\n- Laufendes Masterstudium im Bereich KI-Ingenieurwissenschaften, Informatik, Wirtschaftsinformatik, Data Science oder verwandten Fachrichtungen\n- Kenntnisse in künstlicher Intelligenz, Machine Learning und Datenanalyse\n- Erfahrung mit Power BI oder vergleichbaren Business Intelligence Tools\n- Programmierkenntnisse in Python oder R sowie Erfahrung mit SQL-Datenbanken\n- Analytisches Denkvermögen und strukturierte Arbeitsweise\n- Eigenständige und lösungsorientierte Arbeitsweise mit dem Willen, praxisrelevante Ergebnisse zu erzielen\n- Gute Deutsch- und Englischkenntnisse in Wort und Schrift\n- Verfügbarkeit für die Dauer der Masterarbeit (ca. 6 Monate)\n\nHaben wir Ihr Interesse geweckt? Dann freuen wir uns über Ihre aussagekräftige Bewerbung (Lebenslauf, Anschreiben, Notenspiegel) über unser Online-Karrieretool. Bei gleicher Eignung werden Menschen mit Schwerbehinderung und diesen Gleichgestellte bevorzugt.\n\nABB AG\n\nSeien Sie Teil von etwas Größerem. Hier wird Fortschritt vorangetrieben, Teams ergreifen die Initiative und gemeinsam bewegen wir die Welt vorwärts. Führe, was die Welt bestimmt.",
+            "geforderterBildungsabschluss": "NICHT_RELEVANT",
+            "arbeitszeitSchichtNachtWochenende": false,
+            "arbeitszeitTeilzeitAbend": false,
+            "arbeitszeitTeilzeitNachmittag": false,
+            "arbeitszeitTeilzeitVormittag": false,
+            "arbeitszeitTeilzeitFlexibel": false,
+            "arbeitszeitVollzeit": false,
+            "eintrittszeitraum": {
+                "von": "2026-06-03"
+            },
+            "verguetungsangabe": "KEINE_ANGABEN",
+            "vertragsdauer": "KEINE_ANGABE",
+            "istBehinderungGefordert": true,
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "strasse": "Kallstadter Str.",
+                        "hausnummer": "1",
+                        "plz": "68309",
+                        "ort": "Mannheim",
+                        "region": "BADEN_WUERTTEMBERG",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 49.505535,
+                    "laenge": 8.5064085
+                }
+            ],
+            "veroeffentlichungszeitraum": {
+                "von": "2026-01-27"
+            },
+            "datumErsteVeroeffentlichung": "2026-01-27",
+            "aenderungsdatum": "2026-06-03T17:04:57.210",
+            "istBetreut": false,
+            "hauptberuf": "Data-Analyst/in",
+            "firma": "ABB AG",
+            "arbeitgeberKundennummerHash": "605W1XwSKKZLNEDhRjJBUSuY2FpV3PMJAQ7gt5H_px8=",
+            "allianzpartnerUrl": "http://www.arbeitsagentur.de",
+            "allianzpartnerName": "arbeitsagentur.de",
+            "referenznummer": "10000-1205268830-S"
+        }
+    },
+    {
+        "id": "15939-BB-631879-7878-6619-S",
+        "title": "Praktikant / Masterarbeit Deep Learning zur Bildverbesserung (m/w/d)",
+        "company": "Rheinmetall AG",
+        "description": "Als Praktikant (m/w/d) im Bereich Deep Learning zur Bildverbesserung sind Sie verantwortlich für die Unterstützung im Training von neuronalen Netzen.\n\nIhre weiteren Aufgaben:\n\n * Sammlung von Bilddaten\n * Vorverarbeitung von Bilddaten\n * Modell-Pruning, Quantisierung und Testen\n\n* Masterstudiengang im Bereich Data Science, Informatik, Computerwissenschaften, Mathematik oder vergleichbar\n * Gültige Immatrikulation für den gesamten Zeitraum des Praktikums\n * Kenntnisse in PyTorch, CUDA und anderen relevanten Deep-Learning-Frameworks\n * Gute Programmierkenntnisse in Python und / oder C++\n * Starke Fähigkeit, Forschungsarbeiten im Bereich Deep Learning zu verstehen, zu analysieren und zu präsentieren\n * Gute Deutsch- und Englischkenntnisse in Wort und Schrift\n * Fähigkeit, eigenständig und intensiv an einem wissenschaftlichen Thema zu arbeiten\n\nAn unserem Standort in Bremen bieten wir Ihnen: \n\n * Attraktive Vergütung\n * Flexible Arbeitszeiten (Gleit- und Vertrauensarbeitszeit)\n * Mitarbeiterbenefits, z. B. Corporate Benefits Plattform, Kantine für unsere Mitarbeiter (m/w/d)\n * Das Gefühl eines StartUp-Unternehmens mit den Vorteilen eines Großkonzerns\n * Spannende, interdisziplinäre und internationale Projekte in einer Matrix-Organisation\n * Eine Unternehmenskultur, die berufliche und persönliche Entwicklung fördert",
+        "source": "Arbeitsagentur",
+        "scraped_at": "2026-07-04T14:53:32.237038",
+        "api_raw_details": {
+            "stellenangebotsart": "PRAKTIKUM_TRAINEE",
+            "stellenangebotsTitel": "Praktikant / Masterarbeit Deep Learning zur Bildverbesserung (m/w/d)",
+            "quereinstiegGeeignet": false,
+            "stellenangebotsBeschreibung": "Als Praktikant (m/w/d) im Bereich Deep Learning zur Bildverbesserung sind Sie verantwortlich für die Unterstützung im Training von neuronalen Netzen.\n\nIhre weiteren Aufgaben:\n\n * Sammlung von Bilddaten\n * Vorverarbeitung von Bilddaten\n * Modell-Pruning, Quantisierung und Testen\n\n* Masterstudiengang im Bereich Data Science, Informatik, Computerwissenschaften, Mathematik oder vergleichbar\n * Gültige Immatrikulation für den gesamten Zeitraum des Praktikums\n * Kenntnisse in PyTorch, CUDA und anderen relevanten Deep-Learning-Frameworks\n * Gute Programmierkenntnisse in Python und / oder C++\n * Starke Fähigkeit, Forschungsarbeiten im Bereich Deep Learning zu verstehen, zu analysieren und zu präsentieren\n * Gute Deutsch- und Englischkenntnisse in Wort und Schrift\n * Fähigkeit, eigenständig und intensiv an einem wissenschaftlichen Thema zu arbeiten\n\nAn unserem Standort in Bremen bieten wir Ihnen: \n\n * Attraktive Vergütung\n * Flexible Arbeitszeiten (Gleit- und Vertrauensarbeitszeit)\n * Mitarbeiterbenefits, z. B. Corporate Benefits Plattform, Kantine für unsere Mitarbeiter (m/w/d)\n * Das Gefühl eines StartUp-Unternehmens mit den Vorteilen eines Großkonzerns\n * Spannende, interdisziplinäre und internationale Projekte in einer Matrix-Organisation\n * Eine Unternehmenskultur, die berufliche und persönliche Entwicklung fördert",
+            "geforderterBildungsabschluss": "NICHT_RELEVANT",
+            "arbeitszeitSchichtNachtWochenende": false,
+            "arbeitszeitTeilzeitAbend": false,
+            "arbeitszeitTeilzeitNachmittag": false,
+            "arbeitszeitTeilzeitVormittag": false,
+            "arbeitszeitTeilzeitFlexibel": false,
+            "arbeitszeitVollzeit": true,
+            "eintrittszeitraum": {
+                "von": "2026-06-09"
+            },
+            "verguetungsangabe": "KEINE_ANGABEN",
+            "vertragsdauer": "KEINE_ANGABE",
+            "istGeringfuegigeBeschaeftigung": false,
+            "istBehinderungGefordert": false,
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "plz": "28309",
+                        "ort": "Bremen",
+                        "region": "BREMEN",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 53.0495492,
+                    "laenge": 8.8953445
+                }
+            ],
+            "homeofficemoeglich": false,
+            "chiffrenummer": "DE16255",
+            "istPrivateArbeitsvermittlung": false,
+            "istArbeitnehmerUeberlassung": false,
+            "veroeffentlichungszeitraum": {
+                "von": "2026-06-09"
+            },
+            "datumErsteVeroeffentlichung": "2026-06-09",
+            "aenderungsdatum": "2026-06-15T13:34:19.152",
+            "istBetreut": true,
+            "hauptberuf": "Computergrafiker/in",
+            "firma": "Rheinmetall AG",
+            "arbeitgeberKundennummerHash": "mDtoRsc-Vw0swe56F2UrizVz-AWYNSy7i3tzAduv66s=",
+            "allianzpartnerUrl": "www.rheinmetall.com",
+            "allianzpartnerName": "Rheinmetall AG",
+            "referenznummer": "15939-BB-631879-7878-6619-S"
+        }
+    },
+    {
+        "id": "15986-REF289665Z-0007536-S",
+        "title": "Masterarbeit: Automatisierte Sensorkalibrierung und Fehlerklassifizierung für intelligente Sensornet",
+        "company": "Robert Bosch GmbH",
+        "description": "Job Title: Masterarbeit: Automatisierte Sensorkalibrierung und Fehlerklassifizierung für intelligente Sensornetzwerke (w/m/div.)\n\nJob Description:\nDieses Projekt konzentriert sich auf die Optimierung der Zuverlässigkeit industrieller Maschinen durch fortschrittliches Sensormonitoring und automatisierte Kalibrierung. Im Rahmen Ihrer Abschlussarbeit untersuchen Sie zwei Hauptarten von Sensorausfällen: physische Hardware-Anomalien und softwarebedingte Abweichungen (Drifts). Durch die Kombination praxisnaher Messungen am Prüfstand mit Datenanalysen entwickeln Sie ein System, das zwischen diesen Fehlerarten unterscheidet und – wo möglich – automatisch softwarebasierte Korrekturen anwendet. Ihr abschließendes Konzept trägt zur Entwicklung selbstkalibrierender Sensorsysteme bei.\n\nIm Rahmen Ihrer Abschlussarbeit führen Sie physische Messungen an einem Kugelgewindetrieb-(BSD)-Prüfstand durch, um sowohl fehlerfreie („gute“) Sensordaten als auch hardwarebedingte Sensorausfälle („schlechte“) zu erfassen und zu analysieren. Sie analysieren einen bereitgestellten, vorab detektierten Datensatz mit softwarebedingten Sensorabweichungen (z. B. Sensordrift). Sie erarbeiten Kriterien, die eine softwarekorrigierbare Drift von einem physischen Hardwarefehler unterscheiden, sodass der Sensor für eine rein softwarebasierte Rekalibrierung geeignet ist. Darüber hinaus recherchieren und bewerten Sie verschiedene softwarebasierte Rekalibrierungstechniken.\n\nSie entwerfen ein robustes Konzept für einen automatisierten Workflow, der auf Basis Ihrer Klassifikation die passende softwarebasierte Rekalibrierung auslöst und anschließend prüft, ob der Sensor wieder korrekt arbeitet. Zudem validieren Sie Ihr Konzept sowohl mit Ihren neu aufgezeichneten Hardware-Datensätzen als auch mit den bereitgestellten Drift-Datensätzen. Abschließend identifizieren Sie Fälle, in denen eine softwarebasierte Rekalibrierung nicht ausreicht (mit besonderem Fokus auf die aufgezeichneten Hardwarefehler), und schlagen eine Strategie vor, wie das System mit diesen physischen Anomalien umgehen soll (z. B. Kennzeichnung für Wartung oder Auslösen eines Hardwareaustauschs).\n\nQualifications:\n• Ausbildung: Masterstudium im Bereich Informatik, Data Science, Elektrotechnik, Mechatronik, Ingenieurwesen, Physik oder vergleichbar, mit sehr guten Studienleistungen\n• Erfahrung und Kenntnisse: Sehr gute Programmierkenntnisse in Python sowie sicherer Umgang mit Data-Science-Bibliotheken (z. B. Pandas, NumPy, Scikit-learn); fundierte theoretische Kenntnisse und erste praktische Erfahrungen in Datenanalyse und Machine-Learning-Konzepten, insbesondere im Bereich Klassifikation; grundlegendes Verständnis physikalischer Messprinzipien, Sensortechnik oder industrieller Automatisierung; Kenntnisse in kollaborativer Softwareentwicklung sowie mit Plattformen wie Git/GitHub\n• Persönlichkeit und Arbeitsweise: Sie sind hoch motiviert, offen für Zusammenarbeit und Teamarbeit und verbinden eine eigenständige, systematische Arbeitsweise mit ausgeprägtem analytischem Denken\n• Arbeitsmodell: Unser hybrides Modell bietet Ihnen eine ausgewogene Mischung aus Präsenz vor Ort und Remote-Arbeit\n• Interesse: Sie haben großes Interesse daran, reale industrielle Problemstellungen zu lösen, und sind von der Idee fasziniert, intelligente, selbstwartende Systeme zu entwickeln\n• Sprachen: Verhandlungssicheres Englisch; Deutschkenntnisse sind von Vorteil\n\nAdditional Information:\nStart: nach vorheriger Absprache \nDauer: 6 Monate \n\nVoraussetzung für diese Abschlussarbeit ist die Immatrikulation an einer Hochschule/Universität. Bitte fügen Sie Ihren Lebenslauf, Ihren Notenspiegel (Transcript of Records), die Prüfungsordnung sowie – falls erforderlich – eine gültige Arbeits- und Aufenthaltserlaubnis bei. \n\nVielfalt und Inklusion sind für uns nicht nur Trends, sondern fest in unserer Unternehmenskultur verankert. Daher begrüßen wir alle Bewerbungen – unabhängig von Geschlecht, Alter, Behinderung, Religion, ethnischer Herkunft oder sexueller Identität. \n\nBenötigen Sie weitere Informationen zur Stelle? \nAbbas Hassoun (Fachabteilung) \n+49 178 2363207 \n\n#LikeABosch startet hier: Jetzt bewerben! \n#LI-DNI\n\nStreet Address:\nRobert-Bosch-Campus 1",
+        "source": "Arbeitsagentur",
+        "scraped_at": "2026-07-04T14:53:33.092780",
+        "api_raw_details": {
+            "stellenangebotsart": "PRAKTIKUM_TRAINEE",
+            "stellenangebotsTitel": "Masterarbeit: Automatisierte Sensorkalibrierung und Fehlerklassifizierung für intelligente Sensornet",
+            "quereinstiegGeeignet": false,
+            "stellenangebotsBeschreibung": "Job Title: Masterarbeit: Automatisierte Sensorkalibrierung und Fehlerklassifizierung für intelligente Sensornetzwerke (w/m/div.)\n\nJob Description:\nDieses Projekt konzentriert sich auf die Optimierung der Zuverlässigkeit industrieller Maschinen durch fortschrittliches Sensormonitoring und automatisierte Kalibrierung. Im Rahmen Ihrer Abschlussarbeit untersuchen Sie zwei Hauptarten von Sensorausfällen: physische Hardware-Anomalien und softwarebedingte Abweichungen (Drifts). Durch die Kombination praxisnaher Messungen am Prüfstand mit Datenanalysen entwickeln Sie ein System, das zwischen diesen Fehlerarten unterscheidet und – wo möglich – automatisch softwarebasierte Korrekturen anwendet. Ihr abschließendes Konzept trägt zur Entwicklung selbstkalibrierender Sensorsysteme bei.\n\nIm Rahmen Ihrer Abschlussarbeit führen Sie physische Messungen an einem Kugelgewindetrieb-(BSD)-Prüfstand durch, um sowohl fehlerfreie („gute“) Sensordaten als auch hardwarebedingte Sensorausfälle („schlechte“) zu erfassen und zu analysieren. Sie analysieren einen bereitgestellten, vorab detektierten Datensatz mit softwarebedingten Sensorabweichungen (z. B. Sensordrift). Sie erarbeiten Kriterien, die eine softwarekorrigierbare Drift von einem physischen Hardwarefehler unterscheiden, sodass der Sensor für eine rein softwarebasierte Rekalibrierung geeignet ist. Darüber hinaus recherchieren und bewerten Sie verschiedene softwarebasierte Rekalibrierungstechniken.\n\nSie entwerfen ein robustes Konzept für einen automatisierten Workflow, der auf Basis Ihrer Klassifikation die passende softwarebasierte Rekalibrierung auslöst und anschließend prüft, ob der Sensor wieder korrekt arbeitet. Zudem validieren Sie Ihr Konzept sowohl mit Ihren neu aufgezeichneten Hardware-Datensätzen als auch mit den bereitgestellten Drift-Datensätzen. Abschließend identifizieren Sie Fälle, in denen eine softwarebasierte Rekalibrierung nicht ausreicht (mit besonderem Fokus auf die aufgezeichneten Hardwarefehler), und schlagen eine Strategie vor, wie das System mit diesen physischen Anomalien umgehen soll (z. B. Kennzeichnung für Wartung oder Auslösen eines Hardwareaustauschs).\n\nQualifications:\n• Ausbildung: Masterstudium im Bereich Informatik, Data Science, Elektrotechnik, Mechatronik, Ingenieurwesen, Physik oder vergleichbar, mit sehr guten Studienleistungen\n• Erfahrung und Kenntnisse: Sehr gute Programmierkenntnisse in Python sowie sicherer Umgang mit Data-Science-Bibliotheken (z. B. Pandas, NumPy, Scikit-learn); fundierte theoretische Kenntnisse und erste praktische Erfahrungen in Datenanalyse und Machine-Learning-Konzepten, insbesondere im Bereich Klassifikation; grundlegendes Verständnis physikalischer Messprinzipien, Sensortechnik oder industrieller Automatisierung; Kenntnisse in kollaborativer Softwareentwicklung sowie mit Plattformen wie Git/GitHub\n• Persönlichkeit und Arbeitsweise: Sie sind hoch motiviert, offen für Zusammenarbeit und Teamarbeit und verbinden eine eigenständige, systematische Arbeitsweise mit ausgeprägtem analytischem Denken\n• Arbeitsmodell: Unser hybrides Modell bietet Ihnen eine ausgewogene Mischung aus Präsenz vor Ort und Remote-Arbeit\n• Interesse: Sie haben großes Interesse daran, reale industrielle Problemstellungen zu lösen, und sind von der Idee fasziniert, intelligente, selbstwartende Systeme zu entwickeln\n• Sprachen: Verhandlungssicheres Englisch; Deutschkenntnisse sind von Vorteil\n\nAdditional Information:\nStart: nach vorheriger Absprache \nDauer: 6 Monate \n\nVoraussetzung für diese Abschlussarbeit ist die Immatrikulation an einer Hochschule/Universität. Bitte fügen Sie Ihren Lebenslauf, Ihren Notenspiegel (Transcript of Records), die Prüfungsordnung sowie – falls erforderlich – eine gültige Arbeits- und Aufenthaltserlaubnis bei. \n\nVielfalt und Inklusion sind für uns nicht nur Trends, sondern fest in unserer Unternehmenskultur verankert. Daher begrüßen wir alle Bewerbungen – unabhängig von Geschlecht, Alter, Behinderung, Religion, ethnischer Herkunft oder sexueller Identität. \n\nBenötigen Sie weitere Informationen zur Stelle? \nAbbas Hassoun (Fachabteilung) \n+49 178 2363207 \n\n#LikeABosch startet hier: Jetzt bewerben! \n#LI-DNI\n\nStreet Address:\nRobert-Bosch-Campus 1",
+            "geforderterBildungsabschluss": "NICHT_RELEVANT",
+            "arbeitszeitSchichtNachtWochenende": false,
+            "arbeitszeitTeilzeitAbend": false,
+            "arbeitszeitTeilzeitNachmittag": false,
+            "arbeitszeitTeilzeitVormittag": false,
+            "arbeitszeitTeilzeitFlexibel": false,
+            "arbeitszeitVollzeit": true,
+            "eintrittszeitraum": {
+                "von": "2026-09-15"
+            },
+            "verguetungsangabe": "KEINE_ANGABEN",
+            "vertragsdauer": "BEFRISTET",
+            "befristungInMonaten": 6,
+            "istGeringfuegigeBeschaeftigung": false,
+            "istBehinderungGefordert": false,
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "plz": "71272",
+                        "ort": "Renningen",
+                        "region": "BADEN_WUERTTEMBERG",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 48.7689256,
+                    "laenge": 8.928216
+                }
+            ],
+            "homeofficemoeglich": false,
+            "chiffrenummer": "REF289665Z",
+            "istPrivateArbeitsvermittlung": false,
+            "istArbeitnehmerUeberlassung": false,
+            "veroeffentlichungszeitraum": {
+                "von": "2026-06-23"
+            },
+            "datumErsteVeroeffentlichung": "2026-06-25",
+            "aenderungsdatum": "2026-07-01T12:36:12.754",
+            "istBetreut": true,
+            "hauptberuf": "Fachwirt/in - Marktforschung",
+            "firma": "Robert Bosch GmbH",
+            "arbeitgeberKundennummerHash": "iZ1qVUSwSUBsMgarpsprvZYrvnsj_BfNcQt_jaCgINA=",
+            "allianzpartnerUrl": "www.bosch.de",
+            "allianzpartnerName": "Robert Bosch GmbH",
+            "referenznummer": "15986-REF289665Z-0007536-S"
+        }
+    },
+    {
+        "id": "13151-1587718-1-S",
+        "title": "Student*in für Abschlussarbeit/Bachelorarbeit /Masterarbeit (KI-basierte Analyse von...",
+        "company": "Mercedes-Benz Group AG",
+        "description": "Student*in für Abschlussarbeit/Bachelorarbeit /Masterarbeit (KI-basierte Analyse von Kommunikationsdaten in Diagnoseprozessen)\n\nTätigkeitsbereich: Produktion\nFachabteilung: System Engineering Drivetrain & Body\nGesellschaft: Mercedes-Benz AG\nStandort: Sindelfingen\nStartdatum: 01.08.2026\nVeröffentlichungsdatum: 01.08.2026\nStellennummer: MER00044BV\nArbeitszeit: Full time\n\n\nAufgaben\nIm Bereich E/E Architektur- und System Engineering verantworten wir die baureihenübergreifende Diagnosesoftware zur Prüfung und Inbetriebnahme von elektronischen Steuergeräten und Systemen.Im Rahmen von Prüf- und Inbetriebnahmetests treten Testerabbrüche auf, die häufig auf Kommunikationsprobleme zwischen verschiedenen Steuergeräten zurückzuführen sind. Die Analyse dieser Fehler erfolgt bislang nur eingeschränkt, wodurch Transparenz über die tatsächlichen Ursachen fehlt und Optimierungspotenziale nur begrenzt genutzt werdenZiel dieser Abschlussarbeit ist es, ein KI-gestütztes Modell zur Erkennung und Ursachenanalyse von Testerabbrüchen zu entwickeln. Dabei sollen Muster in Kommunikationsdaten identifiziert und relevante Einflussfaktoren herausgearbeitet werden, um eine fundierte Ursachenanalyse zu ermöglichen.\nDiese Herausforderungen kommen auf Sie zu:\n\n- Mitwirkung bei der Analyse komplexer Fragestellungen im Bereich Machine Learning und KI\n- Anwendung und Weiterentwicklung von Methoden zur datengetriebenen Fehleranalyse\n- Umsetzung von Datenanalysen und Modellierungsansätzen mit Python und gängigen Data-Science-Bibliotheken (z. B. pandas, scikit-learn)\n- Einarbeitung in neue Datenquellen sowie Entwicklung von Ansätzen zur Datenaufbereitung und -interpretation\n- Transfer von theoretischem Wissen aus dem Studium in praxisnahe Anwendungen\n- Strukturierte Bearbeitung komplexer Aufgabenstellungen im technischen Umfeld\n- Eigenständige Einarbeitung in neue Themenfelder und Systeme innerhalb eines interdisziplinären Teams\n- Kommunikation von Analyseergebnissen in deutscher und englischer Sprache\n\n\nDie endgültige Themenfindung erfolgt in Absprache mit der Hochschule, Ihnen und uns.\n\nDie Tätigkeit kann ab August 2026 beginnen.\n\n\nQualifikationen\n\n- Studiengang im Bereich Informatik, Data Science, Elektrotechnik, Wirtschaftsinformatik oder vergleichbar\n- Interesse an Machine Learning, KI und datengetriebener Fehleranalyse\n- Gute Kenntnisse in Python und gängigen Data-Science-Bibliotheken (z. B. pandas, scikit-learn) von Vorteil\n- Erste Erfahrung in Datenanalyse, Modellierung oder Signal-/Kommunikationsdaten von Vorteil\n- Analytisches Denkvermögen und strukturierte Arbeitsweise\n- Eigeninitiative und Motivation, sich in komplexe Systeme einzuarbeiten\n- Gute Deutsch- und Englischkenntnisse\n\n\nZusätzliche Informationen:\n\nWir freuen uns auf Ihre Online-Bewerbung mit Lebenslauf, Anschreiben, Zeugnissen,  aktueller Immatrikulationsbescheinigung mit Angabe des Fachsemesters und Nachweis über die Regelstudienzeit. Bitte vergessen Sie nicht im Online-Formular Ihre Dokumente als \"relevant für diese Bewerbung\" zu markieren und die maximale Dateigröße von 5 MB zu beachten.\n\nWeiterführende Informationen zu den Einstellkriterien finden Siehier  .\n\nSchwerbehinderte und gleichgestellte Bewerbende sind herzlich willkommen! Die Schwerbehindertenvertretung (sbv-sindelfingen@mercedes-benz.com) unterstützt Sie gerne im Bewerbungsprozess.\n\nHR Services hilft Ihnen bei Fragen zum Bewerbungsprozess gerne weiter. Sie erreichen uns per E-Mail übermyhrservice@mercedes-benz.comoder telefonisch unter 0711/17-99000 (Mo-Fr 10-12 Uhr & 13-15 Uhr).\n\n\nBenefits\n\n\n- Barriere­frei­heit\n- Kantine, Café\n- Kinder­betreuung\n- Coaching\n- Betriebs­arzt\n- Mobilitäts­angebote\n- Mit­arbeiter Events\n- Mit­arbeiter­rabatte möglich\n- Mit­arbeiter­beteili­gung möglich\n- Mit­arbeiter­handy möglich\n- Essens­zulagen\n- Gesund­heits­maß­nahmen\n- Hybrides Arbeiten möglich\n- Betrieb­liche Alters­ver­sorgung\n- Park­platz\n- Gute An­bindung\n- Flexible Arbeits­zeit möglich\n\n\nKontakt\n\nStefan Maier\nEmail: stefan.ms.maier@mercedes-benz.com\nBenz-Str. Tor 16\n71063 Sindelfingen",
+        "source": "Arbeitsagentur",
+        "scraped_at": "2026-07-04T14:53:33.941005",
+        "api_raw_details": {
+            "stellenangebotsart": "PRAKTIKUM_TRAINEE",
+            "stellenangebotsTitel": "Student*in für Abschlussarbeit/Bachelorarbeit /Masterarbeit (KI-basierte Analyse von...",
+            "quereinstiegGeeignet": false,
+            "stellenangebotsBeschreibung": "Student*in für Abschlussarbeit/Bachelorarbeit /Masterarbeit (KI-basierte Analyse von Kommunikationsdaten in Diagnoseprozessen)\n\nTätigkeitsbereich: Produktion\nFachabteilung: System Engineering Drivetrain & Body\nGesellschaft: Mercedes-Benz AG\nStandort: Sindelfingen\nStartdatum: 01.08.2026\nVeröffentlichungsdatum: 01.08.2026\nStellennummer: MER00044BV\nArbeitszeit: Full time\n\n\nAufgaben\nIm Bereich E/E Architektur- und System Engineering verantworten wir die baureihenübergreifende Diagnosesoftware zur Prüfung und Inbetriebnahme von elektronischen Steuergeräten und Systemen.Im Rahmen von Prüf- und Inbetriebnahmetests treten Testerabbrüche auf, die häufig auf Kommunikationsprobleme zwischen verschiedenen Steuergeräten zurückzuführen sind. Die Analyse dieser Fehler erfolgt bislang nur eingeschränkt, wodurch Transparenz über die tatsächlichen Ursachen fehlt und Optimierungspotenziale nur begrenzt genutzt werdenZiel dieser Abschlussarbeit ist es, ein KI-gestütztes Modell zur Erkennung und Ursachenanalyse von Testerabbrüchen zu entwickeln. Dabei sollen Muster in Kommunikationsdaten identifiziert und relevante Einflussfaktoren herausgearbeitet werden, um eine fundierte Ursachenanalyse zu ermöglichen.\nDiese Herausforderungen kommen auf Sie zu:\n\n- Mitwirkung bei der Analyse komplexer Fragestellungen im Bereich Machine Learning und KI\n- Anwendung und Weiterentwicklung von Methoden zur datengetriebenen Fehleranalyse\n- Umsetzung von Datenanalysen und Modellierungsansätzen mit Python und gängigen Data-Science-Bibliotheken (z. B. pandas, scikit-learn)\n- Einarbeitung in neue Datenquellen sowie Entwicklung von Ansätzen zur Datenaufbereitung und -interpretation\n- Transfer von theoretischem Wissen aus dem Studium in praxisnahe Anwendungen\n- Strukturierte Bearbeitung komplexer Aufgabenstellungen im technischen Umfeld\n- Eigenständige Einarbeitung in neue Themenfelder und Systeme innerhalb eines interdisziplinären Teams\n- Kommunikation von Analyseergebnissen in deutscher und englischer Sprache\n\n\nDie endgültige Themenfindung erfolgt in Absprache mit der Hochschule, Ihnen und uns.\n\nDie Tätigkeit kann ab August 2026 beginnen.\n\n\nQualifikationen\n\n- Studiengang im Bereich Informatik, Data Science, Elektrotechnik, Wirtschaftsinformatik oder vergleichbar\n- Interesse an Machine Learning, KI und datengetriebener Fehleranalyse\n- Gute Kenntnisse in Python und gängigen Data-Science-Bibliotheken (z. B. pandas, scikit-learn) von Vorteil\n- Erste Erfahrung in Datenanalyse, Modellierung oder Signal-/Kommunikationsdaten von Vorteil\n- Analytisches Denkvermögen und strukturierte Arbeitsweise\n- Eigeninitiative und Motivation, sich in komplexe Systeme einzuarbeiten\n- Gute Deutsch- und Englischkenntnisse\n\n\nZusätzliche Informationen:\n\nWir freuen uns auf Ihre Online-Bewerbung mit Lebenslauf, Anschreiben, Zeugnissen,  aktueller Immatrikulationsbescheinigung mit Angabe des Fachsemesters und Nachweis über die Regelstudienzeit. Bitte vergessen Sie nicht im Online-Formular Ihre Dokumente als \"relevant für diese Bewerbung\" zu markieren und die maximale Dateigröße von 5 MB zu beachten.\n\nWeiterführende Informationen zu den Einstellkriterien finden Siehier  .\n\nSchwerbehinderte und gleichgestellte Bewerbende sind herzlich willkommen! Die Schwerbehindertenvertretung (sbv-sindelfingen@mercedes-benz.com) unterstützt Sie gerne im Bewerbungsprozess.\n\nHR Services hilft Ihnen bei Fragen zum Bewerbungsprozess gerne weiter. Sie erreichen uns per E-Mail übermyhrservice@mercedes-benz.comoder telefonisch unter 0711/17-99000 (Mo-Fr 10-12 Uhr & 13-15 Uhr).\n\n\nBenefits\n\n\n- Barriere­frei­heit\n- Kantine, Café\n- Kinder­betreuung\n- Coaching\n- Betriebs­arzt\n- Mobilitäts­angebote\n- Mit­arbeiter Events\n- Mit­arbeiter­rabatte möglich\n- Mit­arbeiter­beteili­gung möglich\n- Mit­arbeiter­handy möglich\n- Essens­zulagen\n- Gesund­heits­maß­nahmen\n- Hybrides Arbeiten möglich\n- Betrieb­liche Alters­ver­sorgung\n- Park­platz\n- Gute An­bindung\n- Flexible Arbeits­zeit möglich\n\n\nKontakt\n\nStefan Maier\nEmail: stefan.ms.maier@mercedes-benz.com\nBenz-Str. Tor 16\n71063 Sindelfingen",
+            "geforderterBildungsabschluss": "NICHT_RELEVANT",
+            "arbeitszeitSchichtNachtWochenende": false,
+            "arbeitszeitTeilzeitAbend": false,
+            "arbeitszeitTeilzeitNachmittag": false,
+            "arbeitszeitTeilzeitVormittag": false,
+            "arbeitszeitTeilzeitFlexibel": false,
+            "arbeitszeitVollzeit": true,
+            "eintrittszeitraum": {
+                "von": "2026-08-01"
+            },
+            "verguetungsangabe": "KEINE_ANGABEN",
+            "vertragsdauer": "KEINE_ANGABE",
+            "istGeringfuegigeBeschaeftigung": false,
+            "istBehinderungGefordert": false,
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "plz": "71063",
+                        "ort": "Sindelfingen",
+                        "region": "BADEN_WUERTTEMBERG",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 48.7093407,
+                    "laenge": 8.9960969
+                }
+            ],
+            "homeofficemoeglich": false,
+            "chiffrenummer": "MER00044BV",
+            "istPrivateArbeitsvermittlung": false,
+            "istArbeitnehmerUeberlassung": false,
+            "veroeffentlichungszeitraum": {
+                "von": "2026-06-16"
+            },
+            "datumErsteVeroeffentlichung": "2026-06-16",
+            "aenderungsdatum": "2026-06-17T12:33:51.192",
+            "istBetreut": true,
+            "hauptberuf": "Informatiker/in",
+            "firma": "Mercedes-Benz Group AG",
+            "arbeitgeberKundennummerHash": "bYpSzo25jH8dzHywMh1uD_MCt5b5rndEW4jvwEZ3HUQ=",
+            "allianzpartnerUrl": "www.mercedes-benz.de",
+            "allianzpartnerName": "Mercedes-Benz AG",
+            "referenznummer": "13151-1587718-1-S"
+        }
+    },
+    {
+        "id": "16604-960508-008-S",
+        "title": "Masterarbeit: Unsicherheiten neuronaler Netze für autonome maritime Systeme",
+        "company": "TKMS ATLAS ELEKTRONIK GmbH",
+        "description": "\n# Unternehmen\nTKMS ATLAS ELEKTRONIK ist ein Unternehmen der TKMS Gruppe. Seit Jahrzehnten unterstützen wir Marinen auf der ganzen Welt dabei, die Meere sicherer zu machen. Unseren Kunden bieten wir umfassende Lösungen in Sensorik und Elektronik. Vom Sonar über unbemannte Fahrzeuge und Minenabwehrsystemen bis hin zu Kommunikationsanlagen. Alles aus einer Hand. Bereit mit den Besten zu arbeiten? Werde Teil unseres Teams aus mehr als 8.500 Kolleginnen und Kollegen bei TKMS. Als wachsendes Marineunternehmen bieten wir zukunftssichere Entwicklungsmöglichkeiten in einem internationalen, diversen Hightechumfeld. Wir entwickeln Stärke.\n            \n# Aufgaben\n- Durchführung einer Literaturrecherche im Bereich Explainable AI (XAI)\n - Implementierung einer Pipeline, um Unsicherheit und Erklärbarkeit neuronaler Netze gegenüberzustellen\n - Evaluierung von Metriken im Kontext sicherheitskritischer Anforderungen für Unmanned Surface Vehicles (USVs)\n - Entwicklung missionsspezifischer und sicherheitsrelevanter Bewertungskriterien\n\n# Profil\n- Laufendes technisches Studium, z. B. in Angewandter KI, Informatik, Physik, Machine Learning, Data Science oder vergleichbar\n - Kenntnisse in den Bereichen Machine Learning oder Deep Learning\n - Erfahrung im Bereich Computer Vision\n - Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift\n - Selbstständige und systematische Arbeitsweise\n - Ausgeprägte Kommunikationsfähigkeit und Fähigkeit zur interdisziplinären Zusammenarbeit\n\n# Das bieten wir\nFür uns ist es selbstverständlich, Dir optimale Rahmenbedingungen zu bieten. Dazu gehören unter anderem:\n - Welcomeday und Onboardingprogramm\n - Attraktive (außer-) tarifliche Vergütung\n - Flexible und familienfreundliche Arbeitszeitgestaltung durch Gleitzeit-/ und Lebensarbeitszeitkonto sowie mobiles Arbeiten\n - 30 Tage Jahresurlaub sowie Sonderurlaub gemäß Tarifvertrag\n - Hervorragende betriebliche Altersversorgung\n - Spannende Aufgaben an innovativen Produkten in einem wachsenden Marineunternehmen\n - Zuschuss zum Jobticket bzw. Deutschlandticket\n - Firmenfitness mit bundesweiten Verbundpartnern\n - Bikeleasing\n - Umfassende Zusatzleistungen / attraktive externe Angebote\n - Individuelle Lern- undamp; Entwicklungsmöglichkeiten in Präsenz und digital\n - Umfassendes Gesundheitsmanagement inkl. Präventionsangebote\n - Enge Zusammenarbeit mit Führungskräften und der Mitarbeitendenvertretung\n \nKollegiale Zusammenarbeit und Respekt im Umgang miteinander das findest Du bei uns seit über 185 Jahren! Wenn Dir das genauso wichtig ist, dann bewirb Dich jetzt online unter Angabe Deiner Gehaltsvorstellung und Deiner aktuellen Kündigungsfrist.\n\n# Kontakt\nAlena Telch\nTalent Acquisition Partner\n \n\n# Wir wertschätzen Vielfalt\nWir wertschätzen Vielfalt und begrüßen daher alle Bewerbungen unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion/ Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identität.\n        ",
+        "source": "Arbeitsagentur",
+        "scraped_at": "2026-07-04T14:53:34.799545",
+        "api_raw_details": {
+            "stellenangebotsart": "PRAKTIKUM_TRAINEE",
+            "stellenangebotsTitel": "Masterarbeit: Unsicherheiten neuronaler Netze für autonome maritime Systeme",
+            "quereinstiegGeeignet": false,
+            "stellenangebotsBeschreibung": "\n# Unternehmen\nTKMS ATLAS ELEKTRONIK ist ein Unternehmen der TKMS Gruppe. Seit Jahrzehnten unterstützen wir Marinen auf der ganzen Welt dabei, die Meere sicherer zu machen. Unseren Kunden bieten wir umfassende Lösungen in Sensorik und Elektronik. Vom Sonar über unbemannte Fahrzeuge und Minenabwehrsystemen bis hin zu Kommunikationsanlagen. Alles aus einer Hand. Bereit mit den Besten zu arbeiten? Werde Teil unseres Teams aus mehr als 8.500 Kolleginnen und Kollegen bei TKMS. Als wachsendes Marineunternehmen bieten wir zukunftssichere Entwicklungsmöglichkeiten in einem internationalen, diversen Hightechumfeld. Wir entwickeln Stärke.\n            \n# Aufgaben\n- Durchführung einer Literaturrecherche im Bereich Explainable AI (XAI)\n - Implementierung einer Pipeline, um Unsicherheit und Erklärbarkeit neuronaler Netze gegenüberzustellen\n - Evaluierung von Metriken im Kontext sicherheitskritischer Anforderungen für Unmanned Surface Vehicles (USVs)\n - Entwicklung missionsspezifischer und sicherheitsrelevanter Bewertungskriterien\n\n# Profil\n- Laufendes technisches Studium, z. B. in Angewandter KI, Informatik, Physik, Machine Learning, Data Science oder vergleichbar\n - Kenntnisse in den Bereichen Machine Learning oder Deep Learning\n - Erfahrung im Bereich Computer Vision\n - Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift\n - Selbstständige und systematische Arbeitsweise\n - Ausgeprägte Kommunikationsfähigkeit und Fähigkeit zur interdisziplinären Zusammenarbeit\n\n# Das bieten wir\nFür uns ist es selbstverständlich, Dir optimale Rahmenbedingungen zu bieten. Dazu gehören unter anderem:\n - Welcomeday und Onboardingprogramm\n - Attraktive (außer-) tarifliche Vergütung\n - Flexible und familienfreundliche Arbeitszeitgestaltung durch Gleitzeit-/ und Lebensarbeitszeitkonto sowie mobiles Arbeiten\n - 30 Tage Jahresurlaub sowie Sonderurlaub gemäß Tarifvertrag\n - Hervorragende betriebliche Altersversorgung\n - Spannende Aufgaben an innovativen Produkten in einem wachsenden Marineunternehmen\n - Zuschuss zum Jobticket bzw. Deutschlandticket\n - Firmenfitness mit bundesweiten Verbundpartnern\n - Bikeleasing\n - Umfassende Zusatzleistungen / attraktive externe Angebote\n - Individuelle Lern- undamp; Entwicklungsmöglichkeiten in Präsenz und digital\n - Umfassendes Gesundheitsmanagement inkl. Präventionsangebote\n - Enge Zusammenarbeit mit Führungskräften und der Mitarbeitendenvertretung\n \nKollegiale Zusammenarbeit und Respekt im Umgang miteinander das findest Du bei uns seit über 185 Jahren! Wenn Dir das genauso wichtig ist, dann bewirb Dich jetzt online unter Angabe Deiner Gehaltsvorstellung und Deiner aktuellen Kündigungsfrist.\n\n# Kontakt\nAlena Telch\nTalent Acquisition Partner\n \n\n# Wir wertschätzen Vielfalt\nWir wertschätzen Vielfalt und begrüßen daher alle Bewerbungen unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion/ Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identität.\n        ",
+            "geforderterBildungsabschluss": "NICHT_RELEVANT",
+            "arbeitszeitSchichtNachtWochenende": false,
+            "arbeitszeitTeilzeitAbend": false,
+            "arbeitszeitTeilzeitNachmittag": false,
+            "arbeitszeitTeilzeitVormittag": false,
+            "arbeitszeitTeilzeitFlexibel": false,
+            "arbeitszeitVollzeit": true,
+            "eintrittszeitraum": {
+                "von": "2026-05-21"
+            },
+            "verguetungsangabe": "KEINE_ANGABEN",
+            "vertragsdauer": "KEINE_ANGABE",
+            "istGeringfuegigeBeschaeftigung": false,
+            "istBehinderungGefordert": false,
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "plz": "28309",
+                        "ort": "Bremen",
+                        "region": "BREMEN",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 53.0495492,
+                    "laenge": 8.8953445
+                }
+            ],
+            "homeofficemoeglich": false,
+            "chiffrenummer": "DE_TKMS01140",
+            "istPrivateArbeitsvermittlung": false,
+            "istArbeitnehmerUeberlassung": false,
+            "veroeffentlichungszeitraum": {
+                "von": "2026-05-21"
+            },
+            "datumErsteVeroeffentlichung": "2026-05-21",
+            "aenderungsdatum": "2026-05-26T12:48:28.887",
+            "istBetreut": true,
+            "hauptberuf": "Bachelor Professional - Künstliche Intelligenz und Maschinelles Lernen",
+            "firma": "TKMS ATLAS ELEKTRONIK GmbH",
+            "arbeitgeberKundennummerHash": "sv4n34gb2fKVPT0RfQu3ajt8dnEkY4fol-BDRul7vOw=",
+            "allianzpartnerUrl": "www.thyssenkrupp.com",
+            "allianzpartnerName": "thyssenkrupp Materials Services GmbH",
+            "referenznummer": "16604-960508-008-S"
+        }
+    },
+    {
+        "id": "12462-1576430-1-S",
+        "title": "Masterarbeit Machine Learning für synthetische Datengenerierung im Bereich Gestenerkennung (w/m/x)",
+        "company": "BMW AG",
+        "description": "Stellenreferenz: 185146\n\n\nMit unseren Marken BMW, MINI, Rolls-Royce und BMW Motorrad sind wir einer der weltweit führenden Premium-Hersteller von Automobilen sowie Motorrädern und darüber hinaus Anbieter von Premium-Finanz- und Mobilitätsdienstleistungen.\n\n\nTHEORETISCH DIE BESTE ENTSCHEIDUNG. PRAKTISCH AUCH.\n\nTEILE DEINE LEIDENSCHAFT.\n\nNur hochprofessionelle Abläufe in dynamischen Teams produzieren innovative Spitzentechnologie. Aber Fahrfreude wird bei uns von der Entwicklung bis zur Fertigung vor allem auch mit Spaß an der Arbeit und Begeisterung für das gemeinsame Projekt realisiert. Deshalb geben wir Studierenden bei uns nicht nur die Gelegenheit zum Zuhören, sondern auch zum Mitreden und Weiterdenken.\n\nUnser Team bei der BMW Group entwickelt innovative Methoden zur radarbasierten Gestenerkennung für kontaktlose Fahrzeugfunktionen. Wir erforschen den Einsatz von Machine Learning zur synthetischen Generierung von Bewegungs- und Sensordaten und treiben damit die Absicherung und Weiterentwicklung zukünftiger Bedienkonzepte voran.\n\n\nWas erwartet dich?\n\n- Du wirkst mit bei der Einarbeitung in die Themenfelder Gestenerkennung, Sensordatenverarbeitung und generative Modelle.\n- Außerdem unterstützt du bei der Recherche aktueller ML-Verfahren im Bereich synthetischer Datengenerierung.\n- Darüber hinaus hilfst du bei der Analyse und Aufbereitung vorhandener Bewegungs- und Sensordatensätze.\n- Zudem wirkst du mit bei der Konzeption und Umsetzung eines ML-basierten Ansatzes zur synthetischen Datengenerierung.\n- Außerdem unterstützt du bei der Evaluation der Ergebnisse anhand geeigneter Metriken und realer Referenzdaten.\n- Darüber hinaus trägst du zur engen Zusammenarbeit mit einem interdisziplinären Team aus Forschung und Entwicklung bei.\n- Du unterstützt bei der wissenschaftlichen Dokumentation der Ergebnisse im Rahmen der Masterarbeit.\n\n\nWas bringst du mit?\n\n- Masterstudium im Bereich Informatik, Data Science, Elektrotechnik, Maschinenbau, Robotik oder vergleichbar.\n- Gute Programmierkenntnisse in Python und C++.\n- Erfahrung oder ausgeprägtes Interesse an Machine Learning, idealerweise mit gängigen Frameworks wie PyTorch oder TensorFlow.\n- Interesse an Signalverarbeitung, Sensorik, Robotik oder Biomechanik.\n- Praktische Erfahrungen in ROS2 wünschenswert.\n- Strukturierte Herangehensweise und wissenschaftlicher Anspruch.\n- Sehr gute Deutsch- oder Englischkenntnisse in Wort und Schrift.\n\n\nMöchtest du an der Zukunft kontaktloser Bedienkonzepte mitforschen und innovative ML-Methoden entwickeln? Dann bewirb dich jetzt!\n\n\nWas bieten wir dir?\n\n- Umfassendes Mentoring & Onboarding.\n- Persönliche & fachliche Weiterentwicklung.\n- Flexible Arbeitszeiten.\n- Mobilarbeit.\n- Attraktive & faire Vergütung.\n- Apartments für Studierende (nach Verfügbarkeit & nur am Standort München).\n- Und vieles mehr siehebmw.jobs/waswirbieten  \n\n\nStartdatum: frühestens ab 01.06.2026\n\nDauer: 6 Monate\n\nArbeitszeit: Vollzeit\n\n\nHilfreiche Tipps zu deiner Bewerbung und dem Bewerbungsprozess findest duhier  .\n\n\nWir bei der BMW Group legen großen Wert auf Gleichbehandlung und Chancengleichheit. Unsere Recruiting-Entscheidungen basieren auf der Persönlichkeit, den Erfahrungen und Fähigkeiten der Bewerber:innen. Mehr dazuhier  .\n\n\nBitte bewirb dich ausschließlich online über unser Karriereportal. Bewerbungen auf anderen Kanälen (insb. E-Mails) können nicht berücksichtigt werden.\n\n\n7",
+        "source": "Arbeitsagentur",
+        "scraped_at": "2026-07-04T14:53:35.660748",
+        "api_raw_details": {
+            "stellenangebotsart": "PRAKTIKUM_TRAINEE",
+            "stellenangebotsTitel": "Masterarbeit Machine Learning für synthetische Datengenerierung im Bereich Gestenerkennung (w/m/x)",
+            "quereinstiegGeeignet": false,
+            "stellenangebotsBeschreibung": "Stellenreferenz: 185146\n\n\nMit unseren Marken BMW, MINI, Rolls-Royce und BMW Motorrad sind wir einer der weltweit führenden Premium-Hersteller von Automobilen sowie Motorrädern und darüber hinaus Anbieter von Premium-Finanz- und Mobilitätsdienstleistungen.\n\n\nTHEORETISCH DIE BESTE ENTSCHEIDUNG. PRAKTISCH AUCH.\n\nTEILE DEINE LEIDENSCHAFT.\n\nNur hochprofessionelle Abläufe in dynamischen Teams produzieren innovative Spitzentechnologie. Aber Fahrfreude wird bei uns von der Entwicklung bis zur Fertigung vor allem auch mit Spaß an der Arbeit und Begeisterung für das gemeinsame Projekt realisiert. Deshalb geben wir Studierenden bei uns nicht nur die Gelegenheit zum Zuhören, sondern auch zum Mitreden und Weiterdenken.\n\nUnser Team bei der BMW Group entwickelt innovative Methoden zur radarbasierten Gestenerkennung für kontaktlose Fahrzeugfunktionen. Wir erforschen den Einsatz von Machine Learning zur synthetischen Generierung von Bewegungs- und Sensordaten und treiben damit die Absicherung und Weiterentwicklung zukünftiger Bedienkonzepte voran.\n\n\nWas erwartet dich?\n\n- Du wirkst mit bei der Einarbeitung in die Themenfelder Gestenerkennung, Sensordatenverarbeitung und generative Modelle.\n- Außerdem unterstützt du bei der Recherche aktueller ML-Verfahren im Bereich synthetischer Datengenerierung.\n- Darüber hinaus hilfst du bei der Analyse und Aufbereitung vorhandener Bewegungs- und Sensordatensätze.\n- Zudem wirkst du mit bei der Konzeption und Umsetzung eines ML-basierten Ansatzes zur synthetischen Datengenerierung.\n- Außerdem unterstützt du bei der Evaluation der Ergebnisse anhand geeigneter Metriken und realer Referenzdaten.\n- Darüber hinaus trägst du zur engen Zusammenarbeit mit einem interdisziplinären Team aus Forschung und Entwicklung bei.\n- Du unterstützt bei der wissenschaftlichen Dokumentation der Ergebnisse im Rahmen der Masterarbeit.\n\n\nWas bringst du mit?\n\n- Masterstudium im Bereich Informatik, Data Science, Elektrotechnik, Maschinenbau, Robotik oder vergleichbar.\n- Gute Programmierkenntnisse in Python und C++.\n- Erfahrung oder ausgeprägtes Interesse an Machine Learning, idealerweise mit gängigen Frameworks wie PyTorch oder TensorFlow.\n- Interesse an Signalverarbeitung, Sensorik, Robotik oder Biomechanik.\n- Praktische Erfahrungen in ROS2 wünschenswert.\n- Strukturierte Herangehensweise und wissenschaftlicher Anspruch.\n- Sehr gute Deutsch- oder Englischkenntnisse in Wort und Schrift.\n\n\nMöchtest du an der Zukunft kontaktloser Bedienkonzepte mitforschen und innovative ML-Methoden entwickeln? Dann bewirb dich jetzt!\n\n\nWas bieten wir dir?\n\n- Umfassendes Mentoring & Onboarding.\n- Persönliche & fachliche Weiterentwicklung.\n- Flexible Arbeitszeiten.\n- Mobilarbeit.\n- Attraktive & faire Vergütung.\n- Apartments für Studierende (nach Verfügbarkeit & nur am Standort München).\n- Und vieles mehr siehebmw.jobs/waswirbieten  \n\n\nStartdatum: frühestens ab 01.06.2026\n\nDauer: 6 Monate\n\nArbeitszeit: Vollzeit\n\n\nHilfreiche Tipps zu deiner Bewerbung und dem Bewerbungsprozess findest duhier  .\n\n\nWir bei der BMW Group legen großen Wert auf Gleichbehandlung und Chancengleichheit. Unsere Recruiting-Entscheidungen basieren auf der Persönlichkeit, den Erfahrungen und Fähigkeiten der Bewerber:innen. Mehr dazuhier  .\n\n\nBitte bewirb dich ausschließlich online über unser Karriereportal. Bewerbungen auf anderen Kanälen (insb. E-Mails) können nicht berücksichtigt werden.\n\n\n7",
+            "geforderterBildungsabschluss": "NICHT_RELEVANT",
+            "arbeitszeitSchichtNachtWochenende": false,
+            "arbeitszeitTeilzeitAbend": false,
+            "arbeitszeitTeilzeitNachmittag": false,
+            "arbeitszeitTeilzeitVormittag": false,
+            "arbeitszeitTeilzeitFlexibel": false,
+            "arbeitszeitVollzeit": true,
+            "eintrittszeitraum": {
+                "von": "2026-06-01"
+            },
+            "verguetungsangabe": "KEINE_ANGABEN",
+            "vertragsdauer": "UNBEFRISTET",
+            "istGeringfuegigeBeschaeftigung": false,
+            "istBehinderungGefordert": false,
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "plz": "80809",
+                        "ort": "München",
+                        "region": "BAYERN",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 48.1794094,
+                    "laenge": 11.5532293
+                }
+            ],
+            "homeofficemoeglich": false,
+            "chiffrenummer": "44188355",
+            "istPrivateArbeitsvermittlung": false,
+            "istArbeitnehmerUeberlassung": false,
+            "veroeffentlichungszeitraum": {
+                "von": "2026-05-22"
+            },
+            "datumErsteVeroeffentlichung": "2026-05-22",
+            "aenderungsdatum": "2026-06-10T11:14:28.113",
+            "istBetreut": true,
+            "hauptberuf": "Machine Learning Engineer",
+            "firma": "BMW AG",
+            "arbeitgeberKundennummerHash": "3Ifl8XV7wSH1BWHSmS_l6uQu2A0SnyaF8PTVphIxlNc=",
+            "allianzpartnerUrl": "http://www.bmwgroup.jobs",
+            "allianzpartnerName": "BMW AG",
+            "referenznummer": "12462-1576430-1-S"
+        }
+    },
+    {
+        "id": "16604-961473-008-S",
+        "title": "Masterarbeit: Definition von geeignetem Risikomaß für Auswertung von maritimen KI-Agente (m/w/d)...",
+        "company": "TKMS ATLAS ELEKTRONIK GmbH",
+        "description": "\n# Unternehmen\nTKMS ATLAS ELEKTRONIK ist ein Unternehmen der TKMS Gruppe. Seit Jahrzehnten unterstützen wir Marinen auf der ganzen Welt dabei, die Meere sicherer zu machen. Unseren Kunden bieten wir umfassende Lösungen in Sensorik und Elektronik. Vom Sonar über unbemannte Fahrzeuge und Minenabwehrsystemen bis hin zu Kommunikationsanlagen. Alles aus einer Hand. Bereit mit den Besten zu arbeiten? Werde Teil unseres Teams aus mehr als 8.500 Kolleginnen und Kollegen bei TKMS. Als wachsendes Marineunternehmen bieten wir zukunftssichere Entwicklungsmöglichkeiten in einem internationalen, diversen Hightechumfeld. Wir entwickeln Stärke.\nDas A-LAB ist ein internes Forschungsinstitut von TKMS ATLAS ELEKTRONIK. Als Innovationstreiber beschäftigen wir uns mit maritimen Technologien der Zukunft. In einem Team aus Studierenden und Promovierenden bekommst du die Chance, dein Forschungs- und Entwicklungsthema voranzutreiben.\n            \n# Aufgaben\n- Literaturrecherche zu Risikomaßen zur Steuerung von Suchstrategien.\n - Kritische Analyse der gefundenen Metriken und Bewertung der Eignung.\n - Entwicklung (und Training) von maritimen Bewegungsmodellen unter Berücksichtigung der gewählten Risikomaße.\n - Erweiterung von maritimer Simulation Berechnung der Risikomaße und um angepasste Bewegungsmodelle.\n - Integration in bestehende Python-Simulation der Arbeitsgruppe.\n - Zusammenfassung und Dokumentation der Ergebnisse zur Ableitung konkreter Handlungsempfehlungen.\n\n# Profil\n- Laufendes Studium in einem MINT Fachgebiet, wie Mathematik, Physik, Data Science oder Informatik; idealerweise mit Vertiefung in Stochastik, beispielsweise durch Risikotheorie oder Finanzmathematik/ Versicherungsmathematik.\n - Erste Erfahrungen mit systematischen Literaturrecherchen und Kenntnis gängiger Datenbanken und wissenschaftlicher Suchstrategien sind von Vorteil.\n - Programmierkenntnisse in Python sind erforderlich.\n - Erste Erfahrungen im Bereich Simulation und Reinforcement Learning sind von Vorteil.\n - Erfahrungen mit Sonar oder Akustik / Schallausbreitung sind von Vorteil.\n - Sehr gute analytische Fähigkeiten und die Fähigkeit, komplexe wissenschaftliche Texte zu erfassen und zu strukturieren.\n - Selbständige und systematische Arbeitsweise.\n - Sehr gute Deutsch- und gute Englischkenntnisse in Wort und Schrift.\n\n# Das bieten wir\nFür uns ist es selbstverständlich, Dir optimale Rahmenbedingungen zu bieten. Dazu gehören unter anderem:\n - Welcomeday und Onboardingprogramm\n - Attraktive (außer-) tarifliche Vergütung\n - Flexible und familienfreundliche Arbeitszeitgestaltung durch Gleitzeit-/ und Lebensarbeitszeitkonto sowie Homeoffice-Regelung\n - 30 Tage Jahresurlaub sowie Sonderurlaub gemäß Tarifvertrag\n - Hervorragende betriebliche Altersversorgung\n - Spannende Aufgaben an innovativen Produkten in einem wachsenden Marineunternehmen\n - Zuschuss zum Jobticket bzw. Deutschlandticket\n - Firmenfitness mit bundesweiten Verbundpartnern\n - Bikeleasing\n - Umfassende Zusatzleistungen / attraktive externe Angebote\n - Individuelle Lern- undamp; Entwicklungsmöglichkeiten in Präsenz und digital\n - Umfassendes Gesundheitsmanagement inkl. Präventionsangebote\n - Enge Zusammenarbeit mit Führungskräften und der Mitarbeitendenvertretung\n \nKollegiale Zusammenarbeit und Respekt im Umgang miteinander das findest Du bei uns seit über 185 Jahren! Wenn Dir das genauso wichtig ist, dann bewirb Dich jetzt online unter Angabe Deiner Gehaltsvorstellung und Deiner aktuellen Kündigungsfrist.\n\n# Kontakt\nAlena Telch\nTalent Acquisition Partner\n \n\n# Wir wertschätzen Vielfalt\nWir wertschätzen Vielfalt und begrüßen daher alle Bewerbungen unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion/ Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identität.\n        ",
+        "source": "Arbeitsagentur",
+        "scraped_at": "2026-07-04T14:53:36.535351",
+        "api_raw_details": {
+            "stellenangebotsart": "PRAKTIKUM_TRAINEE",
+            "stellenangebotsTitel": "Masterarbeit: Definition von geeignetem Risikomaß für Auswertung von maritimen KI-Agente (m/w/d)...",
+            "quereinstiegGeeignet": false,
+            "stellenangebotsBeschreibung": "\n# Unternehmen\nTKMS ATLAS ELEKTRONIK ist ein Unternehmen der TKMS Gruppe. Seit Jahrzehnten unterstützen wir Marinen auf der ganzen Welt dabei, die Meere sicherer zu machen. Unseren Kunden bieten wir umfassende Lösungen in Sensorik und Elektronik. Vom Sonar über unbemannte Fahrzeuge und Minenabwehrsystemen bis hin zu Kommunikationsanlagen. Alles aus einer Hand. Bereit mit den Besten zu arbeiten? Werde Teil unseres Teams aus mehr als 8.500 Kolleginnen und Kollegen bei TKMS. Als wachsendes Marineunternehmen bieten wir zukunftssichere Entwicklungsmöglichkeiten in einem internationalen, diversen Hightechumfeld. Wir entwickeln Stärke.\nDas A-LAB ist ein internes Forschungsinstitut von TKMS ATLAS ELEKTRONIK. Als Innovationstreiber beschäftigen wir uns mit maritimen Technologien der Zukunft. In einem Team aus Studierenden und Promovierenden bekommst du die Chance, dein Forschungs- und Entwicklungsthema voranzutreiben.\n            \n# Aufgaben\n- Literaturrecherche zu Risikomaßen zur Steuerung von Suchstrategien.\n - Kritische Analyse der gefundenen Metriken und Bewertung der Eignung.\n - Entwicklung (und Training) von maritimen Bewegungsmodellen unter Berücksichtigung der gewählten Risikomaße.\n - Erweiterung von maritimer Simulation Berechnung der Risikomaße und um angepasste Bewegungsmodelle.\n - Integration in bestehende Python-Simulation der Arbeitsgruppe.\n - Zusammenfassung und Dokumentation der Ergebnisse zur Ableitung konkreter Handlungsempfehlungen.\n\n# Profil\n- Laufendes Studium in einem MINT Fachgebiet, wie Mathematik, Physik, Data Science oder Informatik; idealerweise mit Vertiefung in Stochastik, beispielsweise durch Risikotheorie oder Finanzmathematik/ Versicherungsmathematik.\n - Erste Erfahrungen mit systematischen Literaturrecherchen und Kenntnis gängiger Datenbanken und wissenschaftlicher Suchstrategien sind von Vorteil.\n - Programmierkenntnisse in Python sind erforderlich.\n - Erste Erfahrungen im Bereich Simulation und Reinforcement Learning sind von Vorteil.\n - Erfahrungen mit Sonar oder Akustik / Schallausbreitung sind von Vorteil.\n - Sehr gute analytische Fähigkeiten und die Fähigkeit, komplexe wissenschaftliche Texte zu erfassen und zu strukturieren.\n - Selbständige und systematische Arbeitsweise.\n - Sehr gute Deutsch- und gute Englischkenntnisse in Wort und Schrift.\n\n# Das bieten wir\nFür uns ist es selbstverständlich, Dir optimale Rahmenbedingungen zu bieten. Dazu gehören unter anderem:\n - Welcomeday und Onboardingprogramm\n - Attraktive (außer-) tarifliche Vergütung\n - Flexible und familienfreundliche Arbeitszeitgestaltung durch Gleitzeit-/ und Lebensarbeitszeitkonto sowie Homeoffice-Regelung\n - 30 Tage Jahresurlaub sowie Sonderurlaub gemäß Tarifvertrag\n - Hervorragende betriebliche Altersversorgung\n - Spannende Aufgaben an innovativen Produkten in einem wachsenden Marineunternehmen\n - Zuschuss zum Jobticket bzw. Deutschlandticket\n - Firmenfitness mit bundesweiten Verbundpartnern\n - Bikeleasing\n - Umfassende Zusatzleistungen / attraktive externe Angebote\n - Individuelle Lern- undamp; Entwicklungsmöglichkeiten in Präsenz und digital\n - Umfassendes Gesundheitsmanagement inkl. Präventionsangebote\n - Enge Zusammenarbeit mit Führungskräften und der Mitarbeitendenvertretung\n \nKollegiale Zusammenarbeit und Respekt im Umgang miteinander das findest Du bei uns seit über 185 Jahren! Wenn Dir das genauso wichtig ist, dann bewirb Dich jetzt online unter Angabe Deiner Gehaltsvorstellung und Deiner aktuellen Kündigungsfrist.\n\n# Kontakt\nAlena Telch\nTalent Acquisition Partner\n \n\n# Wir wertschätzen Vielfalt\nWir wertschätzen Vielfalt und begrüßen daher alle Bewerbungen unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion/ Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identität.\n        ",
+            "geforderterBildungsabschluss": "NICHT_RELEVANT",
+            "arbeitszeitSchichtNachtWochenende": false,
+            "arbeitszeitTeilzeitAbend": false,
+            "arbeitszeitTeilzeitNachmittag": false,
+            "arbeitszeitTeilzeitVormittag": false,
+            "arbeitszeitTeilzeitFlexibel": false,
+            "arbeitszeitVollzeit": true,
+            "eintrittszeitraum": {
+                "von": "2026-06-01"
+            },
+            "verguetungsangabe": "KEINE_ANGABEN",
+            "vertragsdauer": "KEINE_ANGABE",
+            "istGeringfuegigeBeschaeftigung": false,
+            "istBehinderungGefordert": false,
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "plz": "28309",
+                        "ort": "Bremen",
+                        "region": "BREMEN",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 53.0495492,
+                    "laenge": 8.8953445
+                }
+            ],
+            "homeofficemoeglich": false,
+            "chiffrenummer": "DE_TKMS00213",
+            "istPrivateArbeitsvermittlung": false,
+            "istArbeitnehmerUeberlassung": false,
+            "veroeffentlichungszeitraum": {
+                "von": "2026-06-01"
+            },
+            "datumErsteVeroeffentlichung": "2026-06-01",
+            "aenderungsdatum": "2026-06-01T11:55:26.048",
+            "istBetreut": true,
+            "hauptberuf": "Bachelor Professional - Künstliche Intelligenz und Maschinelles Lernen",
+            "firma": "TKMS ATLAS ELEKTRONIK GmbH",
+            "arbeitgeberKundennummerHash": "sv4n34gb2fKVPT0RfQu3ajt8dnEkY4fol-BDRul7vOw=",
+            "allianzpartnerUrl": "www.thyssenkrupp.com",
+            "allianzpartnerName": "thyssenkrupp Materials Services GmbH",
+            "referenznummer": "16604-961473-008-S"
+        }
+    },
+    {
+        "id": "13151-1585675-1-S",
+        "title": "Studentin*in für Masterarbeit im Bereich KI-gestützte Softwareentwicklung und Multi-Agenten-Systeme",
+        "company": "Mercedes-Benz Group AG",
+        "description": "Tätigkeitsbereich: IT/Telekommunikation\nFachabteilung: MB.OSvision & AI Technologies\nGesellschaft: Mercedes-Benz AG\nStandort: Böblingen\nStartdatum: 03.08.2026\nVeröffentlichungsdatum: 03.08.2026\nStellennummer: MER00043X4\nArbeitszeit: Full time\n\n\nAufgaben\n\nDie Mercedes-Benz Group AG ist eines der erfolgreichsten Automobilunternehmen der Welt. Mit der Mercedes-Benz AG gehört der Fahrzeughersteller zu den größten Anbietern von Premium- und Luxus-Pkw und Vans.\n\nTeil von Mercedes-Benz zu werden bedeutet den Aufgabenbereich zu finden, in dem Sie Ihre Talente individuell entfalten können. Es bedeutet in einem globalen Automobilunternehmen, das das Ziel hat die begehrenswertesten Autos der Welt zu bauen, sein Bestes zu geben. Dabei werden Sie von visionären Kolleginnen und Kollegen unterstützt, die ihren Pioniergeist teilen. Together for excellence.\n\nUnser Fachbereich treibt die Entwicklung innovativer Softwarelösungen und den Einsatz von Künstlicher Intelligenz voran, um komplexe Herausforderungen in der Produktentwicklung und im Engineering zu meistern. Wir arbeiten an zukunftsweisenden Technologien, die unsere Prozesse effizienter und intelligenter gestalten.\n\nDiese Herausforderungen kommen auf Sie zu:\n\n- Entwicklung und Prototyping von KI-gestützten Lösungen zur Automatisierung und Optimierung von Engineering-Prozessen\n- Erforschung und Implementierung innovativer Konzepte im Bereich Large Language Models (LLMs) und Multi-Agenten-Systeme\n- Aktive Mitarbeit bei der Konzeption, Implementierung und Evaluation von Software-Prototypen für zukunftsweisende Anwendungsfälle\n\n\nDie endgültige Themenfindung erfolgt in Absprache mit der Hochschule, Ihnen und uns.\n\nDie Tätigkeit kann ab August 2026 beginnen.\n\n\nQualifikationen\n\n- Studiengang: Informatik, Data Science, Künstliche Intelligenz, Software Engineering oder einem vergleichbaren technischen Studiengang\n- Sichere Deutsch- und Englischkenntnisse in Wort und Schrift\n- Sicherer Umgang mit MS-Office\n- Engagement und Teamfähigkeit\n- Analytische Denkweise und strategische Arbeitsweise\n\n\nZusätzliche Informationen:\n\nWir freuen uns auf Ihre Online-Bewerbung mit Lebenslauf, Anschreiben, Zeugnissen,  aktueller Immatrikulationsbescheinigung mit Angabe des Fachsemesters und Nachweis über die Regelstudienzeit. Bitte vergessen Sie nicht im Online-Formular Ihre Dokumente als \"relevant für diese Bewerbung\" zu markieren und die maximale Dateigröße von 5 MB zu beachten.\n\nWeiterführende Informationen zu den Einstellkriterien finden Siehier  .\n\nSchwerbehinderte und gleichgestellte Bewerbende sind herzlich willkommen! Die Schwerbehindertenvertretung (sbv-sindelfingen@mercedes-benz.com) unterstützt Sie gerne im Bewerbungsprozess.\n\nHR Services hilft Ihnen bei Fragen zum Bewerbungsprozess gerne weiter. Sie erreichen uns per E-Mail übermyhrservice@mercedes-benz.comoder telefonisch unter 0711/17-99000 (Mo-Fr 10-12 Uhr & 13-15 Uhr).\n\n\nBenefits\n\n\n- Barriere­frei­heit\n- Kantine, Café\n- Kinder­betreuung\n- Coaching\n- Betriebs­arzt\n- Mobilitäts­angebote\n- Mit­arbeiter Events\n- Mit­arbeiter­rabatte möglich\n- Mit­arbeiter­beteili­gung möglich\n- Mit­arbeiter­handy möglich\n- Essens­zulagen\n- Gesund­heits­maß­nahmen\n- Hybrides Arbeiten möglich\n- Betrieb­liche Alters­ver­sorgung\n- Park­platz\n- Gute An­bindung\n- Flexible Arbeits­zeit möglich\n\n\nKontakt\n\nTimo Klein\nEmail: timo.klein@mercedes-benz.com\nLeibnizstr. 2\n71032 Böblingen",
+        "source": "Arbeitsagentur",
+        "scraped_at": "2026-07-04T14:53:37.394087",
+        "api_raw_details": {
+            "stellenangebotsart": "PRAKTIKUM_TRAINEE",
+            "stellenangebotsTitel": "Studentin*in für Masterarbeit im Bereich KI-gestützte Softwareentwicklung und Multi-Agenten-Systeme",
+            "quereinstiegGeeignet": false,
+            "stellenangebotsBeschreibung": "Tätigkeitsbereich: IT/Telekommunikation\nFachabteilung: MB.OSvision & AI Technologies\nGesellschaft: Mercedes-Benz AG\nStandort: Böblingen\nStartdatum: 03.08.2026\nVeröffentlichungsdatum: 03.08.2026\nStellennummer: MER00043X4\nArbeitszeit: Full time\n\n\nAufgaben\n\nDie Mercedes-Benz Group AG ist eines der erfolgreichsten Automobilunternehmen der Welt. Mit der Mercedes-Benz AG gehört der Fahrzeughersteller zu den größten Anbietern von Premium- und Luxus-Pkw und Vans.\n\nTeil von Mercedes-Benz zu werden bedeutet den Aufgabenbereich zu finden, in dem Sie Ihre Talente individuell entfalten können. Es bedeutet in einem globalen Automobilunternehmen, das das Ziel hat die begehrenswertesten Autos der Welt zu bauen, sein Bestes zu geben. Dabei werden Sie von visionären Kolleginnen und Kollegen unterstützt, die ihren Pioniergeist teilen. Together for excellence.\n\nUnser Fachbereich treibt die Entwicklung innovativer Softwarelösungen und den Einsatz von Künstlicher Intelligenz voran, um komplexe Herausforderungen in der Produktentwicklung und im Engineering zu meistern. Wir arbeiten an zukunftsweisenden Technologien, die unsere Prozesse effizienter und intelligenter gestalten.\n\nDiese Herausforderungen kommen auf Sie zu:\n\n- Entwicklung und Prototyping von KI-gestützten Lösungen zur Automatisierung und Optimierung von Engineering-Prozessen\n- Erforschung und Implementierung innovativer Konzepte im Bereich Large Language Models (LLMs) und Multi-Agenten-Systeme\n- Aktive Mitarbeit bei der Konzeption, Implementierung und Evaluation von Software-Prototypen für zukunftsweisende Anwendungsfälle\n\n\nDie endgültige Themenfindung erfolgt in Absprache mit der Hochschule, Ihnen und uns.\n\nDie Tätigkeit kann ab August 2026 beginnen.\n\n\nQualifikationen\n\n- Studiengang: Informatik, Data Science, Künstliche Intelligenz, Software Engineering oder einem vergleichbaren technischen Studiengang\n- Sichere Deutsch- und Englischkenntnisse in Wort und Schrift\n- Sicherer Umgang mit MS-Office\n- Engagement und Teamfähigkeit\n- Analytische Denkweise und strategische Arbeitsweise\n\n\nZusätzliche Informationen:\n\nWir freuen uns auf Ihre Online-Bewerbung mit Lebenslauf, Anschreiben, Zeugnissen,  aktueller Immatrikulationsbescheinigung mit Angabe des Fachsemesters und Nachweis über die Regelstudienzeit. Bitte vergessen Sie nicht im Online-Formular Ihre Dokumente als \"relevant für diese Bewerbung\" zu markieren und die maximale Dateigröße von 5 MB zu beachten.\n\nWeiterführende Informationen zu den Einstellkriterien finden Siehier  .\n\nSchwerbehinderte und gleichgestellte Bewerbende sind herzlich willkommen! Die Schwerbehindertenvertretung (sbv-sindelfingen@mercedes-benz.com) unterstützt Sie gerne im Bewerbungsprozess.\n\nHR Services hilft Ihnen bei Fragen zum Bewerbungsprozess gerne weiter. Sie erreichen uns per E-Mail übermyhrservice@mercedes-benz.comoder telefonisch unter 0711/17-99000 (Mo-Fr 10-12 Uhr & 13-15 Uhr).\n\n\nBenefits\n\n\n- Barriere­frei­heit\n- Kantine, Café\n- Kinder­betreuung\n- Coaching\n- Betriebs­arzt\n- Mobilitäts­angebote\n- Mit­arbeiter Events\n- Mit­arbeiter­rabatte möglich\n- Mit­arbeiter­beteili­gung möglich\n- Mit­arbeiter­handy möglich\n- Essens­zulagen\n- Gesund­heits­maß­nahmen\n- Hybrides Arbeiten möglich\n- Betrieb­liche Alters­ver­sorgung\n- Park­platz\n- Gute An­bindung\n- Flexible Arbeits­zeit möglich\n\n\nKontakt\n\nTimo Klein\nEmail: timo.klein@mercedes-benz.com\nLeibnizstr. 2\n71032 Böblingen",
+            "geforderterBildungsabschluss": "NICHT_RELEVANT",
+            "arbeitszeitSchichtNachtWochenende": false,
+            "arbeitszeitTeilzeitAbend": false,
+            "arbeitszeitTeilzeitNachmittag": false,
+            "arbeitszeitTeilzeitVormittag": false,
+            "arbeitszeitTeilzeitFlexibel": false,
+            "arbeitszeitVollzeit": true,
+            "eintrittszeitraum": {
+                "von": "2026-08-01"
+            },
+            "verguetungsangabe": "KEINE_ANGABEN",
+            "vertragsdauer": "KEINE_ANGABE",
+            "istGeringfuegigeBeschaeftigung": false,
+            "istBehinderungGefordert": false,
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "plz": "71032",
+                        "ort": "Böblingen",
+                        "region": "BADEN_WUERTTEMBERG",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 48.6829366,
+                    "laenge": 9.0335457
+                }
+            ],
+            "homeofficemoeglich": false,
+            "chiffrenummer": "MER00043X4",
+            "istPrivateArbeitsvermittlung": false,
+            "istArbeitnehmerUeberlassung": false,
+            "veroeffentlichungszeitraum": {
+                "von": "2026-06-11"
+            },
+            "datumErsteVeroeffentlichung": "2026-06-11",
+            "aenderungsdatum": "2026-06-12T12:08:22.025",
+            "istBetreut": true,
+            "hauptberuf": "Softwareentwickler/in",
+            "firma": "Mercedes-Benz Group AG",
+            "arbeitgeberKundennummerHash": "bYpSzo25jH8dzHywMh1uD_MCt5b5rndEW4jvwEZ3HUQ=",
+            "allianzpartnerUrl": "www.mercedes-benz.de",
+            "allianzpartnerName": "Mercedes-Benz AG",
+            "referenznummer": "13151-1585675-1-S"
+        }
+    },
+    {
+        "id": "12462-1581774-1-S",
+        "title": "Masterand KI-Agent Fahrdynamikregelsysteme  (w/m/x)",
+        "company": "BMW AG",
+        "description": "Stellenreferenz: 188576\n\n\nMit unseren Marken BMW, MINI, Rolls-Royce und BMW Motorrad sind wir einer der weltweit führenden Premium-Hersteller von Automobilen sowie Motorrädern und darüber hinaus Anbieter von Premium-Finanz- und Mobilitätsdienstleistungen.\n\n\nDIE ZUKUNFT DER MOBILITÄT? DIGITAL.\n\nTEILE DEINE LEIDENSCHAFT.\n\nMehr als 90 % aller Innovationen im Automobil basieren auf Elektronik und Software. Gerade hier sind große Freiräume und vernetztes Denken gefordert, um die Mobilität neu zu erfinden und ein völlig neues Fahrerlebnis zu ermöglichen. Deshalb geben wir Studierenden bei uns nicht nur die Gelegenheit zum Zuhören, sondern auch zum Mitreden und Weiterdenken.\n\nUnser Team bei der BMW Group verantwortet die funktionale Auslegung und Absicherung von Fahrdynamikregelsystemen. Dabei entstehen große Datenmengen aus Prüfständen, Simulationen und Fahrversuchen. Um das volle Potenzial unserer Entwicklungsdaten zu nutzen, erforschen wir moderne KI-Methoden – einschließlich Large Language Models (LLMs) und KI-Agenten – und integrieren diese in datengetriebene Entwicklungsprozesse der Zukunft.\n\n\nWas erwartet dich?\n\n- Du analysierst große Mengen an Mess- und Simulationsdaten aus Fahrdynamikuntersuchungen mithilfe moderner KI-, Data-Analytics- und Generative-AI-Methoden.\n- Außerdem entwickelst du im Rahmen deiner Masterarbeit eigene Ansätze zur Nutzung von LLMs und KI-Agenten für die automatisierte Analyse, Interpretation und Aufbereitung von Entwicklungsdaten.\n- Darüber hinaus unterstützt du bei der Konzeption und Implementierung von Data-Analytics- und AI-Pipelines, z. B. unter Nutzung moderner Modelle (z. B. GPT, Claude) und Tools wie GitHub Copilot.\n- Zudem wirkst du eng mit bei der Zusammenarbeit mit Experten aus Fahrdynamik, Versuch und Data Science und erhältst umfassende Einblicke in moderne KI-gestützte Entwicklungsprozesse.\n\n\nWas bringst du mit?\n\n- Studium der Informatik, Data Science, Computational Engineering oder eines vergleichbaren Studiengangs.\n- Sehr gute Programmierkenntnisse in Python.\n- Fundierte Kenntnisse in Datenanalyse, Machine Learning und idealerweise erste Erfahrung mit Large Language Models oder Generative AI.\n- Erfahrung mit modernen Tools und Frameworks im KI-Umfeld (z. B. APIs von LLMs, Prompt Engineering oder agentenbasierte Systeme) von Vorteil.\n- Interesse an Fahrzeugdynamik und Bereitschaft, domänenspezifisches Wissen zu vertiefen.\n- Analytisches Denkvermögen, strukturierte Arbeitsweise sowie Fähigkeit zum wissenschaftlichen Arbeiten.\n- Teamfähigkeit, Eigeninitiative und Motivation, innovative KI-Lösungen aktiv mitzugestalten.\n- Sehr gute Deutsch- und Englischkenntnisse.\n\n\nHast du Spaß daran, Neues zu lernen und möchtest unsere Abteilung tatkräftig unterstützen? Dann bewirb dich jetzt!\n\n\nWas bieten wir dir?\n\n- Umfassendes Mentoring & Onboarding.\n- Persönliche & fachliche Weiterentwicklung.\n- Flexible Arbeitszeiten.\n- Mobilarbeit.\n- Attraktive & faire Vergütung.\n- Apartments für Studierende (nach Verfügbarkeit & nur am Standort München).\n- Und vieles mehr siehebmw.jobs/waswirbieten  \n\n\nStartdatum: ab frühestens 01.10.2026\n\nDauer: 6 Monate\n\nArbeitszeit: Vollzeit\n\n\nHilfreiche Tipps zu deiner Bewerbung und dem Bewerbungsprozess findest duhier  .\n\n\nWir bei der BMW Group legen großen Wert auf Gleichbehandlung und Chancengleichheit. Unsere Recruiting-Entscheidungen basieren auf der Persönlichkeit, den Erfahrungen und Fähigkeiten der Bewerber:innen. Mehr dazuhier  .\n\n\nBitte bewirb dich ausschließlich online über unser Karriereportal. Bewerbungen auf anderen Kanälen (insb. E-Mails) können nicht berücksichtigt werden.\n\n\n4",
+        "source": "Arbeitsagentur",
+        "scraped_at": "2026-07-04T14:53:38.249378",
+        "api_raw_details": {
+            "stellenangebotsart": "PRAKTIKUM_TRAINEE",
+            "stellenangebotsTitel": "Masterand KI-Agent Fahrdynamikregelsysteme  (w/m/x)",
+            "quereinstiegGeeignet": false,
+            "stellenangebotsBeschreibung": "Stellenreferenz: 188576\n\n\nMit unseren Marken BMW, MINI, Rolls-Royce und BMW Motorrad sind wir einer der weltweit führenden Premium-Hersteller von Automobilen sowie Motorrädern und darüber hinaus Anbieter von Premium-Finanz- und Mobilitätsdienstleistungen.\n\n\nDIE ZUKUNFT DER MOBILITÄT? DIGITAL.\n\nTEILE DEINE LEIDENSCHAFT.\n\nMehr als 90 % aller Innovationen im Automobil basieren auf Elektronik und Software. Gerade hier sind große Freiräume und vernetztes Denken gefordert, um die Mobilität neu zu erfinden und ein völlig neues Fahrerlebnis zu ermöglichen. Deshalb geben wir Studierenden bei uns nicht nur die Gelegenheit zum Zuhören, sondern auch zum Mitreden und Weiterdenken.\n\nUnser Team bei der BMW Group verantwortet die funktionale Auslegung und Absicherung von Fahrdynamikregelsystemen. Dabei entstehen große Datenmengen aus Prüfständen, Simulationen und Fahrversuchen. Um das volle Potenzial unserer Entwicklungsdaten zu nutzen, erforschen wir moderne KI-Methoden – einschließlich Large Language Models (LLMs) und KI-Agenten – und integrieren diese in datengetriebene Entwicklungsprozesse der Zukunft.\n\n\nWas erwartet dich?\n\n- Du analysierst große Mengen an Mess- und Simulationsdaten aus Fahrdynamikuntersuchungen mithilfe moderner KI-, Data-Analytics- und Generative-AI-Methoden.\n- Außerdem entwickelst du im Rahmen deiner Masterarbeit eigene Ansätze zur Nutzung von LLMs und KI-Agenten für die automatisierte Analyse, Interpretation und Aufbereitung von Entwicklungsdaten.\n- Darüber hinaus unterstützt du bei der Konzeption und Implementierung von Data-Analytics- und AI-Pipelines, z. B. unter Nutzung moderner Modelle (z. B. GPT, Claude) und Tools wie GitHub Copilot.\n- Zudem wirkst du eng mit bei der Zusammenarbeit mit Experten aus Fahrdynamik, Versuch und Data Science und erhältst umfassende Einblicke in moderne KI-gestützte Entwicklungsprozesse.\n\n\nWas bringst du mit?\n\n- Studium der Informatik, Data Science, Computational Engineering oder eines vergleichbaren Studiengangs.\n- Sehr gute Programmierkenntnisse in Python.\n- Fundierte Kenntnisse in Datenanalyse, Machine Learning und idealerweise erste Erfahrung mit Large Language Models oder Generative AI.\n- Erfahrung mit modernen Tools und Frameworks im KI-Umfeld (z. B. APIs von LLMs, Prompt Engineering oder agentenbasierte Systeme) von Vorteil.\n- Interesse an Fahrzeugdynamik und Bereitschaft, domänenspezifisches Wissen zu vertiefen.\n- Analytisches Denkvermögen, strukturierte Arbeitsweise sowie Fähigkeit zum wissenschaftlichen Arbeiten.\n- Teamfähigkeit, Eigeninitiative und Motivation, innovative KI-Lösungen aktiv mitzugestalten.\n- Sehr gute Deutsch- und Englischkenntnisse.\n\n\nHast du Spaß daran, Neues zu lernen und möchtest unsere Abteilung tatkräftig unterstützen? Dann bewirb dich jetzt!\n\n\nWas bieten wir dir?\n\n- Umfassendes Mentoring & Onboarding.\n- Persönliche & fachliche Weiterentwicklung.\n- Flexible Arbeitszeiten.\n- Mobilarbeit.\n- Attraktive & faire Vergütung.\n- Apartments für Studierende (nach Verfügbarkeit & nur am Standort München).\n- Und vieles mehr siehebmw.jobs/waswirbieten  \n\n\nStartdatum: ab frühestens 01.10.2026\n\nDauer: 6 Monate\n\nArbeitszeit: Vollzeit\n\n\nHilfreiche Tipps zu deiner Bewerbung und dem Bewerbungsprozess findest duhier  .\n\n\nWir bei der BMW Group legen großen Wert auf Gleichbehandlung und Chancengleichheit. Unsere Recruiting-Entscheidungen basieren auf der Persönlichkeit, den Erfahrungen und Fähigkeiten der Bewerber:innen. Mehr dazuhier  .\n\n\nBitte bewirb dich ausschließlich online über unser Karriereportal. Bewerbungen auf anderen Kanälen (insb. E-Mails) können nicht berücksichtigt werden.\n\n\n4",
+            "geforderterBildungsabschluss": "NICHT_RELEVANT",
+            "arbeitszeitSchichtNachtWochenende": false,
+            "arbeitszeitTeilzeitAbend": false,
+            "arbeitszeitTeilzeitNachmittag": false,
+            "arbeitszeitTeilzeitVormittag": false,
+            "arbeitszeitTeilzeitFlexibel": false,
+            "arbeitszeitVollzeit": true,
+            "eintrittszeitraum": {
+                "von": "2026-10-01"
+            },
+            "verguetungsangabe": "KEINE_ANGABEN",
+            "vertragsdauer": "UNBEFRISTET",
+            "istGeringfuegigeBeschaeftigung": false,
+            "istBehinderungGefordert": false,
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "plz": "80809",
+                        "ort": "München",
+                        "region": "BAYERN",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 48.1794094,
+                    "laenge": 11.5532293
+                }
+            ],
+            "homeofficemoeglich": false,
+            "chiffrenummer": "44214215",
+            "istPrivateArbeitsvermittlung": false,
+            "istArbeitnehmerUeberlassung": false,
+            "veroeffentlichungszeitraum": {
+                "von": "2026-06-02"
+            },
+            "datumErsteVeroeffentlichung": "2026-06-02",
+            "aenderungsdatum": "2026-06-10T11:14:39.534",
+            "istBetreut": true,
+            "hauptberuf": "Informatiker/in",
+            "firma": "BMW AG",
+            "arbeitgeberKundennummerHash": "3Ifl8XV7wSH1BWHSmS_l6uQu2A0SnyaF8PTVphIxlNc=",
+            "allianzpartnerUrl": "http://www.bmwgroup.jobs",
+            "allianzpartnerName": "BMW AG",
+            "referenznummer": "12462-1581774-1-S"
+        }
+    },
+    {
+        "id": "10001-1003197899-S",
+        "title": "Werkstudent für IT, KI-Implementierung & Prozess-Automatisierung (m/w/d)",
+        "company": "Stadtgrün Ruhr GmbH",
+        "description": "### Die Karriereampel steht auf grün. Stadtgrün.\n\n**Werkstudent für IT, KI-Implementierung & Prozess-Automatisierung (m/w/d)**\n\n**Die Karriereampel steht auf grün. Stadtgrün.**\n**Schwerpunkt: Die Baustelle der Zukunft | Essen (Hybrid) | 12–20 Std./Woche**\n\\*\\*Perfekt für Studierende der Bereiche:\\*\\* Informatik • Data Science • Wirtschaftsinformatik • Wirtschaftsingenieurwesen • Bauingenieurwesen o.ä.\n\nWir. Können. Leidenschaft.\n\nDu willst KI nicht nur im Studium theoretisch behandeln oder privat ein bisschen „prompten“, sondern das digitale Betriebssystem für ein modernes Handwerksunternehmen bauen? Wir bei Stadtgrün Ruhr digitalisieren unsere Prozesse radikal. Wir suchen einen Tech-Vordenker wie dich, der unsere Google Workspace-Umgebung mit modernsten LLMs verknüpft, Prozesse automatisiert und unsere ganz eigene, interne Stadtgrün-Ruhr-Mitarbeiter-App an den Start bringt.\n\nWir sind ein motiviertes und dynamisches Team, das zusammenhält wie Beton. Bei uns zählen keine steifen Konzernstrukturen, sondern frische Ideen und Tatendrang. Du arbeitest auf Augenhöhe direkt mit der Geschäftsführung zusammen und kriegst den Freiraum, deine Tech-Projekte Realität werden zu lassen.\n\n**Deine Vorteile bei Stadtgrün Ruhr**\n\n- \\*\\*Echter Impact statt Schubladen-Projekte:\\*\\* Was du bei uns programmierst und entwickelst, wird langfristig im echten Betrieb genutzt. Du hinterlässt einen bleibenden digitalen Fußabdruck.\n- \\*\\*Maximale Flexibilität & Homeoffice:\\*\\* Wir arbeiten ergebnisorientiert. Zum Start lernst du unsere Baustellen und Prozesse einmal live vor Ort kennen. Im laufenden Betrieb reicht uns ein wiederkehrender Jour-Fixe im Büro in Essen – den Rest erledigst du flexibel im Homeoffice (Remote-First).\n- **Eigenverantwortung & Vertrauen: Du bist der Experte auf deinem Gebiet. Wir vertrauen dir, geben dir die volle Eigenverantwortung** für deine Projekte und quatschen dir nicht permanent rein.\n- \\*\\*Langfristige Perspektive:\\*\\* Idealerweise bleibst du ein Jahr oder länger bei uns. Wenn es passt, unterstützen wir dich auch gerne bei deiner Bachelor- oder Masterarbeit im Bereich KI/Automatisierung.\n- \\*\\*Das Stadtgrün-Paket:\\*\\* Unkompliziertes Miteinander (alle per Du), regelmäßige Teamevents, ein cooles Arbeitsumfeld und natürlich kostenlose Verpflegung, Kalt- und Heißgetränke bei uns im Betrieb\n\n**Deine Mission: Die Stadtgrün-App & das SGR-Wiki**\n\n- \\*\\*App-Entwicklung:\\*\\* Du konzipierst und entwickelst eine interne App/Plattform für unsere Mitarbeiter, die unser gesamtes Unternehmenswissen bündelt.\n- \\*\\*KI-Integration:\\*\\* Du baust rollenspezifische Bots (z. B. für unsere Bauleiter oder Vorarbeiter) auf Basis unserer Dokumente im Google Drive und verknüpfst sie mit intelligenten Sprachmodellen.\n- \\*\\*Prozess-Automatisierung:\\*\\* Du entwickelst smarte Workflows für unsere Baudokumentation (z. B. für Protokolle und Berichte) sowie Webcrawler zur automatisierten Suche nach neuen Ausschreibungen.\n- \\*\\*Kreativer Input:\\*\\* Du bist unser digitaler Kopf – welche Tools, Frameworks oder Open-Source-Lösungen uns wirklich weiterbringen, entscheidest du entscheidend mit.\n\n**Was du mitbringst**\n\n- \\*\\*Dein Fundament:\\*\\* Du bist eingeschriebene/r Student/in im Bereich Informatik, Data Science, Ingenieurwesen oder einem vergleichbaren Studiengang.\n- **Dein Mindset: Du arbeitest extrem selbstständig, packst Themen mit hoher Eigenverantwortung** an und hast Lust, Prototypen schnell in die Praxis umzusetzen.\n- \\*\\*Deine Skills:\\*\\* Du hast bereits erste praktische Erfahrungen im Programmieren (z. B. App-Entwicklung, APIs, Python, LLMs) gesammelt – zeig uns gerne, was du bisher gebaut hast!\n- \\*\\*Sprachen:\\*\\* Deutsch auf sicherem Niveau (mind. B2), da unsere internen Dokumente und Prozesse auf Deutsch sind.\n\n**Kontakt & Bewerbung**\n\nLust, die traditionsreiche Baubranche gemeinsam mit uns auf das nächste digitale Level zu heben?\nVergiss komplizierte Anschreiben. Schick uns einfach deinen Lebenslauf und einen kurzen Tech-Stack-Check (was für Projekte hast du bisher gemacht, womit programmierst du am liebsten?) ganz unkompliziert per E-Mail an:\n\n**Tanja Kolacek**\nPersonalabteilung\n0201 / 6169890\ninfo@stadtgruen.ruhr",
+        "source": "Arbeitsagentur",
+        "scraped_at": "2026-07-04T14:53:39.101934",
+        "api_raw_details": {
+            "stellenangebotsart": "PRAKTIKUM_TRAINEE",
+            "stellenangebotsTitel": "Werkstudent für IT, KI-Implementierung & Prozess-Automatisierung (m/w/d)",
+            "stellenangebotsBeschreibung": "### Die Karriereampel steht auf grün. Stadtgrün.\n\n**Werkstudent für IT, KI-Implementierung & Prozess-Automatisierung (m/w/d)**\n\n**Die Karriereampel steht auf grün. Stadtgrün.**\n**Schwerpunkt: Die Baustelle der Zukunft | Essen (Hybrid) | 12–20 Std./Woche**\n\\*\\*Perfekt für Studierende der Bereiche:\\*\\* Informatik • Data Science • Wirtschaftsinformatik • Wirtschaftsingenieurwesen • Bauingenieurwesen o.ä.\n\nWir. Können. Leidenschaft.\n\nDu willst KI nicht nur im Studium theoretisch behandeln oder privat ein bisschen „prompten“, sondern das digitale Betriebssystem für ein modernes Handwerksunternehmen bauen? Wir bei Stadtgrün Ruhr digitalisieren unsere Prozesse radikal. Wir suchen einen Tech-Vordenker wie dich, der unsere Google Workspace-Umgebung mit modernsten LLMs verknüpft, Prozesse automatisiert und unsere ganz eigene, interne Stadtgrün-Ruhr-Mitarbeiter-App an den Start bringt.\n\nWir sind ein motiviertes und dynamisches Team, das zusammenhält wie Beton. Bei uns zählen keine steifen Konzernstrukturen, sondern frische Ideen und Tatendrang. Du arbeitest auf Augenhöhe direkt mit der Geschäftsführung zusammen und kriegst den Freiraum, deine Tech-Projekte Realität werden zu lassen.\n\n**Deine Vorteile bei Stadtgrün Ruhr**\n\n- \\*\\*Echter Impact statt Schubladen-Projekte:\\*\\* Was du bei uns programmierst und entwickelst, wird langfristig im echten Betrieb genutzt. Du hinterlässt einen bleibenden digitalen Fußabdruck.\n- \\*\\*Maximale Flexibilität & Homeoffice:\\*\\* Wir arbeiten ergebnisorientiert. Zum Start lernst du unsere Baustellen und Prozesse einmal live vor Ort kennen. Im laufenden Betrieb reicht uns ein wiederkehrender Jour-Fixe im Büro in Essen – den Rest erledigst du flexibel im Homeoffice (Remote-First).\n- **Eigenverantwortung & Vertrauen: Du bist der Experte auf deinem Gebiet. Wir vertrauen dir, geben dir die volle Eigenverantwortung** für deine Projekte und quatschen dir nicht permanent rein.\n- \\*\\*Langfristige Perspektive:\\*\\* Idealerweise bleibst du ein Jahr oder länger bei uns. Wenn es passt, unterstützen wir dich auch gerne bei deiner Bachelor- oder Masterarbeit im Bereich KI/Automatisierung.\n- \\*\\*Das Stadtgrün-Paket:\\*\\* Unkompliziertes Miteinander (alle per Du), regelmäßige Teamevents, ein cooles Arbeitsumfeld und natürlich kostenlose Verpflegung, Kalt- und Heißgetränke bei uns im Betrieb\n\n**Deine Mission: Die Stadtgrün-App & das SGR-Wiki**\n\n- \\*\\*App-Entwicklung:\\*\\* Du konzipierst und entwickelst eine interne App/Plattform für unsere Mitarbeiter, die unser gesamtes Unternehmenswissen bündelt.\n- \\*\\*KI-Integration:\\*\\* Du baust rollenspezifische Bots (z. B. für unsere Bauleiter oder Vorarbeiter) auf Basis unserer Dokumente im Google Drive und verknüpfst sie mit intelligenten Sprachmodellen.\n- \\*\\*Prozess-Automatisierung:\\*\\* Du entwickelst smarte Workflows für unsere Baudokumentation (z. B. für Protokolle und Berichte) sowie Webcrawler zur automatisierten Suche nach neuen Ausschreibungen.\n- \\*\\*Kreativer Input:\\*\\* Du bist unser digitaler Kopf – welche Tools, Frameworks oder Open-Source-Lösungen uns wirklich weiterbringen, entscheidest du entscheidend mit.\n\n**Was du mitbringst**\n\n- \\*\\*Dein Fundament:\\*\\* Du bist eingeschriebene/r Student/in im Bereich Informatik, Data Science, Ingenieurwesen oder einem vergleichbaren Studiengang.\n- **Dein Mindset: Du arbeitest extrem selbstständig, packst Themen mit hoher Eigenverantwortung** an und hast Lust, Prototypen schnell in die Praxis umzusetzen.\n- \\*\\*Deine Skills:\\*\\* Du hast bereits erste praktische Erfahrungen im Programmieren (z. B. App-Entwicklung, APIs, Python, LLMs) gesammelt – zeig uns gerne, was du bisher gebaut hast!\n- \\*\\*Sprachen:\\*\\* Deutsch auf sicherem Niveau (mind. B2), da unsere internen Dokumente und Prozesse auf Deutsch sind.\n\n**Kontakt & Bewerbung**\n\nLust, die traditionsreiche Baubranche gemeinsam mit uns auf das nächste digitale Level zu heben?\nVergiss komplizierte Anschreiben. Schick uns einfach deinen Lebenslauf und einen kurzen Tech-Stack-Check (was für Projekte hast du bisher gemacht, womit programmierst du am liebsten?) ganz unkompliziert per E-Mail an:\n\n**Tanja Kolacek**\nPersonalabteilung\n0201 / 6169890\ninfo@stadtgruen.ruhr",
+            "arbeitszeitTeilzeitAbend": true,
+            "arbeitszeitTeilzeitNachmittag": true,
+            "arbeitszeitTeilzeitVormittag": true,
+            "eintrittszeitraum": {
+                "von": "2026-06-09"
+            },
+            "verguetungsangabe": "KEINE_ANGABEN",
+            "vertragsdauer": "UNBEFRISTET",
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "strasse": "Am Schacht Hubert",
+                        "hausnummer": "11",
+                        "plz": "45139",
+                        "ort": "Essen, Ruhr",
+                        "ortsteil": "Frillendorf",
+                        "region": "NORDRHEIN_WESTFALEN",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 51.466185,
+                    "laenge": 7.0574265
+                }
+            ],
+            "homeofficemoeglich": true,
+            "homeofficetyp": "NACH_VEREINBARUNG",
+            "veroeffentlichungszeitraum": {
+                "von": "2026-06-09"
+            },
+            "datumErsteVeroeffentlichung": "2026-06-09",
+            "aenderungsdatum": "2026-06-09T16:14:53.522",
+            "istBetreut": false,
+            "hauptberuf": "Informatiker/in",
+            "firma": "Stadtgrün Ruhr GmbH",
+            "arbeitgeberKundennummerHash": "Sr9k9YP8txT7Sr8soalbj5OngHRfp1PPNZEtV08YEGE=",
+            "allianzpartnerUrl": "http://www.arbeitsagentur.de",
+            "allianzpartnerName": "arbeitsagentur.de",
+            "referenznummer": "10001-1003197899-S"
+        }
+    },
+    {
+        "id": "13151-1590393-1-S",
+        "title": "Abschlussarbeit Entwicklung eines LLM-basierten Chatbots - Prozessunterstützung webbasierten...",
+        "company": "Mercedes-Benz Group AG",
+        "description": "Abschlussarbeit Entwicklung eines LLM-basierten Chatbots - Prozessunterstützung webbasierten Applikation MBupgrades\n\nTätigkeitsbereich: Sonstiges\nFachabteilung: After-Sales Technik Nachrüstung & Zubehör\nGesellschaft: Mercedes-Benz AG\nStandort: Böblingen\nStartdatum: 01.09.2026\nVeröffentlichungsdatum: 01.09.2026\nStellennummer: MER00043T8\nArbeitszeit: Full time\n\n\nAufgaben\n\nBei Global Customer Service and Parts (GCSP/TPC) begleiten wir den gesamten Lebenszyklus der Mercedes-Benz Fahrzeuge, von der servicegerechten Gestaltung unserer Produkte über die Markteinführung bis hin zur Produktbetreuung und -bewährung. Wir unterstützen die Serviceorganisationen weltweit, gegebenenfalls auch vor Ort. Dabei arbeiten wir im Wesentlichen mit unseren Partnern aus GCSP, Entwicklung, Produktion, Einkauf, Legal und Qualität zusammen. Wir erstellen Betriebsanleitungen, schreiben Diagnoseabläufe und sind die Experten in der Teiletechnik, sowie in der Produktbewertung und –regulierung. Im Servicebereich für Mercedes-Benz PKW ist unser Team verantwortlich für die Nachrüsttechnik und Zubehör von Mercedes-Benz Fahrzeugen. Dies beinhaltet das Engineering von Nachrüstprojekten beginnend von der Planung und Methodenfestlegung bis hin zur Veröffentlichung der technischen Informationen und deren weltweiten Vertrieb von Nachrüstungen und digitalen Diensten.\n\nIm Rahmen eines IT-Projektes entwickeln wir die webbasierte Applikation MBupgrades kontinuierlich weiter. Diese dient als Schnittstelle zwischen uns und unserem weltweiten Händlernetz und ermöglicht die effiziente und kundenorientierte Abwicklung von Nachrüstungen und digitalen Diensten. Ziel der Masterarbeit ist die Erweiterung dieser Plattform um einen KI-gestützten Chatbot auf Basis von Large Language Models (LLM), der Händler und interne Nutzer gezielt bei Support-Anfragen unterstützt und durch Nutzung vorhandener Daten kontinuierlich verbessert wird.\n\nDu interessierst Dich für Künstliche Intelligenz, moderne Webtechnologien und die Entwicklung innovativer Softwarelösungen? Du möchtest Deine Kenntnisse aus dem Studium in einem praxisnahen, zukunftsweisenden Umfeld einsetzen und aktiv an einem KI-Projekt mitwirken?\n\nDann nutze jetzt Deine Chance und absolviere Deine Abschlussarbeit in einem hochmotivierten und innovativen Team bei der Mercedes-Benz AG. In unserem Bereich stehen innovative Arbeitsmodelle und Flexibilität im Mittelpunkt. Daher wirst Du während Deiner Abschlussarbeit sowohl vor Ort als auch im mobilen Arbeiten tätig sein können.\n\nDiese Herausforderungen kommen auf Dich zu:\n\n-\nAnalyse und Aufbereitung vorhandener Daten als Grundlage für das Chatbot-Training\n\n-\nKonzeption und Entwicklung eines KI-gestützten Chatbots auf Basis von Large Language Model\n\n-\nTechnische Integration des Chatbots in die bestehende XENTRY-Infrastruktur\n\n-\nGestaltung und Implementierung eines benutzerfreundlichen Frontend-Interfaces für die Chatbot-Interaktion\n\n-\nEvaluation des Chatbots anhand definierter KPIs\n\n-\nEvaluierung und Vergleich relevanter LLM-Ansätze und Technologien\n\n-\nDokumentation der Ergebnisse in Form einer wissenschaftlichen Abschlussarbeit\n\n\nDie Tätigkeit kann ab September 2026 beginnen.\n\nDie endgültige Themenfindung erfolgt in Absprache mit der Hochschule, Dir und uns.\n\n\nQualifikationen\n\n-\nStudiengang Medieninformatik, Wirtschaftsinformatik, Data Science, Technische Informatik oder ein vergleichbarer Studiengang\n\n-\nGute Kenntnisse in HTML, CSS und JavaScript (TypeScript von Vorteil)\n\n-\nErfahrungen mit relationalen oder vektorbasierten Datenbanken\n\n-\nGute Programmierkenntnisse in objekt-orientierten Programmiersprachen (bevorzugt Python)\n\n-\nKenntnisse von Unit Testing (-Frameworks) sind wünschenswert\n\n-\nErfahrungen mit Full-Stack Entwicklung und Versions-Kontroll-Systemen (v.a. GitHub) sind vorteilhaft\n\n-\nErste Erfahrungen mit Cloud-Technologien (Docker, Kubernetes, AWS) sind von Vorteil\n\n\nPersönliche Kompetenzen:\n\n-\nAnalytische Denkweise und strukturierte, wissenschaftliche Arbeitsweise\n\n-\nEigeninitiative und Begeisterung für KI und moderne Webtechnologien\n\n-\nKommunikations- und Teamfähigkeit\n\n-\nInteresse an Automobiltechnik sowie After-Sales Serviceprozessen sind wünschenswert\n\n\nAbschließend wollen wir sagen:\nWenn Du motiviert bist, ein zukunftsweisendes KI-Projekt in einem innovativen Umfeld zu gestalten und dabei echten Mehrwert für ein weltweites Händlernetz schaffen möchtest, freuen wir uns auf Deine Bewerbung!\n\nZusätzliche Informationen:\n\nWir freuen uns auf Deine Online-Bewerbung mit Lebenslauf, Anschreiben, Zeugnissen,  aktueller Immatrikulationsbescheinigung mit Angabe des Fachsemesters und Nachweis über die Regelstudienzeit. Bitte vergiss nicht im Online-Formular Deine Dokumente als \"relevant für diese Bewerbung\" zu markieren und die maximale Dateigröße von 5 MB zu beachten.\n\nWeiterführende Informationen zu den Einstellkriterien finden Siehier  .\n\nSchwerbehinderte und gleichgestellte Bewerbende sind herzlich willkommen! Die Schwerbehindertenvertretung (sbv-standort@mercedes-benz.com) unterstützt Dich gerne im Bewerbungsprozess.\n\nHR Services hilft Dir bei Fragen zum Bewerbungsprozess gerne weiter. Du erreichst uns per E-Mail übermyhrservice@mercedes-benz.com oder telefonisch unter 0711/17-99000 (Mo-Fr 10-12 Uhr & 13-15 Uhr).\n\nFragen zur Stelle beantwortet Dir gerne Dr.-Ing. Andreas Rössler aus dem Fachbereich unter der Telefonnummer +49 176/30903266\n\n\nBenefits\n\n\n- Barriere­frei­heit\n- Kantine, Café\n- Kinder­betreuung\n- Coaching\n- Betriebs­arzt\n- Mobilitäts­angebote\n- Mit­arbeiter Events\n- Mit­arbeiter­rabatte möglich\n- Mit­arbeiter­beteili­gung möglich\n- Mit­arbeiter­handy möglich\n- Essens­zulagen\n- Gesund­heits­maß­nahmen\n- Hybrides Arbeiten möglich\n- Betrieb­liche Alters­ver­sorgung\n- Park­platz\n- Gute An­bindung\n- Flexible Arbeits­zeit möglich\n\n\nKontakt\n\nAndreas Rössler\nEmail: andreas.roessler@mercedes-benz.com\nLeibnizstr. 2\n71032 Böblingen",
+        "source": "Arbeitsagentur",
+        "scraped_at": "2026-07-04T14:53:39.944681",
+        "api_raw_details": {
+            "stellenangebotsart": "PRAKTIKUM_TRAINEE",
+            "stellenangebotsTitel": "Abschlussarbeit Entwicklung eines LLM-basierten Chatbots - Prozessunterstützung webbasierten...",
+            "quereinstiegGeeignet": false,
+            "stellenangebotsBeschreibung": "Abschlussarbeit Entwicklung eines LLM-basierten Chatbots - Prozessunterstützung webbasierten Applikation MBupgrades\n\nTätigkeitsbereich: Sonstiges\nFachabteilung: After-Sales Technik Nachrüstung & Zubehör\nGesellschaft: Mercedes-Benz AG\nStandort: Böblingen\nStartdatum: 01.09.2026\nVeröffentlichungsdatum: 01.09.2026\nStellennummer: MER00043T8\nArbeitszeit: Full time\n\n\nAufgaben\n\nBei Global Customer Service and Parts (GCSP/TPC) begleiten wir den gesamten Lebenszyklus der Mercedes-Benz Fahrzeuge, von der servicegerechten Gestaltung unserer Produkte über die Markteinführung bis hin zur Produktbetreuung und -bewährung. Wir unterstützen die Serviceorganisationen weltweit, gegebenenfalls auch vor Ort. Dabei arbeiten wir im Wesentlichen mit unseren Partnern aus GCSP, Entwicklung, Produktion, Einkauf, Legal und Qualität zusammen. Wir erstellen Betriebsanleitungen, schreiben Diagnoseabläufe und sind die Experten in der Teiletechnik, sowie in der Produktbewertung und –regulierung. Im Servicebereich für Mercedes-Benz PKW ist unser Team verantwortlich für die Nachrüsttechnik und Zubehör von Mercedes-Benz Fahrzeugen. Dies beinhaltet das Engineering von Nachrüstprojekten beginnend von der Planung und Methodenfestlegung bis hin zur Veröffentlichung der technischen Informationen und deren weltweiten Vertrieb von Nachrüstungen und digitalen Diensten.\n\nIm Rahmen eines IT-Projektes entwickeln wir die webbasierte Applikation MBupgrades kontinuierlich weiter. Diese dient als Schnittstelle zwischen uns und unserem weltweiten Händlernetz und ermöglicht die effiziente und kundenorientierte Abwicklung von Nachrüstungen und digitalen Diensten. Ziel der Masterarbeit ist die Erweiterung dieser Plattform um einen KI-gestützten Chatbot auf Basis von Large Language Models (LLM), der Händler und interne Nutzer gezielt bei Support-Anfragen unterstützt und durch Nutzung vorhandener Daten kontinuierlich verbessert wird.\n\nDu interessierst Dich für Künstliche Intelligenz, moderne Webtechnologien und die Entwicklung innovativer Softwarelösungen? Du möchtest Deine Kenntnisse aus dem Studium in einem praxisnahen, zukunftsweisenden Umfeld einsetzen und aktiv an einem KI-Projekt mitwirken?\n\nDann nutze jetzt Deine Chance und absolviere Deine Abschlussarbeit in einem hochmotivierten und innovativen Team bei der Mercedes-Benz AG. In unserem Bereich stehen innovative Arbeitsmodelle und Flexibilität im Mittelpunkt. Daher wirst Du während Deiner Abschlussarbeit sowohl vor Ort als auch im mobilen Arbeiten tätig sein können.\n\nDiese Herausforderungen kommen auf Dich zu:\n\n-\nAnalyse und Aufbereitung vorhandener Daten als Grundlage für das Chatbot-Training\n\n-\nKonzeption und Entwicklung eines KI-gestützten Chatbots auf Basis von Large Language Model\n\n-\nTechnische Integration des Chatbots in die bestehende XENTRY-Infrastruktur\n\n-\nGestaltung und Implementierung eines benutzerfreundlichen Frontend-Interfaces für die Chatbot-Interaktion\n\n-\nEvaluation des Chatbots anhand definierter KPIs\n\n-\nEvaluierung und Vergleich relevanter LLM-Ansätze und Technologien\n\n-\nDokumentation der Ergebnisse in Form einer wissenschaftlichen Abschlussarbeit\n\n\nDie Tätigkeit kann ab September 2026 beginnen.\n\nDie endgültige Themenfindung erfolgt in Absprache mit der Hochschule, Dir und uns.\n\n\nQualifikationen\n\n-\nStudiengang Medieninformatik, Wirtschaftsinformatik, Data Science, Technische Informatik oder ein vergleichbarer Studiengang\n\n-\nGute Kenntnisse in HTML, CSS und JavaScript (TypeScript von Vorteil)\n\n-\nErfahrungen mit relationalen oder vektorbasierten Datenbanken\n\n-\nGute Programmierkenntnisse in objekt-orientierten Programmiersprachen (bevorzugt Python)\n\n-\nKenntnisse von Unit Testing (-Frameworks) sind wünschenswert\n\n-\nErfahrungen mit Full-Stack Entwicklung und Versions-Kontroll-Systemen (v.a. GitHub) sind vorteilhaft\n\n-\nErste Erfahrungen mit Cloud-Technologien (Docker, Kubernetes, AWS) sind von Vorteil\n\n\nPersönliche Kompetenzen:\n\n-\nAnalytische Denkweise und strukturierte, wissenschaftliche Arbeitsweise\n\n-\nEigeninitiative und Begeisterung für KI und moderne Webtechnologien\n\n-\nKommunikations- und Teamfähigkeit\n\n-\nInteresse an Automobiltechnik sowie After-Sales Serviceprozessen sind wünschenswert\n\n\nAbschließend wollen wir sagen:\nWenn Du motiviert bist, ein zukunftsweisendes KI-Projekt in einem innovativen Umfeld zu gestalten und dabei echten Mehrwert für ein weltweites Händlernetz schaffen möchtest, freuen wir uns auf Deine Bewerbung!\n\nZusätzliche Informationen:\n\nWir freuen uns auf Deine Online-Bewerbung mit Lebenslauf, Anschreiben, Zeugnissen,  aktueller Immatrikulationsbescheinigung mit Angabe des Fachsemesters und Nachweis über die Regelstudienzeit. Bitte vergiss nicht im Online-Formular Deine Dokumente als \"relevant für diese Bewerbung\" zu markieren und die maximale Dateigröße von 5 MB zu beachten.\n\nWeiterführende Informationen zu den Einstellkriterien finden Siehier  .\n\nSchwerbehinderte und gleichgestellte Bewerbende sind herzlich willkommen! Die Schwerbehindertenvertretung (sbv-standort@mercedes-benz.com) unterstützt Dich gerne im Bewerbungsprozess.\n\nHR Services hilft Dir bei Fragen zum Bewerbungsprozess gerne weiter. Du erreichst uns per E-Mail übermyhrservice@mercedes-benz.com oder telefonisch unter 0711/17-99000 (Mo-Fr 10-12 Uhr & 13-15 Uhr).\n\nFragen zur Stelle beantwortet Dir gerne Dr.-Ing. Andreas Rössler aus dem Fachbereich unter der Telefonnummer +49 176/30903266\n\n\nBenefits\n\n\n- Barriere­frei­heit\n- Kantine, Café\n- Kinder­betreuung\n- Coaching\n- Betriebs­arzt\n- Mobilitäts­angebote\n- Mit­arbeiter Events\n- Mit­arbeiter­rabatte möglich\n- Mit­arbeiter­beteili­gung möglich\n- Mit­arbeiter­handy möglich\n- Essens­zulagen\n- Gesund­heits­maß­nahmen\n- Hybrides Arbeiten möglich\n- Betrieb­liche Alters­ver­sorgung\n- Park­platz\n- Gute An­bindung\n- Flexible Arbeits­zeit möglich\n\n\nKontakt\n\nAndreas Rössler\nEmail: andreas.roessler@mercedes-benz.com\nLeibnizstr. 2\n71032 Böblingen",
+            "geforderterBildungsabschluss": "NICHT_RELEVANT",
+            "arbeitszeitSchichtNachtWochenende": false,
+            "arbeitszeitTeilzeitAbend": false,
+            "arbeitszeitTeilzeitNachmittag": false,
+            "arbeitszeitTeilzeitVormittag": false,
+            "arbeitszeitTeilzeitFlexibel": false,
+            "arbeitszeitVollzeit": true,
+            "eintrittszeitraum": {
+                "von": "2026-09-01"
+            },
+            "verguetungsangabe": "KEINE_ANGABEN",
+            "vertragsdauer": "KEINE_ANGABE",
+            "istGeringfuegigeBeschaeftigung": false,
+            "istBehinderungGefordert": false,
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "plz": "71032",
+                        "ort": "Böblingen",
+                        "region": "BADEN_WUERTTEMBERG",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 48.6829366,
+                    "laenge": 9.0335457
+                }
+            ],
+            "homeofficemoeglich": false,
+            "chiffrenummer": "MER00043T8",
+            "istPrivateArbeitsvermittlung": false,
+            "istArbeitnehmerUeberlassung": false,
+            "veroeffentlichungszeitraum": {
+                "von": "2026-06-23"
+            },
+            "datumErsteVeroeffentlichung": "2026-06-23",
+            "aenderungsdatum": "2026-06-24T09:29:06.228",
+            "istBetreut": true,
+            "hauptberuf": "Medieninformatiker/in",
+            "firma": "Mercedes-Benz Group AG",
+            "arbeitgeberKundennummerHash": "bYpSzo25jH8dzHywMh1uD_MCt5b5rndEW4jvwEZ3HUQ=",
+            "allianzpartnerUrl": "www.mercedes-benz.de",
+            "allianzpartnerName": "Mercedes-Benz AG",
+            "referenznummer": "13151-1590393-1-S"
+        }
+    },
+    {
+        "id": "13151-1590402-1-S",
+        "title": "Praktikant*in Systems Engineering mit Fokus Künstlicher Intelligenz",
+        "company": "Mercedes-Benz Group AG",
+        "description": "Tätigkeitsbereich: Forschung & Entwicklung incl. Design\nFachabteilung: Systems Engineering\nGesellschaft: Mercedes-Benz AG\nStandort: Sindelfingen\nStartdatum: 01.08.2026\nVeröffentlichungsdatum: 01.08.2026\nStellennummer: MER00044CZ\nArbeitszeit: Teljes munkaidő\n\n\nAufgaben\n\nDie Mercedes-Benz Group AG ist eines der erfolgreichsten Automobilunternehmen der Welt. Mit der Mercedes-Benz AG und den Geschäftsfeldern Mercedes-Benz Cars und Mercedes-Benz Vans gehört der Fahrzeughersteller zu den größten und erfolgreichsten Anbietern von Premium-Pkw. Unsere Abteilung ist verantwortlich für Systems Engineering sowie Modulmanagement. Systems Engineering ergänzt die traditionell komponentenorientierte Entwicklung von Mercedes-Benz Fahrzeugen um ein funktionsorientiertes Arbeitsmodell.\n\nMit unseren Partnern schaffen wir bereits in der frühen Phase der Fahrzeugentwicklung die Voraussetzung für Transparenz über die Kundenfunktionen in den Produkten. Dazu begleiten wir die Baureihenprojekte von der Definition der Fahrzeugfunktionen über den Entwicklungsprozess bis hin zur Freigabe und zur Serienbetreuung. Wir leben regelmäßigen Austausch zur direkten Kommunikation und Abstimmung. Unsere Team wird auf Ihre Unterstützung freuen.\n\nDiese Aufgaben kommen auf Sie zu:\n\n- Identifikation und Analyse KI-relevanter Datenquellen innerhalb der Prozesse Systems Engineering und Modulstrategie\n- Bewertung der Datenqualität, -Struktur und -Nutzbarkeit für datengetriebene und KI-basierte Anwendungen\n- Konzeption von technischen Ansätzen zur Verarbeitung, Aufbereitung und Integration heterogener Datenquellen\n- Entwicklung und Ausarbeitung von KI-Use-Cases zur intelligenten Nutzung der Daten (z. B. Analytics, Automatisierung, Entscheidungsunterstützung)\n- Berücksichtigung der methodischen Verzahnung von Systems Engineering und Modulstrategie bei der Konzeption der KI-Lösungen\n- Unterstützung bei der Überführung von Konzepten in prototypische Implementierungen (z. B. Analysen, Modelle, Proof-of-Concepts)\n- Zusammenarbeit mit interdisziplinären Teams aus IT, Engineering und Fachbereichen zur Abstimmung von Anforderungen und Lösungen\n\n\nWas wir Ihnen bieten:\n\n- Sie erhalten tiefe Einblicke in die Entwicklung und Implementierung KI-basierter Lösungen innerhalb der IT- und Engineering-Prozesse eines Premium-Automobilherstellers\n- Sie arbeiten mit realen technischen Daten, System- und Funktionsportfolios und gewinnen ein fundiertes Verständnis der digitalen und intelligenten Fähigkeiten zukünftiger Fahrzeuggenerationen\n- Sie übernehmen von Beginn an eigenständige und verantwortungsvolle Aufgaben im Umfeld Data Analytics, Machine Learning und KI-Anwendung\n- Sie wenden Ihr theoretisches IT- und KI-Wissen praxisnah an und erweitern dieses durch konkrete Use Cases und Entwicklungsprojekte\n- Sie profitieren von einer engen fachlichen Betreuung sowie einem direkten Austausch mit erfahrenen Expertinnen und Experten aus IT, Datenanalyse und Engineering\n- Sie arbeiten interdisziplinär mit verschiedenen Fachbereichen zusammen und erhalten Einblicke in moderne, agile Entwicklungs- und Projektstrukturen\n\n\nDie Tätigkeit kann flexibel ab August 2026 beginnen und eine Masterarbeit im Anschluss ist möglich.\n\n\nQualifikationen\n\n- Sie sind immatrikulierte/r Student/in (m/w/d) der Informatik, Wirtschaftsinformatik, Data Science, Maschinenbau oder eines vergleichbaren Studiengangs\n- Sie verfügen über fundierte Kenntnisse in Data Science und Machine Learning, insbesondere in datengetriebenen Analyse‑ und Modellierungsansätzen\n- Erste praktische Erfahrungen mit Programmiersprachen wie Python sowie mit Datenanalyse‑ und BI‑Tools (z. B. Pandas, SQL, Power BI o. Ä.) bringen Sie idealerweise mit\n- Ein gutes Verständnis für Datenpipelines, Datenqualität und strukturierte Datenmodelle zeichnet Sie aus\n- Grundkenntnisse zu ML‑Verfahren (z. B. Klassifikation, Clustering, NLP oder Regression) sind von Vorteil\n\n\n- Sie besitzen ein ausgeprägtes technisches und analytisches Verständnis sowie Freude an komplexen Problemstellungen\n- Sie arbeiten strukturiert, selbstständig und ergebnisorientiert\n- Sie sind teamfähig, kommunikationsstark und motiviert, neue Technologien und Frameworks schnell zu erlernen\n- Sie begeistern sich für Künstliche Intelligenz und möchten aktiv an der Umsetzung innovativer, praxisnaher AI‑Lösungen mitwirken\n\n\nZusätzliche Informationen:\n\nWir freuen uns auf Ihre Online-Bewerbung mit Lebenslauf, Anschreiben, Zeugnissen, aktueller Immatrikulationsbescheinigung mit Angabe des Fachsemesters,  ggf. Pflichtpraktikumsnachweis und Nachweis über die Regelstudienzeit. Bitte vergessen Sie nicht im Online-Formular Ihre Dokumente als \"relevant für diese Bewerbung\" zu markieren und beachten Sie die maximale Dateigröße von 5 MB.\n\nWeiterführende Informationen zu den Einstellkriterien finden Siehier  .\n\nSchwerbehinderte und gleichgestellte Bewerbende sind herzlich willkommen! Die Schwerbehindertenvertretung (sbv-sindelfingen@mercedes-benz.com) unterstützt Sie gerne im Bewerbungsprozess.\n\nHR Services hilft Ihnen bei Fragen zum Bewerbungsprozess gerne weiter. Sie erreichen uns per E-Mail übermyhrservice@mercedes-benz.comoder telefonisch unter 0711/17-99000 (Mo-Fr 10-12 Uhr & 13-15 Uhr).\n\n\nBenefits\n\n\n- Barriere­frei­heit\n- Kantine, Café\n- Kinder­betreuung\n- Coaching\n- Betriebs­arzt\n- Mobilitäts­angebote\n- Mit­arbeiter Events\n- Mit­arbeiter­rabatte möglich\n- Mit­arbeiter­beteili­gung möglich\n- Mit­arbeiter­handy möglich\n- Essens­zulagen\n- Gesund­heits­maß­nahmen\n- Hybrides Arbeiten möglich\n- Betrieb­liche Alters­ver­sorgung\n- Park­platz\n- Gute An­bindung\n- Flexible Arbeits­zeit möglich\n\n\nKontakt\n\nJan Gaertner\nEmail: jan.gaertner@mercedes-benz.com\nBenz-Str Tor 7\n71063 Sindelfingen",
+        "source": "Arbeitsagentur",
+        "scraped_at": "2026-07-04T14:53:40.800599",
+        "api_raw_details": {
+            "stellenangebotsart": "PRAKTIKUM_TRAINEE",
+            "stellenangebotsTitel": "Praktikant*in Systems Engineering mit Fokus Künstlicher Intelligenz",
+            "quereinstiegGeeignet": false,
+            "stellenangebotsBeschreibung": "Tätigkeitsbereich: Forschung & Entwicklung incl. Design\nFachabteilung: Systems Engineering\nGesellschaft: Mercedes-Benz AG\nStandort: Sindelfingen\nStartdatum: 01.08.2026\nVeröffentlichungsdatum: 01.08.2026\nStellennummer: MER00044CZ\nArbeitszeit: Teljes munkaidő\n\n\nAufgaben\n\nDie Mercedes-Benz Group AG ist eines der erfolgreichsten Automobilunternehmen der Welt. Mit der Mercedes-Benz AG und den Geschäftsfeldern Mercedes-Benz Cars und Mercedes-Benz Vans gehört der Fahrzeughersteller zu den größten und erfolgreichsten Anbietern von Premium-Pkw. Unsere Abteilung ist verantwortlich für Systems Engineering sowie Modulmanagement. Systems Engineering ergänzt die traditionell komponentenorientierte Entwicklung von Mercedes-Benz Fahrzeugen um ein funktionsorientiertes Arbeitsmodell.\n\nMit unseren Partnern schaffen wir bereits in der frühen Phase der Fahrzeugentwicklung die Voraussetzung für Transparenz über die Kundenfunktionen in den Produkten. Dazu begleiten wir die Baureihenprojekte von der Definition der Fahrzeugfunktionen über den Entwicklungsprozess bis hin zur Freigabe und zur Serienbetreuung. Wir leben regelmäßigen Austausch zur direkten Kommunikation und Abstimmung. Unsere Team wird auf Ihre Unterstützung freuen.\n\nDiese Aufgaben kommen auf Sie zu:\n\n- Identifikation und Analyse KI-relevanter Datenquellen innerhalb der Prozesse Systems Engineering und Modulstrategie\n- Bewertung der Datenqualität, -Struktur und -Nutzbarkeit für datengetriebene und KI-basierte Anwendungen\n- Konzeption von technischen Ansätzen zur Verarbeitung, Aufbereitung und Integration heterogener Datenquellen\n- Entwicklung und Ausarbeitung von KI-Use-Cases zur intelligenten Nutzung der Daten (z. B. Analytics, Automatisierung, Entscheidungsunterstützung)\n- Berücksichtigung der methodischen Verzahnung von Systems Engineering und Modulstrategie bei der Konzeption der KI-Lösungen\n- Unterstützung bei der Überführung von Konzepten in prototypische Implementierungen (z. B. Analysen, Modelle, Proof-of-Concepts)\n- Zusammenarbeit mit interdisziplinären Teams aus IT, Engineering und Fachbereichen zur Abstimmung von Anforderungen und Lösungen\n\n\nWas wir Ihnen bieten:\n\n- Sie erhalten tiefe Einblicke in die Entwicklung und Implementierung KI-basierter Lösungen innerhalb der IT- und Engineering-Prozesse eines Premium-Automobilherstellers\n- Sie arbeiten mit realen technischen Daten, System- und Funktionsportfolios und gewinnen ein fundiertes Verständnis der digitalen und intelligenten Fähigkeiten zukünftiger Fahrzeuggenerationen\n- Sie übernehmen von Beginn an eigenständige und verantwortungsvolle Aufgaben im Umfeld Data Analytics, Machine Learning und KI-Anwendung\n- Sie wenden Ihr theoretisches IT- und KI-Wissen praxisnah an und erweitern dieses durch konkrete Use Cases und Entwicklungsprojekte\n- Sie profitieren von einer engen fachlichen Betreuung sowie einem direkten Austausch mit erfahrenen Expertinnen und Experten aus IT, Datenanalyse und Engineering\n- Sie arbeiten interdisziplinär mit verschiedenen Fachbereichen zusammen und erhalten Einblicke in moderne, agile Entwicklungs- und Projektstrukturen\n\n\nDie Tätigkeit kann flexibel ab August 2026 beginnen und eine Masterarbeit im Anschluss ist möglich.\n\n\nQualifikationen\n\n- Sie sind immatrikulierte/r Student/in (m/w/d) der Informatik, Wirtschaftsinformatik, Data Science, Maschinenbau oder eines vergleichbaren Studiengangs\n- Sie verfügen über fundierte Kenntnisse in Data Science und Machine Learning, insbesondere in datengetriebenen Analyse‑ und Modellierungsansätzen\n- Erste praktische Erfahrungen mit Programmiersprachen wie Python sowie mit Datenanalyse‑ und BI‑Tools (z. B. Pandas, SQL, Power BI o. Ä.) bringen Sie idealerweise mit\n- Ein gutes Verständnis für Datenpipelines, Datenqualität und strukturierte Datenmodelle zeichnet Sie aus\n- Grundkenntnisse zu ML‑Verfahren (z. B. Klassifikation, Clustering, NLP oder Regression) sind von Vorteil\n\n\n- Sie besitzen ein ausgeprägtes technisches und analytisches Verständnis sowie Freude an komplexen Problemstellungen\n- Sie arbeiten strukturiert, selbstständig und ergebnisorientiert\n- Sie sind teamfähig, kommunikationsstark und motiviert, neue Technologien und Frameworks schnell zu erlernen\n- Sie begeistern sich für Künstliche Intelligenz und möchten aktiv an der Umsetzung innovativer, praxisnaher AI‑Lösungen mitwirken\n\n\nZusätzliche Informationen:\n\nWir freuen uns auf Ihre Online-Bewerbung mit Lebenslauf, Anschreiben, Zeugnissen, aktueller Immatrikulationsbescheinigung mit Angabe des Fachsemesters,  ggf. Pflichtpraktikumsnachweis und Nachweis über die Regelstudienzeit. Bitte vergessen Sie nicht im Online-Formular Ihre Dokumente als \"relevant für diese Bewerbung\" zu markieren und beachten Sie die maximale Dateigröße von 5 MB.\n\nWeiterführende Informationen zu den Einstellkriterien finden Siehier  .\n\nSchwerbehinderte und gleichgestellte Bewerbende sind herzlich willkommen! Die Schwerbehindertenvertretung (sbv-sindelfingen@mercedes-benz.com) unterstützt Sie gerne im Bewerbungsprozess.\n\nHR Services hilft Ihnen bei Fragen zum Bewerbungsprozess gerne weiter. Sie erreichen uns per E-Mail übermyhrservice@mercedes-benz.comoder telefonisch unter 0711/17-99000 (Mo-Fr 10-12 Uhr & 13-15 Uhr).\n\n\nBenefits\n\n\n- Barriere­frei­heit\n- Kantine, Café\n- Kinder­betreuung\n- Coaching\n- Betriebs­arzt\n- Mobilitäts­angebote\n- Mit­arbeiter Events\n- Mit­arbeiter­rabatte möglich\n- Mit­arbeiter­beteili­gung möglich\n- Mit­arbeiter­handy möglich\n- Essens­zulagen\n- Gesund­heits­maß­nahmen\n- Hybrides Arbeiten möglich\n- Betrieb­liche Alters­ver­sorgung\n- Park­platz\n- Gute An­bindung\n- Flexible Arbeits­zeit möglich\n\n\nKontakt\n\nJan Gaertner\nEmail: jan.gaertner@mercedes-benz.com\nBenz-Str Tor 7\n71063 Sindelfingen",
+            "geforderterBildungsabschluss": "NICHT_RELEVANT",
+            "arbeitszeitSchichtNachtWochenende": false,
+            "arbeitszeitTeilzeitAbend": false,
+            "arbeitszeitTeilzeitNachmittag": false,
+            "arbeitszeitTeilzeitVormittag": false,
+            "arbeitszeitTeilzeitFlexibel": false,
+            "arbeitszeitVollzeit": true,
+            "eintrittszeitraum": {
+                "von": "2026-08-01"
+            },
+            "verguetungsangabe": "KEINE_ANGABEN",
+            "vertragsdauer": "KEINE_ANGABE",
+            "istGeringfuegigeBeschaeftigung": false,
+            "istBehinderungGefordert": false,
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "plz": "71063",
+                        "ort": "Sindelfingen",
+                        "region": "BADEN_WUERTTEMBERG",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 48.7093407,
+                    "laenge": 8.9960969
+                }
+            ],
+            "homeofficemoeglich": false,
+            "chiffrenummer": "MER00044CZ",
+            "istPrivateArbeitsvermittlung": false,
+            "istArbeitnehmerUeberlassung": false,
+            "veroeffentlichungszeitraum": {
+                "von": "2026-06-23"
+            },
+            "datumErsteVeroeffentlichung": "2026-06-23",
+            "aenderungsdatum": "2026-06-24T09:29:06.121",
+            "istBetreut": true,
+            "hauptberuf": "Informatiker/in",
+            "firma": "Mercedes-Benz Group AG",
+            "arbeitgeberKundennummerHash": "bYpSzo25jH8dzHywMh1uD_MCt5b5rndEW4jvwEZ3HUQ=",
+            "allianzpartnerUrl": "www.mercedes-benz.de",
+            "allianzpartnerName": "Mercedes-Benz AG",
+            "referenznummer": "13151-1590402-1-S"
+        }
+    },
+    {
+        "id": "13151-1586336-1-S",
+        "title": "Praktikant*in MB.CO - AI ready Schnittstellen Dokumentation & Agent Prototyp (Arazzo / MCP)",
+        "company": "Mercedes-Benz Group AG",
+        "description": "Tätigkeitsbereich: IT/Telekommunikation\nFachabteilung: Transformation\nGesellschaft: Mercedes-Benz AG\nStandort: Böblingen\nStartdatum: 01.08.2026\nVeröffentlichungsdatum: 01.08.2026\nStellennummer: MER000446K\nArbeitszeit: Teljes munkaidő\n\n\nAufgaben\n\nMercedes‑Benz entwickelt und baut Fahrzeuge weltweit. Um langfristig erfolgreich zu sein, müssen strategische Entscheidungen frühzeitig, fundiert und über viele Bereiche hinweg abgestimmt getroffen werden.\n\nDie strategische Planung ist dafür ein zentraler Hebel. Sie bildet die Grundlage für langfristige Produkt‑ und Portfolioentscheidungen, Wirtschaftlichkeits‑ und Investitionsbewertungen, Lieferantenvergaben, Kapazitäts‑ und Produktionsentscheidungen sowie viele weitere unternehmensweite Fragestellungen.\n\nHierfür werden unterschiedliche Szenarien entwickelt, geprüft und miteinander verglichen – über verschiedene Fachbereiche hinweg. Damit dies effizient funktioniert, müssen mehrere IT‑Systeme eng zusammenarbeiten und Daten sauber über Schnittstellen austauschen.\nNur wenn diese Schnittstellen klar beschrieben, zuverlässig verknüpft und konsistent genutzt werden, kann strategische Planung effizient funktionieren.\nGleichzeitig müssen wir die Grundlagen dafür schaffen, dass diese Zusammenhänge künftig auch von KI‑Agenten verstanden und selbstständig genutzt werden können – als Basis für eine intelligente, strategische Planung der Zukunft.\n\nDiese Herausforderungen kommen u. a. auf Dich zu:\n\nKI‑Agenten können nur dann sinnvoll unterstützen, wenn sie die zugrunde liegenden System‑ und Datenzusammenhänge wirklich verstehen.\n\nZiel des Praktikums bzw. der Masterarbeit ist es, unsere Schnittstellenlandschaft AI‑ready aufzubereiten und diese Annahmen direkt praktisch zu verproben. Dazu beschreibst du die Zusammenhänge zwischen Schnittstellen standardisiert und setzt einen KI‑Agenten als Proof of Concept um, der selbstständig die richtigen Daten über die richtigen Schnittstellen abruft und Informationen aus mehreren Systemen verknüpft.\n\nKonkret gehen wir dabei wie folgt vor:\n\n-\nÜberblick über die Schnittstellen-Landschaft gewinnen\nVerstehen, welche Schnittstellen existieren, welche Daten sie liefern und wie sie heute genutzt werden.\n\n-\nSchnittstellen‑Zusammenhänge standardisiert beschreiben\nAufbau einer übergreifenden Beschreibung, wie mehrere Schnittstellen entlang typischer End‑to‑End‑Abläufe zusammenwirken\n(z. B. mit Arazzo, einem Standard zur Beschreibung von Abläufen über mehrere APIs hinweg).\n\n-\nTechnisch für KI nutzbar machen\nAusgewählte Schnittstellen so anbinden, dass ein KI‑Agent sie aufrufen kann\n(z. B. mit MCP, einem Standard zur einheitlichen Nutzung von APIs durch KI‑Agenten).\n\n-\nKI‑Agent als Proof of Concept umsetzen\nUmsetzung eines Agenten, der die beschriebenen Zusammenhänge nutzt und sich selbstständig die richtigen Daten aus den richtigen Schnittstellen erschließt.\n\n-\nOptionale Vertiefung: Multi‑Agent‑Ansatz (ACP)\nUntersuchung, ob die Aufgaben besser durch einen zentralen KI‑Agenten oder durch mehrere spezialisierte Agenten umgesetzt werden können, die über einen definierten Kommunikationsmechanismus zusammenarbeiten\n(zum Beispiel mithilfe von ACP – Agent Communication Protocol).\n\n\nDie Tätigkeit kann ab August 2026 beginnen.\n\n\nQualifikationen\n\n-\nEingeschriebene:r Student:in in einem relevanten Studiengang, z. B. Informatik, Wirtschaftsinformatik, Data Science, Software Engineering oder einem vergleichbaren technischen Studiengang\n\n-\nProgrammierkenntnisse in TypeScript/JavaScript oder Python\n\n-\nGrundverständnis von APIs (REST, HTTP, JSON)\n\n-\nFähigkeit, komplexe technische Zusammenhänge strukturiert zu erfassen und verständlich zu dokumentieren\n\n-\nGute Deutsch‑ und Englischkenntnisse\n\n-\nSelbstständige Arbeitsweise und Lust, dich eigenständig in neue Technologien einzuarbeiten\n\n-\nErste praktische Erfahrung in der programmatischen Umsetzung und Erprobung von KI‑Agenten\n\n-\nErfahrung mit OpenAPI / Swagger\n\n-\nErfahrung in der vertieften programmatischen Entwicklung von KI‑Agenten, einschließlich API‑Integration, Workflow‑Logik oder Agent‑Orchestrierung (z. B. Arazzo, MCP, ACP)\n\n\nWas du mitnimmst\n\n-\nEinblick in strategische Planung und die IT‑Landschaft eines großen Industrieunternehmens\n\n-\nArbeit an einem Thema mit direktem Nutzen heute (bessere End‑to‑End‑Dokumentation) und strategischem Nutzen morgen (Grundlage für komplexere KI‑Agenten)\n\n-\nEin eigenverantwortliches Projekt mit klaren Deliverables in zukunftsrelevanten Technologien und Standards\n\n\nZusätzliche Informationen:\n\nWir freuen uns auf Deine Online-Bewerbung mit Lebenslauf, Anschreiben, Zeugnissen, aktueller Immatrikulationsbescheinigung mit Angabe des Fachsemesters, ggf. Pflichtpraktikumsnachweis und Nachweis über die Regelstudienzeit. Bitte vergiss nicht im Online-Formular Deine Dokumente als \"relevant für diese Bewerbung\" zu markieren und beachten die maximale Dateigröße von 5 MB.\n\nWeiterführende Informationen zu den Einstellkriterien findest Duhier  .\n\nSchwerbehinderte und gleichgestellte Bewerbende sind herzlich willkommen! Die Schwerbehindertenvertretung (sbv-sindelfingen@mercedes-benz.com) unterstützt Dich gerne im Bewerbungsprozess.\n\nHR Services hilft Dir bei Fragen zum Bewerbungsprozess gerne weiter. Du erreichst uns per E-Mail übermyhrservice@mercedes-benz.comoder telefonisch unter 0711/17-99000 (Mo-Fr 10-12 Uhr & 13-15 Uhr).\n\n\nBenefits\n\n\n- Barriere­frei­heit\n- Kantine, Café\n- Kinder­betreuung\n- Coaching\n- Betriebs­arzt\n- Mobilitäts­angebote\n- Mit­arbeiter Events\n- Mit­arbeiter­rabatte möglich\n- Mit­arbeiter­beteili­gung möglich\n- Mit­arbeiter­handy möglich\n- Essens­zulagen\n- Gesund­heits­maß­nahmen\n- Hybrides Arbeiten möglich\n- Betrieb­liche Alters­ver­sorgung\n- Park­platz\n- Gute An­bindung\n- Flexible Arbeits­zeit möglich\n\n\nKontakt\n\nSilke Hähnel\nEmail: silke.haehnel@mercedes-benz.com\nHerrenberger Str. 110 Planquadrat\n71034 Böblingen",
+        "source": "Arbeitsagentur",
+        "scraped_at": "2026-07-04T14:53:41.640834",
+        "api_raw_details": {
+            "stellenangebotsart": "PRAKTIKUM_TRAINEE",
+            "stellenangebotsTitel": "Praktikant*in MB.CO - AI ready Schnittstellen Dokumentation & Agent Prototyp (Arazzo / MCP)",
+            "quereinstiegGeeignet": false,
+            "stellenangebotsBeschreibung": "Tätigkeitsbereich: IT/Telekommunikation\nFachabteilung: Transformation\nGesellschaft: Mercedes-Benz AG\nStandort: Böblingen\nStartdatum: 01.08.2026\nVeröffentlichungsdatum: 01.08.2026\nStellennummer: MER000446K\nArbeitszeit: Teljes munkaidő\n\n\nAufgaben\n\nMercedes‑Benz entwickelt und baut Fahrzeuge weltweit. Um langfristig erfolgreich zu sein, müssen strategische Entscheidungen frühzeitig, fundiert und über viele Bereiche hinweg abgestimmt getroffen werden.\n\nDie strategische Planung ist dafür ein zentraler Hebel. Sie bildet die Grundlage für langfristige Produkt‑ und Portfolioentscheidungen, Wirtschaftlichkeits‑ und Investitionsbewertungen, Lieferantenvergaben, Kapazitäts‑ und Produktionsentscheidungen sowie viele weitere unternehmensweite Fragestellungen.\n\nHierfür werden unterschiedliche Szenarien entwickelt, geprüft und miteinander verglichen – über verschiedene Fachbereiche hinweg. Damit dies effizient funktioniert, müssen mehrere IT‑Systeme eng zusammenarbeiten und Daten sauber über Schnittstellen austauschen.\nNur wenn diese Schnittstellen klar beschrieben, zuverlässig verknüpft und konsistent genutzt werden, kann strategische Planung effizient funktionieren.\nGleichzeitig müssen wir die Grundlagen dafür schaffen, dass diese Zusammenhänge künftig auch von KI‑Agenten verstanden und selbstständig genutzt werden können – als Basis für eine intelligente, strategische Planung der Zukunft.\n\nDiese Herausforderungen kommen u. a. auf Dich zu:\n\nKI‑Agenten können nur dann sinnvoll unterstützen, wenn sie die zugrunde liegenden System‑ und Datenzusammenhänge wirklich verstehen.\n\nZiel des Praktikums bzw. der Masterarbeit ist es, unsere Schnittstellenlandschaft AI‑ready aufzubereiten und diese Annahmen direkt praktisch zu verproben. Dazu beschreibst du die Zusammenhänge zwischen Schnittstellen standardisiert und setzt einen KI‑Agenten als Proof of Concept um, der selbstständig die richtigen Daten über die richtigen Schnittstellen abruft und Informationen aus mehreren Systemen verknüpft.\n\nKonkret gehen wir dabei wie folgt vor:\n\n-\nÜberblick über die Schnittstellen-Landschaft gewinnen\nVerstehen, welche Schnittstellen existieren, welche Daten sie liefern und wie sie heute genutzt werden.\n\n-\nSchnittstellen‑Zusammenhänge standardisiert beschreiben\nAufbau einer übergreifenden Beschreibung, wie mehrere Schnittstellen entlang typischer End‑to‑End‑Abläufe zusammenwirken\n(z. B. mit Arazzo, einem Standard zur Beschreibung von Abläufen über mehrere APIs hinweg).\n\n-\nTechnisch für KI nutzbar machen\nAusgewählte Schnittstellen so anbinden, dass ein KI‑Agent sie aufrufen kann\n(z. B. mit MCP, einem Standard zur einheitlichen Nutzung von APIs durch KI‑Agenten).\n\n-\nKI‑Agent als Proof of Concept umsetzen\nUmsetzung eines Agenten, der die beschriebenen Zusammenhänge nutzt und sich selbstständig die richtigen Daten aus den richtigen Schnittstellen erschließt.\n\n-\nOptionale Vertiefung: Multi‑Agent‑Ansatz (ACP)\nUntersuchung, ob die Aufgaben besser durch einen zentralen KI‑Agenten oder durch mehrere spezialisierte Agenten umgesetzt werden können, die über einen definierten Kommunikationsmechanismus zusammenarbeiten\n(zum Beispiel mithilfe von ACP – Agent Communication Protocol).\n\n\nDie Tätigkeit kann ab August 2026 beginnen.\n\n\nQualifikationen\n\n-\nEingeschriebene:r Student:in in einem relevanten Studiengang, z. B. Informatik, Wirtschaftsinformatik, Data Science, Software Engineering oder einem vergleichbaren technischen Studiengang\n\n-\nProgrammierkenntnisse in TypeScript/JavaScript oder Python\n\n-\nGrundverständnis von APIs (REST, HTTP, JSON)\n\n-\nFähigkeit, komplexe technische Zusammenhänge strukturiert zu erfassen und verständlich zu dokumentieren\n\n-\nGute Deutsch‑ und Englischkenntnisse\n\n-\nSelbstständige Arbeitsweise und Lust, dich eigenständig in neue Technologien einzuarbeiten\n\n-\nErste praktische Erfahrung in der programmatischen Umsetzung und Erprobung von KI‑Agenten\n\n-\nErfahrung mit OpenAPI / Swagger\n\n-\nErfahrung in der vertieften programmatischen Entwicklung von KI‑Agenten, einschließlich API‑Integration, Workflow‑Logik oder Agent‑Orchestrierung (z. B. Arazzo, MCP, ACP)\n\n\nWas du mitnimmst\n\n-\nEinblick in strategische Planung und die IT‑Landschaft eines großen Industrieunternehmens\n\n-\nArbeit an einem Thema mit direktem Nutzen heute (bessere End‑to‑End‑Dokumentation) und strategischem Nutzen morgen (Grundlage für komplexere KI‑Agenten)\n\n-\nEin eigenverantwortliches Projekt mit klaren Deliverables in zukunftsrelevanten Technologien und Standards\n\n\nZusätzliche Informationen:\n\nWir freuen uns auf Deine Online-Bewerbung mit Lebenslauf, Anschreiben, Zeugnissen, aktueller Immatrikulationsbescheinigung mit Angabe des Fachsemesters, ggf. Pflichtpraktikumsnachweis und Nachweis über die Regelstudienzeit. Bitte vergiss nicht im Online-Formular Deine Dokumente als \"relevant für diese Bewerbung\" zu markieren und beachten die maximale Dateigröße von 5 MB.\n\nWeiterführende Informationen zu den Einstellkriterien findest Duhier  .\n\nSchwerbehinderte und gleichgestellte Bewerbende sind herzlich willkommen! Die Schwerbehindertenvertretung (sbv-sindelfingen@mercedes-benz.com) unterstützt Dich gerne im Bewerbungsprozess.\n\nHR Services hilft Dir bei Fragen zum Bewerbungsprozess gerne weiter. Du erreichst uns per E-Mail übermyhrservice@mercedes-benz.comoder telefonisch unter 0711/17-99000 (Mo-Fr 10-12 Uhr & 13-15 Uhr).\n\n\nBenefits\n\n\n- Barriere­frei­heit\n- Kantine, Café\n- Kinder­betreuung\n- Coaching\n- Betriebs­arzt\n- Mobilitäts­angebote\n- Mit­arbeiter Events\n- Mit­arbeiter­rabatte möglich\n- Mit­arbeiter­beteili­gung möglich\n- Mit­arbeiter­handy möglich\n- Essens­zulagen\n- Gesund­heits­maß­nahmen\n- Hybrides Arbeiten möglich\n- Betrieb­liche Alters­ver­sorgung\n- Park­platz\n- Gute An­bindung\n- Flexible Arbeits­zeit möglich\n\n\nKontakt\n\nSilke Hähnel\nEmail: silke.haehnel@mercedes-benz.com\nHerrenberger Str. 110 Planquadrat\n71034 Böblingen",
+            "geforderterBildungsabschluss": "NICHT_RELEVANT",
+            "arbeitszeitSchichtNachtWochenende": false,
+            "arbeitszeitTeilzeitAbend": false,
+            "arbeitszeitTeilzeitNachmittag": false,
+            "arbeitszeitTeilzeitVormittag": false,
+            "arbeitszeitTeilzeitFlexibel": false,
+            "arbeitszeitVollzeit": true,
+            "eintrittszeitraum": {
+                "von": "2026-08-01"
+            },
+            "verguetungsangabe": "KEINE_ANGABEN",
+            "vertragsdauer": "KEINE_ANGABE",
+            "istGeringfuegigeBeschaeftigung": false,
+            "istBehinderungGefordert": false,
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "plz": "71034",
+                        "ort": "Böblingen",
+                        "region": "BADEN_WUERTTEMBERG",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 48.682439,
+                    "laenge": 8.9806055
+                }
+            ],
+            "homeofficemoeglich": false,
+            "chiffrenummer": "MER000446K",
+            "istPrivateArbeitsvermittlung": false,
+            "istArbeitnehmerUeberlassung": false,
+            "veroeffentlichungszeitraum": {
+                "von": "2026-06-12"
+            },
+            "datumErsteVeroeffentlichung": "2026-06-12",
+            "aenderungsdatum": "2026-06-15T11:20:50.663",
+            "istBetreut": true,
+            "hauptberuf": "Informatiker/in",
+            "firma": "Mercedes-Benz Group AG",
+            "arbeitgeberKundennummerHash": "bYpSzo25jH8dzHywMh1uD_MCt5b5rndEW4jvwEZ3HUQ=",
+            "allianzpartnerUrl": "www.mercedes-benz.de",
+            "allianzpartnerName": "Mercedes-Benz AG",
+            "referenznummer": "13151-1586336-1-S"
+        }
+    },
+    {
+        "id": "12708-1484779-1-S",
+        "title": "Praktikant*in - Drug Substance Digital Process Chemistry (alle Geschlechter)",
+        "company": "Bayer AG Pharmaceuticals",
+        "description": "**Wo möchtest du hin? Was möchtest du erreichen? Wie möchtest du dich einbringen? Du hast die Wahl und wir unterstützen dich auf deinem Weg. Bei Bayer kommen Multitalente und Spezialist\\*innen, Visionäre und leidenschaftliche Menschen, Denker\\*innen und Macher\\*innen zusammen, um die Welt zu ernähren, den Klimawandel zu verlangsamen und gesündere, nachhaltigere Leben für alle zu schaffen. Dies ist die Gelegenheit, deine Karriere bei einem weltweit führenden Konzern zu starten, der sich für #HealthForAll #HungerForNone einsetzt. Bringe deine Ideen, dein Können und deine Leidenschaft mit. Deine Karriere beginnt hier.**\n\n\n**Praktikant\\*in - Drug Substance Digital Process Chemistry (alle Geschlechter)**\n\n\nDu wirst Teil des **Drug Substance Small Molecules (DSSM)** Teams. Unser Team ist verantwortlich für die frühe und späte technische Entwicklung unserer synthetischen chemischen API-Pipeline, die Herstellung von Wirkstoffen für klinische Studien und die Übertragung der Prozesse in die Produktion. In der Prozesschemie entwickeln wir phasengerechte chemische Herstellungsverfahren für klinische API-Kandidaten und konzentrieren uns darauf, optimale Prozesse hinsichtlich Robustheit, Qualität, Kosten, Sicherheit und Nachhaltigkeit zu identifizieren. Um dieses Ziel zu erreichen, nutzen wir modernstes Synthese-Know-how in Kombination mit Automatisierung und Datenwissenschaft.\n\nDu bist Student*in (alle Geschlechter) der Chemie und hast Interesse an Prozessentwicklung und digitaler Chemie. Darüber hinaus bist du daran interessiert, dein Wissen im Rahmen deines Praktikums in einem modernen Arbeitsumfeld zu nutzen und zu teilen.\n\n\n**DEINE AUFGABEN UND LERNFELDER**\n\n\n- Einblicke in die industrielle Forschung, Entwicklung und Produktion von Arzneimitteln gewinnen\n- Zu laufenden Prozessentwicklungsprojekten beitragen, indem du Reaktionen und Prozesse in enger Zusammenarbeit mit erfahrenen Laborteams entwirfst, durchführst und analysierst\n- Verschiedene Bereiche der Chemie erkunden, einschließlich Routenfindung, Skalierung, Prozessentwicklung und digitaler Chemie\n- Umfassende Dokumentation experimenteller Verfahren, Ergebnisse und Protokolle entwickeln und pflegen\n- Ergebnisse und Fortschrittsberichte an interne Stakeholder präsentieren\n\n\n**WAS DU MITBRINGST**\n\n\n- Du hast deinen Bachelor of Science in organischer Chemie, digitaler Chemie oder einem verwandten Fachgebiet abgeschlossen\n- Du bist aktuell im Masterprogramm eingeschrieben oder hast einen Masterabschluss und stehst unmittelbar vor dem Start deiner Promotion in Chemie oder einem vergleichbaren Bereich\n- Du bringst die Leidenschaft mit, organische Chemie mit Data Science zu kombinieren und neue Arbeitsweisen zu gestalten\n- Du hast Laborerfahrung in der organischen Synthese und Expertise in digitaler Chemie\n- Du bist teamfähig und zeichnest dich durch eine zielorientierte Arbeitsweise aus\n- Du verfügst über ein hohes Maß an Zuverlässigkeit und Integrität\n- Du bringst eine starke Lernbereitschaft mit und arbeitest gerne in einem interdisziplinären Team\n- Gute Deutsch- und Englischkenntnisse in Wort und Schrift runden dein Profil ab\n\n\n**WIR BIETEN**\n\n\nEin Praktikum für die Dauer von 6 Monaten ab dem Jahr 2027. Im Anschluss besteht die Möglichkeit, um weitere 6 Monate zu verlängern um z. B. eine Thesis zu schreiben. Um deine Bewerbung berücksichtigen zu können, benötigen wir bitte die folgenden Unterlagen. Lade diese am besten gebündelt in einer Datei hoch:\n\n\no Motivationsschreiben\n\no Aktueller Lebenslauf\no Immatrikulationsbescheinigung\n\n\nAusgewählte Kandidaten werden zunächst zu einem virtuellen Interview eingeladen. Das Praktikum kann jederzeit im Laufe des Jahres begonnen werden und hat eine Standarddauer von sechs Monaten, mit der Option, es um bis zu weitere sechs Monate zu verlängern, um eine Masterarbeit anzufertigen. Bitte gib in deiner Bewerbung deinen gewünschten Startzeitpunkt des Praktikums und die Dauer an.\n\n\n**Um die Position kontinuierlich mit neuen Student\\*innen (alle Geschlechter) zu besetzen, stellen wir jährlich ein. Daher ist es sehr wichtig, dass du in deiner Bewerbung bitte dein bevorzugtes Startdatum sowie die gewünschte Dauer des Praktikums angibst.**\n\n\n**WARUM BAYER?**\n\n\nUnser Leistungspaket ist flexibel, wertschätzend und auf deine Lebensweise zugeschnitten, denn: Was dir wichtig ist, ist uns wichtig!\n\n\n- Bei einer Vollzeitbeschäftigung erwartet Dich eine attraktive Vergütung von 2.280,- € brutto pro Monat\n- Je nach Art der Arbeit und in Absprache mit deinem Vorgesetzten sind verschiedene flexible Arbeitszeitmodelle möglich\n- Deine Weiterentwicklung fördern wir durch Zugang zu Lernmöglichkeiten wie LinkedIn Learning und unserer Sprachlernplattform Education First\n- Nachhaltige Mobilität bekräftigen wir, durch klimafreundliche Mobilitätsoptionen wie Jobticket und Bike Sharing\n- Spannende Vorteile und Zugang zu Rabatten von mehr als 150 Marken erhältst du mit unserem Corporate-Benefits-Programm\n- Diversität feiern wir, mit einer inklusiven Arbeitsumgebung, in der du willkommen geheißen, unterstützt und ermutigt wirst, deine ganze Persönlichkeit einzubringen\n\n\nFühlst Du dich manchmal von der Bürokratie ausgebrannt? Wir auch. Deshalb ändern wir die Art und Weise, wie wir arbeiten - für höhere Produktivität, schnellere Innovation und bessere Ergebnisse. Wir nennen es Dynamic Shared Ownership (DSO). Erfahre hier mehr darüber, was DSO für Dich in Deiner neuen Rolle bedeuten wird: [https://www.bayer.com/en/strategy/strategy](https://www.bayer.com/en/strategy/strategy)\n\nUnser Auftrag und unsere Strategie:\n\nMit Dynamic Shared Ownership machen wir Schluss mit dem hierarchischen Modell und legen mehr Macht in die Hände der Innovatoren und Kreativen bei Bayer.\n\n\nDEINE BEWERBUNG\n\nDies ist deine Chance, dich mit uns gemeinsam den größten globalen Herausforderungen unserer Zeit zu stellen: die Gesundheit der Menschen zu erhalten, die wachsende Weltbevölkerung zu ernähren und den Klimawandel zu verlangsamen. Du hast eine Stimme, Ideen und Perspektiven, die wir hören möchten. Denn unser Erfolg beginnt mit dir. Sei dabei. Sei Bayer.\n\nBayer begrüßt Bewerbungen aller Menschen ungeachtet von ethnischer Herkunft, nationaler Herkunft, Geschlecht, Alter, körperlichen Merkmalen, sozialer Herkunft, Behinderung, Mitgliedschaft in einer Gewerkschaft, Religion, Familienstand, Schwangerschaft, sexueller Orientierung, Geschlechtsidentität oder einem anderen sachfremden Kriterium nach geltendem Recht. Wir bekennen uns zu dem Grundsatz, alle Bewerber*innen fair zu behandeln und Benachteiligungen zu vermeiden.\n\n\nStandort:           ​​ ​   Deutschland : Nordrhein-Westfalen : Wuppertal-Elberfeld​\n\n​​Division: ​               Pharmaceuticals​\n\nReferenzcode:      853779​\n\n\n#Jobdrehscheibe",
+        "source": "Arbeitsagentur",
+        "scraped_at": "2026-07-04T14:53:42.499068",
+        "api_raw_details": {
+            "stellenangebotsart": "PRAKTIKUM_TRAINEE",
+            "stellenangebotsTitel": "Praktikant*in - Drug Substance Digital Process Chemistry (alle Geschlechter)",
+            "quereinstiegGeeignet": false,
+            "stellenangebotsBeschreibung": "**Wo möchtest du hin? Was möchtest du erreichen? Wie möchtest du dich einbringen? Du hast die Wahl und wir unterstützen dich auf deinem Weg. Bei Bayer kommen Multitalente und Spezialist\\*innen, Visionäre und leidenschaftliche Menschen, Denker\\*innen und Macher\\*innen zusammen, um die Welt zu ernähren, den Klimawandel zu verlangsamen und gesündere, nachhaltigere Leben für alle zu schaffen. Dies ist die Gelegenheit, deine Karriere bei einem weltweit führenden Konzern zu starten, der sich für #HealthForAll #HungerForNone einsetzt. Bringe deine Ideen, dein Können und deine Leidenschaft mit. Deine Karriere beginnt hier.**\n\n\n**Praktikant\\*in - Drug Substance Digital Process Chemistry (alle Geschlechter)**\n\n\nDu wirst Teil des **Drug Substance Small Molecules (DSSM)** Teams. Unser Team ist verantwortlich für die frühe und späte technische Entwicklung unserer synthetischen chemischen API-Pipeline, die Herstellung von Wirkstoffen für klinische Studien und die Übertragung der Prozesse in die Produktion. In der Prozesschemie entwickeln wir phasengerechte chemische Herstellungsverfahren für klinische API-Kandidaten und konzentrieren uns darauf, optimale Prozesse hinsichtlich Robustheit, Qualität, Kosten, Sicherheit und Nachhaltigkeit zu identifizieren. Um dieses Ziel zu erreichen, nutzen wir modernstes Synthese-Know-how in Kombination mit Automatisierung und Datenwissenschaft.\n\nDu bist Student*in (alle Geschlechter) der Chemie und hast Interesse an Prozessentwicklung und digitaler Chemie. Darüber hinaus bist du daran interessiert, dein Wissen im Rahmen deines Praktikums in einem modernen Arbeitsumfeld zu nutzen und zu teilen.\n\n\n**DEINE AUFGABEN UND LERNFELDER**\n\n\n- Einblicke in die industrielle Forschung, Entwicklung und Produktion von Arzneimitteln gewinnen\n- Zu laufenden Prozessentwicklungsprojekten beitragen, indem du Reaktionen und Prozesse in enger Zusammenarbeit mit erfahrenen Laborteams entwirfst, durchführst und analysierst\n- Verschiedene Bereiche der Chemie erkunden, einschließlich Routenfindung, Skalierung, Prozessentwicklung und digitaler Chemie\n- Umfassende Dokumentation experimenteller Verfahren, Ergebnisse und Protokolle entwickeln und pflegen\n- Ergebnisse und Fortschrittsberichte an interne Stakeholder präsentieren\n\n\n**WAS DU MITBRINGST**\n\n\n- Du hast deinen Bachelor of Science in organischer Chemie, digitaler Chemie oder einem verwandten Fachgebiet abgeschlossen\n- Du bist aktuell im Masterprogramm eingeschrieben oder hast einen Masterabschluss und stehst unmittelbar vor dem Start deiner Promotion in Chemie oder einem vergleichbaren Bereich\n- Du bringst die Leidenschaft mit, organische Chemie mit Data Science zu kombinieren und neue Arbeitsweisen zu gestalten\n- Du hast Laborerfahrung in der organischen Synthese und Expertise in digitaler Chemie\n- Du bist teamfähig und zeichnest dich durch eine zielorientierte Arbeitsweise aus\n- Du verfügst über ein hohes Maß an Zuverlässigkeit und Integrität\n- Du bringst eine starke Lernbereitschaft mit und arbeitest gerne in einem interdisziplinären Team\n- Gute Deutsch- und Englischkenntnisse in Wort und Schrift runden dein Profil ab\n\n\n**WIR BIETEN**\n\n\nEin Praktikum für die Dauer von 6 Monaten ab dem Jahr 2027. Im Anschluss besteht die Möglichkeit, um weitere 6 Monate zu verlängern um z. B. eine Thesis zu schreiben. Um deine Bewerbung berücksichtigen zu können, benötigen wir bitte die folgenden Unterlagen. Lade diese am besten gebündelt in einer Datei hoch:\n\n\no Motivationsschreiben\n\no Aktueller Lebenslauf\no Immatrikulationsbescheinigung\n\n\nAusgewählte Kandidaten werden zunächst zu einem virtuellen Interview eingeladen. Das Praktikum kann jederzeit im Laufe des Jahres begonnen werden und hat eine Standarddauer von sechs Monaten, mit der Option, es um bis zu weitere sechs Monate zu verlängern, um eine Masterarbeit anzufertigen. Bitte gib in deiner Bewerbung deinen gewünschten Startzeitpunkt des Praktikums und die Dauer an.\n\n\n**Um die Position kontinuierlich mit neuen Student\\*innen (alle Geschlechter) zu besetzen, stellen wir jährlich ein. Daher ist es sehr wichtig, dass du in deiner Bewerbung bitte dein bevorzugtes Startdatum sowie die gewünschte Dauer des Praktikums angibst.**\n\n\n**WARUM BAYER?**\n\n\nUnser Leistungspaket ist flexibel, wertschätzend und auf deine Lebensweise zugeschnitten, denn: Was dir wichtig ist, ist uns wichtig!\n\n\n- Bei einer Vollzeitbeschäftigung erwartet Dich eine attraktive Vergütung von 2.280,- € brutto pro Monat\n- Je nach Art der Arbeit und in Absprache mit deinem Vorgesetzten sind verschiedene flexible Arbeitszeitmodelle möglich\n- Deine Weiterentwicklung fördern wir durch Zugang zu Lernmöglichkeiten wie LinkedIn Learning und unserer Sprachlernplattform Education First\n- Nachhaltige Mobilität bekräftigen wir, durch klimafreundliche Mobilitätsoptionen wie Jobticket und Bike Sharing\n- Spannende Vorteile und Zugang zu Rabatten von mehr als 150 Marken erhältst du mit unserem Corporate-Benefits-Programm\n- Diversität feiern wir, mit einer inklusiven Arbeitsumgebung, in der du willkommen geheißen, unterstützt und ermutigt wirst, deine ganze Persönlichkeit einzubringen\n\n\nFühlst Du dich manchmal von der Bürokratie ausgebrannt? Wir auch. Deshalb ändern wir die Art und Weise, wie wir arbeiten - für höhere Produktivität, schnellere Innovation und bessere Ergebnisse. Wir nennen es Dynamic Shared Ownership (DSO). Erfahre hier mehr darüber, was DSO für Dich in Deiner neuen Rolle bedeuten wird: [https://www.bayer.com/en/strategy/strategy](https://www.bayer.com/en/strategy/strategy)\n\nUnser Auftrag und unsere Strategie:\n\nMit Dynamic Shared Ownership machen wir Schluss mit dem hierarchischen Modell und legen mehr Macht in die Hände der Innovatoren und Kreativen bei Bayer.\n\n\nDEINE BEWERBUNG\n\nDies ist deine Chance, dich mit uns gemeinsam den größten globalen Herausforderungen unserer Zeit zu stellen: die Gesundheit der Menschen zu erhalten, die wachsende Weltbevölkerung zu ernähren und den Klimawandel zu verlangsamen. Du hast eine Stimme, Ideen und Perspektiven, die wir hören möchten. Denn unser Erfolg beginnt mit dir. Sei dabei. Sei Bayer.\n\nBayer begrüßt Bewerbungen aller Menschen ungeachtet von ethnischer Herkunft, nationaler Herkunft, Geschlecht, Alter, körperlichen Merkmalen, sozialer Herkunft, Behinderung, Mitgliedschaft in einer Gewerkschaft, Religion, Familienstand, Schwangerschaft, sexueller Orientierung, Geschlechtsidentität oder einem anderen sachfremden Kriterium nach geltendem Recht. Wir bekennen uns zu dem Grundsatz, alle Bewerber*innen fair zu behandeln und Benachteiligungen zu vermeiden.\n\n\nStandort:           ​​ ​   Deutschland : Nordrhein-Westfalen : Wuppertal-Elberfeld​\n\n​​Division: ​               Pharmaceuticals​\n\nReferenzcode:      853779​\n\n\n#Jobdrehscheibe",
+            "geforderterBildungsabschluss": "NICHT_RELEVANT",
+            "arbeitszeitSchichtNachtWochenende": false,
+            "arbeitszeitTeilzeitAbend": false,
+            "arbeitszeitTeilzeitNachmittag": false,
+            "arbeitszeitTeilzeitVormittag": false,
+            "arbeitszeitTeilzeitFlexibel": false,
+            "arbeitszeitVollzeit": true,
+            "eintrittszeitraum": {
+                "von": "2026-06-23"
+            },
+            "verguetungsangabe": "KEINE_ANGABEN",
+            "vertragsdauer": "BEFRISTET",
+            "befristungInMonaten": 6,
+            "istGeringfuegigeBeschaeftigung": false,
+            "istBehinderungGefordert": false,
+            "stellenlokationen": [
+                {
+                    "adresse": {
+                        "plz": "42117",
+                        "ort": "Wuppertal",
+                        "region": "NORDRHEIN_WESTFALEN",
+                        "land": "DEUTSCHLAND"
+                    },
+                    "breite": 51.2428373,
+                    "laenge": 7.128648
+                }
+            ],
+            "homeofficemoeglich": false,
+            "chiffrenummer": "SF853779",
+            "istPrivateArbeitsvermittlung": false,
+            "istArbeitnehmerUeberlassung": false,
+            "veroeffentlichungszeitraum": {
+                "von": "2025-10-07"
+            },
+            "datumErsteVeroeffentlichung": "2025-09-25",
+            "aenderungsdatum": "2026-06-22T14:31:36.969",
+            "istBetreut": true,
+            "hauptberuf": "Chemiker/in",
+            "firma": "Bayer AG Pharmaceuticals",
+            "arbeitgeberKundennummerHash": "sy1xgz3-3negwEvy7JPHjYcKEvHUmRLFg8heCYuvD8w=",
+            "allianzpartnerUrl": "www.karriere.bayer.de",
+            "allianzpartnerName": "Bayer AG",
+            "referenznummer": "12708-1484779-1-S"
+        }
+    }
+]
