@@ -1,0 +1,80 @@
+TITEL: Masterarbeit Datengetriebene Analyse und Prognose charakteristischer Thermal-Runaway-Kenngrößen von Lithium-Ionen-Zellen
+BEWERBUNGS-LINK: https://de.indeed.com/applystart?jk=48d84ca89ef775e0&from=vj&pos=bottom&mvj=0&jobsearchTk=1jr0gk1tthbbi800&spon=0&xkcb=SoC067M3igpfmvzNxR0PbzkdCdPP&xfps=1751c68e-aaaa-4b42-84e2-41705b146dff&vjfrom=vjs&asub=mob&astse=efe4524da2f187dd&assa=3102
+------------------------------------------------------------
+
+Ziel dieser Arbeit ist die Entwicklung eines datengetriebenen Ansatzes zur Analyse, Strukturierung und Prognose charakteristischer Kenngrößen des Thermal-Runaway-Verhaltens von Lithium-Ionen-Zellen. Im Fokus steht dabei nicht die vollständige Vorhersage des gesamten Signalverlaufs, sondern die Bestimmung relevanter Zielgrößen wie beispielsweise Onset-Zeitpunkte, Maximalwerte, Venting-Charakteristika oder weiterer charakteristischer Bewertungsgrößen. Grundlage hierfür bilden umfangreiche experimentelle Messdaten aus Thermal-Runaway-Versuchen sowie vorhandene Simulationsdaten, die zur strukturierten Einordnung, zum Vergleich und zur Erweiterung des Datenraums herangezogen werden.
+
+Im ersten Schritt erfolgt eine systematische Analyse und Aufbereitung der vorhandenen Versuchs- und Simulationsdaten. Darauf aufbauend werden geeignete Eingangsgrößen und Zielgrößen definiert sowie relevante Einflussparameter identifiziert. Anschließend ist ein datengetriebener Modellierungsansatz – beispielsweise auf Basis von Machine-Learning-Methoden oder neuronalen Netzen – zu entwickeln, zu trainieren und zu validieren. Ziel ist es, aus bekannten Zell- und Versuchsparametern charakteristische Thermal-Runaway-Kenngrößen belastbar zu prognostizieren, Trends zu identifizieren und neue Zusammenhänge innerhalb eines definierten Parameterraums abzuleiten. Abschließend sind die Prognosegüte, die Übertragbarkeit des Ansatzes sowie die Aussagekraft der identifizierten Einflussgrößen kritisch zu bewerten.
+Kennziffer: J000020702
+Einstiegsart: Abschlussarbeit
+Einsatzort: Weissach
+Gesellschaft: Dr. Ing. h.c. F. Porsche AG
+Aufgaben
+AufgabenAufgaben
+Durchführung einer systematischen Literaturrecherche zu datengetriebenen und statistischen Ansätzen zur Beschreibung und Prognose des Thermal-Runaway-Verhaltens von Lithium-Ionen-Zellen
+Analyse, Strukturierung und Aufbereitung vorhandener experimenteller Messdaten aus Thermal-Runaway-Versuchen
+Einbindung vorhandener Simulationsdaten zur Unterstützung der Datenauswertung, Merkmalsbildung und Modellbewertung
+Identifikation und Definition charakteristischer Zielgrößen, z. B. Onset-Zeitpunkte, Maximaltemperaturen, Maximaldrücke, Venting-relevante Kenngrößen oder weitere geeignete Bewertungsparameter
+Identifikation relevanter Zell- und Versuchsparameter sowie Untersuchung ihrer Relevanz für das Thermal-Runaway-Verhalten
+Auswahl, Konzeption, Implementierung und Training eines geeigneten datengetriebenen Modellierungsansatzes zur Prognose charakteristischer Kenngrößen
+Validierung des entwickelten Modells anhand experimenteller und simulativer Daten sowie Bewertung der Prognosegüte
+Identifikation von Trends, Korrelationen und dominanten Einflussgrößen innerhalb des betrachteten Parameterraums
+Kritische Diskussion der Übertragbarkeit, Aussagekraft und Grenzen des entwickelten Ansatzes sowie Ableitung von Weiterentwicklungspotenzialen
+Anforderungen
+AnforderungenAnforderungen
+Studiengänge:
+Informatik
+Data Science
+Maschinenbau
+Fahrzeugtechnik
+Elektrotechnik
+Oder vergleichbarer Studiengang
+
+Studienschwerpunkte:
+Machine Learning / Künstliche Intelligenz
+Datenanalyse und Datenaufbereitung
+Statistik
+Modellbildung und Simulation
+
+
+Fachkenntnisse:
+Grundkenntnisse im Bereich Machine Learning, Statistik oder datengetriebener Modellierung
+Interesse an der Analyse technischer Messdaten und der Identifikation physikalischer Zusammenhänge
+Grundlegendes Verständnis experimenteller Daten und technischer Systeme
+Idealerweise erste Kenntnisse im Bereich Lithium-Ionen-Batterien oder Batteriesicherheit
+
+IT-Kenntnisse:
+Sicherer Umgang mit MS Office
+Gute Python-Kenntnisse wünschenswert
+Idealerweise erste Erfahrung mit Datenanalyse- und ML-Bibliotheken, z. B. scikit-learn, PyTorch oder TensorFlow
+
+
+Sprachkenntnisse:
+Deutsch
+Englisch
+
+
+Sonstiges / Soft Skills:
+Hohe Eigeninitiative
+ausgeprägte analytische Fähigkeiten
+strukturierte Arbeitsweise
+Teamfähigkeit
+Unternehmensprofil
+UnternehmensprofilUnternehmensprofil
+„Am Anfang schaute ich mich um, konnte aber den Wagen, von dem ich träumte, nicht finden. Also beschloss ich, ihn mir selbst zu bauen.“
+Dieser Satz von Ferry Porsche bringt alles auf den Punkt, was Porsche ausmacht. Als Marke, als Unternehmen, als Automobilhersteller, als Arbeitgeber. Die „Idee Porsche“ hat so einzigartige Sportwagen wie den Porsche 356 oder den 911 hervorgebracht. Durch die Kombination von Tradition und Innovation mit den Porsche typischen, manchmal etwas unkonventionellen Denkweisen unserer Mitarbeiter, lassen wir automobile Träume wahr werden und haben so immer das „Etwas-mehr“ im Blick. Porsche ist allerdings viel mehr als "nur" ein exklusiver Sportwagenhersteller. Denn auch als Arbeitgeber hat Porsche viel zu bieten: vielfältige Einstiegs- und Karrieremöglichkeiten, Maßnahmen zur Vereinbarkeit von Beruf und Familie sowie flexible Arbeitszeitmodelle.
+Exklusive Einblicke hinter die Kulissen
+Exklusive Einblicke hinter die KulissenExklusive Einblicke hinter die Kulissen
+Unabhängig von dem, was andere tun, sind wir stets bestrebt, unsere Grenzen ständig neu zu definieren und Maßstäbe zu setzen. Das können wir heute und in Zukunft aber nur mit Mitarbeitern und Führungskräften erreichen, die immer das „Etwas-mehr“ im Blick haben.
+Exklusive Einblicke in die Porsche Arbeitswelt erhalten Sie auch auf unseren Karriereprofilen in den sozialen Netzwerken:
+
+Hinweise zur Bewerbung
+Hinweise zur BewerbungHinweise zur Bewerbung
+Bitte fülle unser Online-Bewerbungsformular aus und füge am Ende deine vollständigen Bewerbungsdokumente bei, die aus Anschreiben, Lebenslauf, Arbeits- und (Hoch-)Schulzeugnissen sowie ggf. weiteren Bescheinigungen bestehen. Bitte habe Verständnis, dass wir keine Bewerbungen per Post oder E-mail entgegennehmen.
+Bitte beachte, dass du dich lediglich auf eine Praktikantenstelle bewerben kannst. Weitere Bewerbungseingänge können leider nicht berücksichtigt werden, sofern bereits eine aktive Bewerbung vorliegt.
+
+Bewerberinnen und Bewerber aus dem europäischen Wirtschaftsraum, die sich für ein Praktikum in Deutschland bewerben, benötigen einen Personalausweis oder Pass. Bewerberinnen und Bewerber, die nicht aus dem europäischen Wirtschaftsraum stammen benötigen für die Dauer des Praktikums eine Aufenthalts- und ggf. eine Arbeitserlaubnis.
+Weitere Informationen rund um die Bewerbung bei Porsche findest du hier.
+
+Wir begrüßen ausdrücklich die Bewerbung von Menschen mit Behinderung, deren Integration uns ein besonderes Anliegen ist.
+Jetzt bewerben: ?ac=application&jobad_id=20702

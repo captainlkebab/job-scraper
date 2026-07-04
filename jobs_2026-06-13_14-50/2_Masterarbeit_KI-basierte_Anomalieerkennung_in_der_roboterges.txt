@@ -1,0 +1,42 @@
+TITEL: Masterarbeit KI-basierte Anomalieerkennung in der robotergestützen Fertigung
+BEWERBUNGS-LINK: https://de.indeed.com/applystart?jk=46b991cef4a1868f&from=vj&pos=bottom&mvj=0&jobsearchTk=1jr0gh5a6hbbi800&spon=0&xkcb=SoB767M3igpLd6TNxB0KbzkdCdPP&xfps=118da0db-2aff-422c-9f83-0ae5771e3a0b&vjfrom=vjs&asub=mob&astse=8bccd6e6c9bfc1bf&assa=3388
+------------------------------------------------------------
+
+Aufgaben
+Im Rahmen dieser Masterarbeit beschäftigst du dich mit der Entwicklung einer KI-basierten Methodik zur Anomalieerkennung in robotergestützten Fertigungssystemen. Ziel ist die Analyse und Verarbeitung heterogener industrieller Zeitreihendaten aus unterschiedlichen Produktionsdatenquellen.
+Du erforschst und entwickelst innovative Ansätze zur KI-basierten Anomalieerkennung in der Elektronikfertigung, indem du heterogene Datenquellen wie Anlagedaten, Fehlerberichte sowie Robotik- und Sensordaten analysierst und verarbeitest.
+Aktuelle State-of-the-Art-Methoden im Bereich Unsupervised Learning, Time-Series Prediction sowie Anomaly Detection mit Machine Learning und Deep Learning recherchierst du umfassend.
+Eine Datenpipeline zur Vereinheitlichung, Vorverarbeitung und Normalisierung heterogener Produktionsdaten entwickelst du eigenständig.
+Geeignete KI-Modelle zur Anomalieerkennung implementierst und evaluierst du anhand eines realen industriellen Robotik-Use-Cases.
+Dabei arbeitest du eng mit funktionsübergreifenden Teams aus Produktion, Digitalisierung und Forschung zusammen.
+Deine Arbeitsergebnisse dokumentierst, analysierst und bereitest du wissenschaftlich auf, um deine Erkenntnisse transparent und nachvollziehbar zu machen.
+Profil
+Ausbildung: Masterstudium im Bereich Informatik, Data Science, Mathematik, Elektrotechnik, Mechatronik, Maschinenbau oder vergleichbar
+Erfahrungen und Know-how: erste praktische Erfahrungen in Machine Learning / KI; sehr gute Kenntnisse in Python oder vergleichbaren Programmiersprachen; Kenntnisse in Power BI und Tableau sind ein Plus; erste Erfahrungen im Umgang mit explorativer Datenanalyse oder heterogenen Zeitreihendaten von Vorteil
+Persönlichkeit und Arbeitsweise: du arbeitest gerne und konstruktiv im Team, treibst deine Aufgaben eigenständig voran, bringst Verständnis für interkulturelle und bereichsübergreifende Zusammenarbeit mit und kommunizierst deine Ergebnisse klar sowie überzeugend
+Arbeitsalltag: deine Präsenz vor Ort ist erforderlich
+Begeisterung: Interesse an KI, industriellen Produktionssystemen, Robotik, Manufacturing oder Predictive Maintenance
+Sprachen: verhandlungssicheres Deutsch und sehr gutes Englisch
+Wissenswertes zum Job
+Beginn: nach Absprache
+Dauer: 6 Monate
+Voraussetzung für die Abschlussarbeit ist die Immatrikulation an einer Hochschule. Bitte füge deiner Bewerbung deinen Lebenslauf, deinen aktuellen Notenspiegel, die Prüfungsordnung sowie ggf. eine gültige Arbeits- und Aufenthaltserlaubnis bei.
+
+Vielfalt und Inklusion sind für uns keine Trends, sondern fest verankert in unserer Unternehmenskultur. Daher freuen wir uns über alle Bewerbungen: unabhängig von Geschlecht, Alter, Behinderung, Religion, ethnischer Herkunft oder sexueller Identität.
+Work #LikeABosch beginnt hier: Jetzt bewerben!
+Hinweise zur Bewerbung
+Solange diese Stelle in unserer Jobbörse ausgeschrieben ist, suchen wir nach passenden Kandidatinnen und Kandidaten.
+Aus Datenschutzgründen ist eine Bewerbung nur über unser Bewerbungsportal möglich. Bewerbungen per Mail oder Post können wir daher leider nicht berücksichtigen.
+
+Was wir bieten: Benefits bei Bosch
+Finanzielle Benefits „Ich zahle nicht gute Löhne, weil ich viel Geld habe, sondern ich habe viel Geld, weil ich gute Löhne bezahle.“ – Robert Bosch, 1931. Das leben wir bei Bosch bis heute: Neben attraktiven Gehältern bieten wir viele finanzielle Zusatzleistungen, beispielsweise Boni für den gemeinsamen Beitrag zum Unternehmenserfolg, eine individuelle Leistungsvergütung sowie private und betriebliche Altersvorsorge. Zusätzlich können sich unsere Mitarbeitenden auf Vergünstigungen freuen: Neben Vorteilsportalen mit Rabatten für zahlreiche Online-Shops und Dienstleistungen profitieren sie selbstverständlich auch von Sonderkonditionen auf Bosch Produkte.
+
+Willkommen in Salzgitter
+Unser Standort existiert seit über 50 Jahren. Bereits seit über 30 Jahren werden elektronische Steuergeräte gebaut. „Zukunft braucht Herkunft“, so ein Zitat von Robert Bosch, und in diesem Sinne verbinden wir Tradition und Moderne, das zeigt sich nicht nur in unseren Gebäuden. Bosch Salzgitter erfüllt fünf Funktionen, die so vielfältig sind und so gut ineinandergreifen, wie unsere 1400 Mitarbeiter: Fertigung, Leitwerk, Center of Competence, Musterbau und Gewährleistungsanalyse.
+Mehr zum Standort erfahren
+
+Willkommen bei Bosch
+Bei Bosch gestalten wir Zukunft mit hochwertigen Technologien und Dienstleistungen, die Begeisterung wecken und das Leben der Menschen verbessern. Unser Versprechen an unsere Mitarbeiterinnen und Mitarbeiter steht dabei felsenfest: Wir wachsen gemeinsam, haben Freude an unserer Arbeit und inspirieren uns gegenseitig. Willkommen bei Bosch.
+Die Robert Bosch Elektronik GmbH freut sich auf eine Bewerbung!
+
+Noch Fragen? Wir helfen gerne weiter! Rund um den Job Technischer Support Fachliche Fragen zum Job? Steve Morel Kountchou Ghomsi (Fachabteilung) hat die Antworten. +49 152 59501317

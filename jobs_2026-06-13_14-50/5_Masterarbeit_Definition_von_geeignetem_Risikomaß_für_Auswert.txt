@@ -1,0 +1,56 @@
+TITEL: Masterarbeit: Definition von geeignetem Risikomaß für Auswertung von maritimen KI-Agenten in Simulationsumgebung (m/w/d)
+BEWERBUNGS-LINK: https://de.indeed.com/applystart?jk=83213b2be4bb7a06&from=vj&pos=bottom&mvj=0&jobsearchTk=1jr0gh5a6hbbi800&spon=0&xkcb=SoDc67M3igpLd6TNxB0PbzkdCdPP&xfps=dafb0f2a-8f4e-4fc5-9f9c-9eda7d497213&vjfrom=vjs&asub=mob&astse=edefa1e5424af568&assa=9672
+------------------------------------------------------------
+
+Unternehmensvorstellung
+
+TKMS ATLAS ELEKTRONIK ist ein Unternehmen der TKMS Gruppe. Seit Jahrzehnten unterstützen wir Marinen auf der ganzen Welt dabei, die Meere sicherer zu machen. Unseren Kunden bieten wir umfassende Lösungen in Sensorik und Elektronik. Vom Sonar über unbemannte Fahrzeuge und Minenabwehrsystemen bis hin zu Kommunikationsanlagen. Alles aus einer Hand. Bereit mit den Besten zu arbeiten? Werde Teil unseres Teams aus mehr als 8.500 Kolleginnen und Kollegen bei TKMS. Als wachsendes Marineunternehmen bieten wir zukunftssichere Entwicklungsmöglichkeiten in einem internationalen, diversen Hightechumfeld. Wir entwickeln Stärke.
+Das A-LAB ist ein internes Forschungsinstitut von TKMS ATLAS ELEKTRONIK. Als Innovationstreiber beschäftigen wir uns mit maritimen Technologien der Zukunft. In einem Team aus Studierenden und Promovierenden bekommst du die Chance, dein Forschungs- und Entwicklungsthema voranzutreiben.
+
+Aufgaben
+Literaturrecherche zu Risikomaßen zur Steuerung von Suchstrategien.
+Kritische Analyse der gefundenen Metriken und Bewertung der Eignung.
+Entwicklung (und Training) von maritimen Bewegungsmodellen unter Berücksichtigung der gewählten Risikomaße.
+Erweiterung von maritimer Simulation Berechnung der Risikomaße und um angepasste Bewegungsmodelle.
+Integration in bestehende Python-Simulation der Arbeitsgruppe.
+Zusammenfassung und Dokumentation der Ergebnisse zur Ableitung konkreter Handlungsempfehlungen.
+
+Profil
+Laufendes Studium in einem MINT Fachgebiet, wie Mathematik, Physik, Data Science oder Informatik; idealerweise mit Vertiefung in Stochastik, beispielsweise durch Risikotheorie oder Finanzmathematik/ Versicherungsmathematik.
+Erste Erfahrungen mit systematischen Literaturrecherchen und Kenntnis gängiger Datenbanken und wissenschaftlicher Suchstrategien sind von Vorteil.
+Programmierkenntnisse in Python sind erforderlich.
+Erste Erfahrungen im Bereich Simulation und Reinforcement Learning sind von Vorteil.
+Erfahrungen mit Sonar oder Akustik / Schallausbreitung sind von Vorteil.
+Sehr gute analytische Fähigkeiten und die Fähigkeit, komplexe wissenschaftliche Texte zu erfassen und zu strukturieren.
+Selbständige und systematische Arbeitsweise.
+Sehr gute Deutsch- und gute Englischkenntnisse in Wort und Schrift.
+
+Kontakt
+
+Alena Telch
+Talent Acquisition Partner
+
+Vorteile
+
+Für uns ist es selbstverständlich, Dir optimale Rahmenbedingungen zu bieten. Dazu gehören unter anderem:
+Welcomeday und Onboardingprogramm
+Attraktive (außer-) tarifliche Vergütung
+Flexible und familienfreundliche Arbeitszeitgestaltung durch Gleitzeit-/ und Lebensarbeitszeitkonto sowie Homeoffice-Regelung
+30 Tage Jahresurlaub sowie Sonderurlaub gemäß Tarifvertrag
+Hervorragende betriebliche Altersversorgung
+Spannende Aufgaben an innovativen Produkten in einem wachsenden Marineunternehmen
+Zuschuss zum Jobticket bzw. Deutschlandticket
+Firmenfitness mit bundesweiten Verbundpartnern
+Bikeleasing
+Umfassende Zusatzleistungen / attraktive externe Angebote
+Individuelle Lern- & Entwicklungsmöglichkeiten in Präsenz und digital
+Umfassendes Gesundheitsmanagement inkl. Präventionsangebote
+Enge Zusammenarbeit mit Führungskräften und der Mitarbeitendenvertretung
+
+Kollegiale Zusammenarbeit und Respekt im Umgang miteinander – das findest Du bei uns seit über 185 Jahren! Wenn Dir das genauso wichtig ist, dann bewirb Dich jetzt online unter Angabe Deiner Gehaltsvorstellung und Deiner aktuellen Kündigungsfrist.
+
+Diversität
+
+Wir wertschätzen Vielfalt und begrüßen daher alle Bewerbungen unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion/ Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identität.
+
+Job Reference: DE_TKMS00213

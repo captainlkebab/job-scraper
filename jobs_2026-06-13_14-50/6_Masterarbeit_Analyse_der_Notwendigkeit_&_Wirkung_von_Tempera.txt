@@ -1,0 +1,35 @@
+TITEL: Masterarbeit Analyse der Notwendigkeit & Wirkung von Temperaturtests in der Fertigung von bestückten Leiterplatten PCBs
+BEWERBUNGS-LINK: https://de.indeed.com/rc/clk?jk=acbba24f615a25c8&bb=nUTc2-5bATr_TKL_T-ZPzR55ycQk7zmE5D1E8xnRTuhyXh0dFMQLm1UsB1ZpXOpdCUqRK4fzeQ6XuYApat0iRM6OpYi1mmnnBy-3R_7N_eZWUOH9xsSLa-AdSZezS-fC&xkcb=SoBo67M3igpLd6TNxB0ObzkdCdPP&fccid=a2faf1301ac6ad4b&vjs=3
+------------------------------------------------------------
+
+Unternehmensbeschreibung
+
+Bei Bosch gestalten wir Zukunft mit hochwertigen Technologien und Dienstleistungen, die Begeisterung wecken und das Leben der Menschen verbessern. Unser Versprechen an unsere Mitarbeiterinnen und Mitarbeiter steht dabei felsenfest: Wir wachsen gemeinsam, haben Freude an unserer Arbeit und inspirieren uns gegenseitig. Willkommen bei Bosch.
+Die Robert Bosch GmbH freut sich auf deine Bewerbung!
+
+Stellenbeschreibung
+Während deiner Tätigkeit untersuchst du die wissenschaftlichen Grundlagen und die realen Auswirkungen von Temperaturtests auf bestückte Leiterplatten (PCBs) während der Produktion.
+Des Weiteren deckst du verborgene Zusammenhänge zwischen unseren Testparametern und potenziellen Ausfallmechanismen auf und quantifizierst diese präzise.
+Deine Analyse umfasst den aktuellen Stand der Forschung, identifiziert Forschungslücken und hilft uns dabei, unsere Teststrategien gemäß unserer Kundenanforderungen auszurichten.
+Zudem erstellst du eine fundierte wissenschaftliche Arbeit und ein prägnantes Whitepaper, um deine Ergebnisse zusammenzufassen, in den aktuellen Forschungsdiskurs einzuordnen und konkrete Schlussfolgerungen sowie Empfehlungen für unsere industriellen Anwendungen abzuleiten.
+Nicht zuletzt diskutierst und beleuchtest du die feinen, aber entscheidenden Unterschiede zwischen Verifikations-/Validierungstests und unseren Produktionstests, um ein klares und fundiertes Verständnis im Team zu etablieren.
+
+Qualifikationen
+Ausbildung: Masterstudium im Bereich Physik, Elektrotechnik oder Data Science oder vergleichbar
+Erfahrungen und Know-how: sicherer Umgang mit Databricks, SQL und Python; fundierte Kenntnisse in Elektrotechnik und Data Science; Erfahrung in Simulation sowie Vorhersage; Expertise in Prozessanalyse; tiefgreifendes Verständnis physikalischer Grundlagen
+Persönlichkeit und Arbeitsweise: dir gelingt es, komplexe Sachverhalte präzise zu analysieren, du hinterfragst bestehende Annahmen und nutzt gerne datenbasierte Tools zur Problemlösung, wobei du deine Arbeit eigenverantwortlich organisierst
+Arbeitsalltag: hybrides Arbeitsumfeld mit Bürotagen und Homeoffice nach Absprache
+Begeisterung: dafür, neue Ideen voranzutreiben und bestehende Konzepte kritisch zu hinterfragen
+Sprachen: sehr gutes Englisch; Deutsch von Vorteil
+
+Zusätzliche Informationen
+
+Beginn: nach Absprache
+Dauer: 6 Monate
+Voraussetzung für die Abschlussarbeit ist die Immatrikulation an einer Hochschule. Bitte füge deiner Bewerbung deinen Lebenslauf, deinen aktuellen Notenspiegel, die Prüfungsordnung sowie ggf. eine gültige Arbeits- und Aufenthaltserlaubnis bei.
+
+Vielfalt und Inklusion sind für uns keine Trends, sondern fest verankert in unserer Unternehmenskultur. Daher freuen wir uns über alle Bewerbungen: unabhängig von Geschlecht, Alter, Behinderung, Religion, ethnischer Herkunft oder sexueller Identität.
+Du hast fachliche Fragen zum Job?
+Andreas Enns (Fachabteilung)
++49 173 1947337
+Work #LikeABosch beginnt hier: Jetzt bewerben!

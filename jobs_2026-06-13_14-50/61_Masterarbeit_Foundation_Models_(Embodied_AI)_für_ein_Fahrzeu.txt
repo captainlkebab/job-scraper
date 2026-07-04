@@ -1,0 +1,40 @@
+TITEL: Masterarbeit: Foundation Models (Embodied AI) für ein Fahrzeug Docking-Manöver (w/m/d)
+BEWERBUNGS-LINK: https://de.indeed.com/applystart?jk=38d87a0e16eb566b&from=vj&pos=bottom&mvj=0&jobsearchTk=1jr0gr5hqh851800&spon=0&xkcb=SoCB67M3igpjblTCax0DbzkdCdPP&xfps=8a7fcde0-4803-45f1-ae85-16297c0ee309&vjfrom=vjs&asub=mob&astse=f338a8102aae3298&assa=6518
+------------------------------------------------------------
+
+Kennziffer: 3645
+Arbeitsort: Oberpfaffenhofen
+Eintrittsdatum: sofort
+Karrierestufe: Studien- & Abschlussarbeit, Praktikum, Studentische Tätigkeit
+Beschäftigungsgrad: Teilzeit
+Dauer der Beschäftigung: 4-6 Monate
+Vergütung: Die Vergütung erfolgt gemäß der jeweils geltenden Tarifverträge des öffentlichen Dienstes (Bund).
+Steige ein in die faszinierende Welt des Deutschen Zentrums für Luft- und Raumfahrt e. V. (DLR), um mit Forschung und Innovation die Zukunft mitzugestalten! Mit dem Know-how und der Neugier unserer rund 12.000 Mitarbeitenden aus 100 Nationen sowie unserer einzigartigen Infrastruktur bieten wir ein spannendes und inspirierendes Arbeitsumfeld. Gemeinsam entwickeln wir nachhaltige Technologien und tragen so zur Lösung globaler Herausforderungen bei. Möchtest du diese große Zukunftsaufgabe mit uns zusammen angehen? Dann ist dein Platz bei uns!
+Das Institut für Fahrzeugkonzepte (FK) des Deutschen Zentrums für Luft- und Raumfahrt (DLR) ist international anerkannt für die Auslegung von zukünftigen Straßen- und Schienenfahrzeugen, welche klima- und umweltschützende Mobilität ermöglichen und gleichzeitig finanzierbar und nutzerfreundlich sind. Wir erforschen und demonstrieren die dazu notwendigen Schlüsseltechnologien und pflegen enge Kooperationen mit anderen Wissenschaftseinrichtungen sowie Industrie und Politik.
+Das erwartet dich
+Wir suchen dich im Team für eine Masterarbeit an der Schnittstelle Autonomes Fahren / Foundation Models. Du erstellst eine State-of-the-Art-Übersicht zu Foundation Models und entwirfst eine Vision Controller-Pipline für ein Eindock-/Park-Manöver. Auf Basis der Literatur erstellst du einen simulativen Prototyp mit CARLA. Anschließend integrierst du einen Proof-of-Concept am Fahrzeug.
+Deine Aufgaben
+Survey (SoTA): Systematische Übersicht zu Foundation Model -Frameworks, Vision-Language-Modellen (Visual
+Language), Language-to-Design (Plan/Trajektorie) und Design-to-Controller (Low-Level-Ausführung)
+Taxonomie & Vergleich: Agent-Rollen (Perception-Narrator, Planner, Safety-Critic, Controller-Designer), Kommunikationsmuster, Wissenseinbindung (RAG), Safety/Runtime-Checks
+Prototyping (Simulation): Aufbau einer CARLA Pipeline mit: Visual Language, Szenenbeschreibung/Key-Facts aus Bild/Video. Language Design, Plan/Trajektorie als deklaratives Format (z. B. Wegpunkte, Begrenzungen). Design
+Controller, Übergabe an den Regler. Feedback, Critic/Verifier (Kollisionschecks, Dynamik-/Komfort-Constraints), Selbst-Reflexion/Re-Planung
+Evaluation (Simulation): Kennzahlen definieren und messen (Erfolgsrate, Time-to-Dock, Quer-/Längsfehler, Clearance, Komfort/Jerk, Replans, Sicherheitsverletzungen)
+Optional: Minimal-Integration am Versuchsfahrzeug
+Dokumentation & Präsentation: saubere, reproduzierbare Doku (Repo/Readme), Abschlussvortrag
+Das bringst du mit
+laufendes wissenschaftliches Studium in Informatik, Computer Science, Robotik, Maschinenbau, Fahrzeugtechnik, Elektrotechnik, Mechatronik, Wirtschaftsingenieurwesen, Data Science, Mathematik oder Physik oder vergleichbar
+starkes Interesse am Autonomem Fahren, LLMs/Generative AI und Multi-Agenten-Systemen
+Grundkenntnisse in Python und Git sowie der Bereitschaft sich in ROS2 oder Bereitschaft dich einzuarbeiten
+Erfahrung in Simulation (z. B. CARLA/Gazebo/SUMO) oder Pfadplanung/Regelung ist von Vorteil
+Basis-Know-how zu LLMs, ML/Deep Learning (Datasets, Training/Inference)
+strukturierte Literaturrecherche & wissenschaftliches Schreiben (DE/EN)
+Erfahrung in Simulation (z. B. CARLA/Gazebo/SUMO), Pfadplanung/Regelung sowie Linux sind von Vorteil
+Je nach Qualifikation und Aufgabenübertragung bis Entgeltgruppe E05 TVöD.
+Das bieten wir dir
+
+Das DLR steht für Vielfalt, Wertschätzung und Gleichstellung aller Menschen. Wir fördern eigenverantwortliches Arbeiten und die individuelle Weiterentwicklung unserer Mitarbeitenden im persönlichen und beruflichen Umfeld. Dafür stehen dir unsere zahlreichen Fort- und Weiterbildungsmöglichkeiten zur Verfügung. Chancengerechtigkeit ist uns ein besonderes Anliegen, wir möchten daher insbesondere den Anteil von Frauen in der Wissenschaft und Führung erhöhen. Bewerbungen schwerbehinderter Menschen bevorzugen wir bei fachlicher Eignung.
+Wir freuen uns darauf, dich kennenzulernen!
+Fragen zu dieser Position ( Kennziffer 3645 ) beantwortet dir gerne:
+Daniel Diegel
+Tel.: 08153 28 4961

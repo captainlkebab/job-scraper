@@ -1,0 +1,39 @@
+TITEL: Masterarbeit im Bereich Data Science / Machine Learning im Spritzguss (w/m/d)
+BEWERBUNGS-LINK: https://de.indeed.com/applystart?jk=c59e0c8a330ea0e0&from=vj&pos=bottom&mvj=0&jobsearchTk=1jr0gr5hqh851800&spon=0&xkcb=SoD167M3igpjblTCax0PbzkdCdPP&xfps=f6591261-4252-4e99-9d4c-934bfbe6cf1e&vjfrom=vjs&asub=mob&astse=976e953a0b6d6150&assa=4467
+------------------------------------------------------------
+
+„We will wow your world!” Das ist unser Versprechen, wenn es um Arbeiten bei Freudenberg geht. Als globaler Technologiekonzern machen wir die Welt nicht nur sauberer, gesünder und komfortabler, sondern bieten unseren 52.000 Mitarbeitenden auch ein vernetztes und vielfältiges Arbeitsumfeld, in dem sich alle individuell entfalten können. Lassen Sie sich überraschen und erleben Sie Ihre eigenen „Wow”-Momente. Gemeinsam mit Partnern, Kunden und der Wissenschaft entwickeln wir technisch führende Produkte, exzellente Lösungen und Services für rund 40 Marktsegmente und für Tausende von Anwendungen: Dichtungen, schwingungstechnische Komponenten, Batterie und Brennstoffzelle, technische Textilien, Filter, Reinigungstechnologien und -produkte, Spezialchemie und medizintechnische Produkte.
+Einige Ihrer Vorteile
+Cafeteria/Kantine
+Cafeteria/Kantine: Wir bieten Ihnen vor Ort frische, warme und kalte Speisen an.
+Fahrtkostenzuschuss für ÖPNV
+Fahrtkostenzuschuss für ÖPNV: Pendeln Sie umweltbewusster und kostengünstiger mit einem Zuschuss für öffentliche Verkehrsmittel.
+Gute Anbindung
+Gute Anbindung: Erreichen Sie Ihren Arbeitsplatz stressfrei mit öffentlichen Verkehrsmitteln oder dem Auto.
+Mitarbeiterrabatte
+Mitarbeiterrabatte: Profitieren Sie von vergünstigten Angeboten auf Produkte und Dienstleistungen.
+Vielfalt & Integration
+Vielfalt & Integration: Eine Diversität an Erfahrungen, Ansichten und Personen macht uns erfolgreicher.
+Weinheim
+Vor Ort
+Freudenberg Technology Innovation SE & Co. KG
+Die zunehmende Digitalisierung der Produktion eröffnet neue Möglichkeiten zur datenbasierten Optimierung von Fertigungsprozessen. Insbesondere im Spritzguss bieten umfangreiche Prozess- und Maschinendaten ein hohes Potenzial für den Einsatz von Data-Science- und Machine-Learning-Methoden. Ziel dieser Masterarbeit ist es, datengetriebene Modelle zur Analyse, Vorhersage und Optimierung von Spritzgussprozessen zu entwickeln und zu evaluieren.
+
+Sie unterstützen unser Team als
+Masterarbeit im Bereich Data Science / Machine Learning im Spritzguss (w/m/d)
+Ihre Aufgaben
+Sie analysieren und bereiten Produktions- und Prozessdaten aus Spritzgussanlagen auf
+Sie identifizieren relevante Einflussgrößen auf Bauteilqualität, Zykluszeit und Ausschuss
+Sie entwickeln und implementieren Machine-Learning-Modelle (z. B. Regression, Klassifikation, Anomalieerkennung)
+Sie evaluieren die Modelle hinsichtlich Prognosegüte und industrieller Anwendbarkeit
+Sie visualisieren und interpretieren die Ergebnisse für technische Anwender
+Sie leiten Handlungsempfehlungen zur Prozessoptimierung ab
+Sie dokumentieren Ihre Ergebnisse und erstellen die wissenschaftliche Ausarbeitung Ihrer Masterarbeit
+Ihr Profil
+Sie sind in einem Studiengang im Bereich Data Science, Informatik, Maschinenbau, Mechatronik, Wirtschaftsingenieurwesen oder einem vergleichbaren Studiengang immatrikuliert
+Sie verfügen über sehr gute Kenntnisse in Statistik, Data Science und Machine Learning.
+Sie haben Erfahrung mit Python und gängigen Libraries (z. B. pandas, scikit-learn, PyTorch/TensorFlow)
+Sie haben Interesse an Produktionsprozessen, idealerweise mit Kenntnissen im Spritzguss oder in der Fertigungstechnik
+Sie verfügen über sehr gute Deutsch- oder Englischkenntnisse in Wort und Schrift
+Sie haben idealerweise Interesse an einer anschließenden Industriepromotion
+Die Freudenberg Gruppe zeichnet sich durch Offenheit und Chancengleichheit aus. Wir begrüßen daher Bewerbungen von allen Menschen unabhängig von Alter, Geschlecht, Herkunft und Abstammung, einer Behinderung oder anderer gesetzlich geschützter Gründe.

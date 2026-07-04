@@ -1,0 +1,38 @@
+TITEL: Studierende Informatik (w/m/d)
+BEWERBUNGS-LINK: https://de.indeed.com/applystart?jk=6fbfa710625a2a09&from=vj&pos=bottom&mvj=0&jobsearchTk=1jr0goahghmj5800&spon=0&xkcb=SoAm67M3igpuj6TDN50CbzkdCdPP&xfps=e1edd7fb-3708-41cf-a361-e68b2bffbb0c&vjfrom=vjs&asub=mob&astse=354cf15325477da5&assa=1768
+------------------------------------------------------------
+
+Kennziffer: 4335
+Arbeitsort: Braunschweig
+Eintrittsdatum: nach Absprache
+Karrierestufe: Studentische Tätigkeit
+Beschäftigungsgrad: Teilzeit
+Dauer der Beschäftigung: mindestens 6 Monate
+Vergütung: Die Vergütung erfolgt gemäß der jeweils geltenden Tarifverträge des öffentlichen Dienstes (Bund).
+Steige ein in die faszinierende Welt des Deutschen Zentrums für Luft- und Raumfahrt e. V. (DLR), um mit Forschung und Innovation die Zukunft mitzugestalten! Mit dem Know-how und der Neugier unserer rund 12.000 Mitarbeitenden aus 100 Nationen sowie unserer einzigartigen Infrastruktur bieten wir ein spannendes und inspirierendes Arbeitsumfeld. Gemeinsam entwickeln wir nachhaltige Technologien und tragen so zur Lösung globaler Herausforderungen bei. Möchtest du diese große Zukunftsaufgabe mit uns zusammen angehen? Dann ist dein Platz bei uns!
+Das Institut für Flugführung betreibt in interdisziplinären Forschungsteams grundlagen- und anwendungsorientierte Forschung zur optimalen Führung von Luftfahrzeugen am Boden und in der Luft. Dazu nutzt es eine integrierte Versuchsinfrastruktur. Ziel ist es, den Luftraum flexibler und effizienter zu nutzen und Flughäfen auf optimalen Durchsatz auszurichten, bei gleichzeitiger Minimierung des Treibstoffverbrauchs und der Umweltbelastung.
+Das erwartet dich:
+Am Institut für Flugführung des DLR werden neue Betriebskonzepte, Arbeitsplätze und Assistenzsysteme für den Luftverkehr entwickelt, um Sicherheit und Effizienz in der Luftfahrt zu garantieren.
+In der Gruppe Data Science for ATM erstellen wir Datensammlungen und Auswertungen, um Daten aus dem Flughafenbetrieb aufzuzeichnen, zu visualisieren und für Forschungsfragen auszuwerten. Dabei kommen Methoden des maschinellen Lernens zum Einsatz, beispielsweise um realistischere Parameter für Konzepte des vollautomatischen Rollens von Flugzeugen zur Verfügung zu stellen. Das Herzstück dabei ist die Verarbeitungs-Pipeline, damit aus Sensorrohdaten qualitative hochwertige und interpretierbare Datentabellen erzeugt werden.
+Diese Verarbeitungs-Pipeline muss nun auf aktuelle Betriebssysteme angepasst werden und dafür suchen wir Dich!
+Deine Aufgaben:
+Im Rahmen eines internen Projektes unterstützt du die Weiterentwicklung der Verarbeitungs-Pipeline, d.h.
+du eignest dir Wissen über reale Datenformate in der Luftfahrt und Rollverkehr auf dem Flughafen an
+du recherchierst Open-Source Bibliotheken die zum Einsatz kommen könnten
+du erstellst eine dll für ASTERIX-Daten (All-purpose structured EUROCONTROL surveillance information exchange), mit deren Hilfe aufgezeichnete Flugspuren decodiert werden.
+du erarbeitest ein Konzept zur Integration der dll in bestehende Softwareprojekte
+du setzt das Konzept in C++ / C / C# um
+dies kann der Startpunkt für eigene ML-Projekte bis hin zur Bachelor- oder Masterarbeit sein.
+Das bringst du mit:
+laufendes Studium der Informatik oder auch Ingenieurswissenschaften mit Programmierfähigkeiten (C / C++ / C#)
+Spaß am Arbeiten in interdisziplinären Teams
+Affinität zu methodischem und lösungsorientiertem Denken
+eigenständige Arbeitsweise
+Kenntnisse der Windows Entwicklung unter VS2022 in C / C# bzw. die Bereitschaft sich darin einzuarbeiten
+Grundkenntnisse in Python sind hilfreich
+Das bieten wir dir
+
+Das DLR steht für Vielfalt, Wertschätzung und Gleichstellung aller Menschen. Wir fördern eigenverantwortliches Arbeiten und die individuelle Weiterentwicklung unserer Mitarbeitenden im persönlichen und beruflichen Umfeld. Dafür stehen dir unsere zahlreichen Fort- und Weiterbildungsmöglichkeiten zur Verfügung. Chancengerechtigkeit ist uns ein besonderes Anliegen, wir möchten daher insbesondere den Anteil von Frauen in der Wissenschaft und Führung erhöhen. Bewerbungen schwerbehinderter Menschen bevorzugen wir bei fachlicher Eignung.
+Wir freuen uns darauf, dich kennenzulernen!
+Fragen zu dieser Position ( Kennziffer 4335 ) beantwortet dir gerne:
+Dr. Nils Carstengerdes

@@ -1,0 +1,46 @@
+TITEL: Bachelor-/Masterarbeit oder Praktikant/in im Bereich Intelligente Prozesssensorik in der Batteriefertigung (m/w/d)
+BEWERBUNGS-LINK: https://de.indeed.com/applystart?jk=4fd44b5ef5310f5c&from=vj&pos=bottom&mvj=0&jobsearchTk=1jr0glgarhmj5800&spon=0&xkcb=SoBm67M3igpZ1QTNxR0KbzkdCdPP&xfps=f646bb4f-bd15-41a0-8444-812e72304ab6&vjfrom=vjs&asub=mob&astse=129095c25cea8363&assa=3235
+------------------------------------------------------------
+
+Standort: Hardheim
+Umfang: Vollzeit über Zeitraum von 3-6 Monate
+Start: Ab sofort / nach Vereinbarung
+Wir suchen im Bereich Intelligente Prozesssensorik in der Batteriefertigung (m/w/d)
+Bachelor-/Masterarbeit oder Praktikant/in (m/w/d)
+
+Darum geht es:
+Die Vision: Smart Manufacturing für die Energiewende
+
+Das Dry Battery Electrode (DBE) Coating ist das Zukunftsthema der Batterieproduktion. Um großtechnische Elektrodenfertigung prozesssicher zu beherrschen, benötigen wir intelligente, automatisierte Messsysteme statt herkömmlicher Laboranalytik. Wir adaptieren bewährte Industrietechnologie für die High-Tech-Anforderungen der Elektrodenfertigung. Ziel ist die Entwicklung einer robusten Methodik zur online Charakterisierung komplexer Partikelsysteme im industriellen Umfeld.
+
+Eirich ist ein familiengeführter Hidden Champion im Spezialmaschinenbau – weltweit führend in der Aufbereitungstechnik, seit über 160 Jahren. Wir mischen nicht nur Rohstoffe, sondern auch Tradition mit Innovation.
+Deine Aufgaben:
+Du arbeitest an der Schnittstelle von Verfahrenstechnik, Datenwissenschaft und Automatisierung. Dein Projekt umfasst folgende Entwicklungsaspekte:
+Experimentelle Identifikation & Automatisierung:
+– Untersuchung und Validierung neuer Messmethoden zur Bestimmung von Produktqualitäten im industriellen Umfeld.
+– Optimierung automatisierter Probenahme- und Messzyklen am eigenen System.
+– Evaluierung geeigneter Messmethoden zur Charakterisierung der Verarbeitungseigenschaften zu Beschichtungsmassen.
+Fortschrittliche Signalanalyse:
+– Auswertung komplexer Last-Weg-Diagramme.
+– Extraktion signifikanter Merkmale aus bspw. dem Springback-Verhalten (Relaxation) und der Scherfestigkeit zur Vorhersage der Verarbeitbarkeit.
+Bildanalyse & KI-Methoden (Optionaler Fokus)
+– Einsatz von Computer Vision zur Charakterisierung der makroskopischen PTFE-Faserstrukturen (Fibrillierung).
+– Entwicklung von KI-basierten Korrelationsmodellen zwischenphysikalischen Schüttguteigenschaften und der finalen Elektrodenqualität.
+Das bringst du mit:
+Laufendes Studium im Bereich Maschinenbau, Elektrotechnik, Informatik, Verfahrenstechnik, Technische Chemie oder Data Science.
+Interesse an der Kombination von physischen Experimenten und digitaler Datenauswertung.
+Erste Erfahrungen in Signalanalyse/KI sind von Vorteil, aber kein Muss.
+Neugier auf die physikalischen Prozesse hinter den Daten (PTFEFibrillierung, Partikelinteraktion).
+Eigeninitiative, Teamgeist und Kommunikationsstärke.
+Sehr gute Englisch- und / oder Deutschkenntnisse.
+Das bieten wir dir:
+Innovationsgeist: Arbeite an einer Technologie, die den ökologischen Fußabdruck der Batterieproduktion massiv senkt.
+Experten-Netzwerk: Enge Zusammenarbeit mit unseren Verfahrenstechnik-Experten.
+Aufwandsentschädigung zur Deckung zusätzlicher Lebenshaltungskosten am Standort Hardheim (abhängig von den Vorgaben der Prüfungsordnung).
+Klingt gut?
+Dann schick uns deine Bewerbung - kurz und knackig reicht. Ein aktueller Lebenslauf und Transcript of Records reichen uns.
+
+Info
+Die Eirich Gruppe ist eine familiengeführte Unternehmensgruppe des Maschinenbaus für verfahrenstechnische Aufgaben. Als weltweit führender Hersteller von Maschinen und Anlagen für die Aufbereitung von Rohstoffen leistet Eirich seit 1863 Pionierarbeit mit Technologien zum Mischen, Granulieren, Dispergieren, Kneten und Feinmahlen. Unter dem Label EIRICH digital bietet Eirich viele Dienste über den gesamten Lebenszyklus von Anlagen von der Online-Ersatzteilbestellung bis zu KI basierten Assistenzsystemen.
+
+Eirich zählt zu den Innovationsträgern der Misch- und Aufbereitungstechnik. Das in fünfter Generation geführte Unternehmen ist mit rund 1.200 Mitarbeiter: innen an 16 Standorten in elf Ländern vertreten.

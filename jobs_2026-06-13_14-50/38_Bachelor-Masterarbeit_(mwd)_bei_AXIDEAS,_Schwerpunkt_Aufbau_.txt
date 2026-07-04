@@ -1,0 +1,48 @@
+TITEL: Bachelor-/Masterarbeit (m/w/d) bei AXIDEAS, Schwerpunkt Aufbau einer unternehmenseigenen KI-Umgebung
+BEWERBUNGS-LINK: https://de.indeed.com/applystart?jk=57c92c524c7085e1&from=vj&pos=bottom&mvj=0&jobsearchTk=1jr0goahghmj5800&spon=0&xkcb=SoD167M3igpuj6TDN50LbzkdCdPP&xfps=945c677b-9f19-4e8e-86e9-531e5bfc63a2&vjfrom=vjs&asub=mob&astse=798ecb91152f20f6&assa=1095
+------------------------------------------------------------
+
+Künstliche Intelligenz ist voll dein Ding?
+Wir sind AXIDEAS - moderne IT-Infrastruktur, IT-Sicherheit und Managed Services für mittelständische Unternehmen in der Region. Was uns wichtig ist? Klare Prozesse, saubere Technik – und Menschen die verstehen, dass IT am Arbeitsplatz nur dann gut ist, wenn sie einfach funktioniert. Wir denken in lösungsorientierter IT, nicht in Kompromissen – und bieten Kunden echte digitale Stabilität.
+Dafür brauchen wir Menschen, die mitdenken. Menschen wie dich.
+Deine Aufgaben
+Mit deiner Bachelor- oder Masterarbeit unterstützt du unser technisches IT-Team dabei, eine unternehmenseigene KI-Infrastruktur im Sinne einer internen Plattform (in Hardware) für die Standorte der ASKEA Gruppe aufzubauen.
+Hier sind die Stichworte:
+Mitwirkung bei der Konzeption und dem Aufbau einer KI-Infrastruktur im unternehmenseigenen Rechenzentrum
+Bewertung und Auswahl geeigneter Inference-Frameworks (z. B. vLLM, Ollama)
+Evaluierung geeigneter KI-Modelle nach Use Case, Leistung und Lizenz
+Entwicklung und Test von Prompting-Strategien sowie RAG-Architekturen (Retrieval-Augmented Generation)
+Fine-Tuning oder ggf. teilweises Training von Modellen auf unternehmensspezifische Daten
+Identifikation und Erschließung relevanter interner Datenquellen (z.B. ERP, Dokumentationssystem)
+Erstellung von Dokumentation und Übergabe-Unterlagen für den späteren produktiven Betrieb
+Dein Profil
+du studierst Angewandte KI, KI Management, Informatik, Data Science, Wirtschaftsinformatik oder ein vergleichbares Studium
+starke analytische Fähigkeiten und Kommunikationsstärke
+gute Deutsch- und Englischkenntnisse
+Was wir bieten
+Anleitung durch fest zugewiesene Betreuungsperson
+flexible Arbeitszeiten
+modern ausgestatteter Arbeitsplatz
+frisch zubereitete und abwechslungsreiche Mittagsmahlzeiten sowie kostenlose Getränke und Snacks
+Möglichkeit zur Festanstellung nach erfolgreichem Abschluss
+Über uns
+Aus der Region – für die Region
+Wir arbeiten da, wo andere Urlaub machen. Unsere Kundinnen und Kunden sitzen im Allgäu, in Oberschwaben und rund um den Bodensee – genau wie wir. Persönlich, erreichbar, nah.
+
+AXIDEAS. IT mit Substanz.
+Klingt gut? Dann melde dich bei uns. Wir freuen uns auf deine Bewerbung!
+Overview
+
+Scope of activities
+IT and software development
+Location
+Ravensburger Straße 28, 88279 Amtzell, Germany
+Employment type
+Student employee
+ASKEA Gruppe
+Hochpräzise und laserscharf: Die ASKEA Gruppe besteht aus den vier Firmen ASKEA Feinmechanik und AUXXOS Lasertechnik in Amtzell sowie ASKIAS Lasersysteme in Lauffen am Neckar. Das "vierblättrige Kleeblatt" wird vollständig durch die Firma AXIDEAS IT-Systeme, die mit ihren IT-Dienstleistungen nicht nur der ASKEA Gruppe, sondern auch anderen Firmen aus verschiedenen Branchen als kompetenter Partner zur Seite steht.
+Der Ausbau und der langfristige Erhalt attraktiver Arbeitsplätze ist uns sehr wichtig. Kurze Wege, viele Gestaltungs- und Entwicklungsmöglichkeiten in einem familiären Umfeld - dafür stehen wir und freuen uns auf interessante Bewerbungen.
+Contact
+Jasmin Mohn
+:
++49 7520 95 68 45

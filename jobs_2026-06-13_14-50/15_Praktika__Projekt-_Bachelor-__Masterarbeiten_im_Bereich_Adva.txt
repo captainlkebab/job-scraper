@@ -1,0 +1,40 @@
+TITEL: Praktika / Projekt- /Bachelor- / Masterarbeiten im Bereich Advanced Technologies mit dem Schwerpunkt „Gießerei 4.0“ (m/w/d)
+BEWERBUNGS-LINK: https://de.indeed.com/applystart?jk=2633a0e44c8dff9b&from=vj&pos=bottom&mvj=0&jobsearchTk=1jr0gh5a6hbbi800&spon=0&xkcb=SoCS67M3igpLd6TNxB0FbzkdCdPP&xfps=2cdd9cd9-c56c-451b-88cc-62ebd281f717&vjfrom=vjs&asub=mob&astse=d827e8422ca76a0a&assa=6752
+------------------------------------------------------------
+
+UNSER HERZ SCHLÄGT FÜR ALUMINIUM! DEINS AUCH?
+
+Martinrea Honsel ist ein weltweit führender Zulieferer der Automobilindustrie. Mit rund 4.100 Mitarbeitenden entwickeln und produzieren wir in zehn Werken weltweit Komponenten aus Aluminium für Motor, Getriebe, Fahrwerk und Karosserie sowie den Maschinenbau und andere Anwendungen. Dabei gewinnt auch die Elektromobilität zunehmend an Bedeutung.
+Als global agierender Konzern verfolgen wir im Zuge der zukunftsweisenden, digitalen Transformation hin zur Smart Factory einen ganzheitlichen Ansatz, welcher die Prozesse entlang der gesamten Wertschöpfungskette in Anlehnung an das Industrie 4.0 - Referenzarchitekturmodell miteinander vernetzt.In diesem äußerst spannenden und vielschichtigen Umfeld bieten wir verschiedenste Themenschwerpunkte für folgende Einstiegsmöglichkeiten an
+
+Praktika / Projekt- /Bachelor- / Masterarbeiten im Bereich Advanced Technologies mit dem Schwerpunkt „Gießerei 4.0" (m/w/d)
+
+Unsere Themenschwerpunkte:
+Entwicklung von statistischen Versuchsplanungskonzepten (insbesondere modellbasierte Versuchsplanung)
+Entwicklung von digitalen Assistenzsystemen (z.B. für Predictive-Maintenance-Anwendungen)
+Entwicklung von modellbasierten Regelungskonzepten
+Entwicklung von Big-Data-Visualisierungsmethoden
+Entwicklung von Bildverarbeitungssystemen
+Nicht das Passende dabei? Dann sprechen Sie uns dennoch gerne mit einem individuellen Thema an.
+Ersteööeachworterklrung Nanotechnologie
+Ihre Stärken und Qualifikation in Abhängigkeit der Themenschwerpunkte:
+Laufendes Studium mit naturwissenschaftlichem Schwerpunkt (Maschinenbau, Elektrotechnik, Informatik, Data Science oder vergleichbar) und hohe Physik- und Mathematikaffinität
+Kenntnisse über standardisierte State-of-the-Art-Datenaustauschmechanismen (OPC UA, MQTT)
+Gute Kenntnisse in Python, im Umgang mit Deep-Learning-Frameworks (TensorFlow, PyTorch, scikit-learn) sowie im Umgang mit Optimierungsframeworks (SciPy, pymoo, Platypus)
+Kenntnisse über relationale (Microsoft-SQL-Server) und nicht-relationale Datenbanken (MongoDB)
+Kenntnisse im Umgang mit interaktiven Visualisierungstools wie Grafana oder Python Dash
+Schnelle Auffassungsgabe und strukturierte Arbeitsweise
+Sehr gute Englischkenntnisse, Begeisterungsfähigkeit und Teamgeist runden Ihr Profil ab
+Wir bieten Ihnen:
+Praxiserfahrung zur durchgängigen Datenverarbeitung vom Shop-Floor bis zur Cloud bei wettbewerbsfähiger Vergütung
+Vielfältige Entwicklungsmöglichkeiten
+Flexible Arbeitszeiten
+
+
+
+Auf Ihre aussagekräftigen Bewerbungsunterlagen (bevorzugt online) freut sich:
+
+Martinrea Honsel Germany GmbH
+Dieter Berndt w Personalentwicklung
+Fritz-Honsel-Strae 30 w 59872 Meschede
+0291 291-256 w dieter.berndt@martinrea.com

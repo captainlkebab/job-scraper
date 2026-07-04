@@ -1,0 +1,74 @@
+TITEL: Masterarbeit Sensor-Ready Gaussian Scene Representations for Simulation in Autonomous Driving
+BEWERBUNGS-LINK: https://de.indeed.com/applystart?jk=c10ac25e44e734cf&from=vj&pos=bottom&mvj=0&jobsearchTk=1jr0gk1tthbbi800&spon=0&xkcb=SoCO67M3igpfmvzNxR0JbzkdCdPP&xfps=b6ed1fb5-0137-4608-bf7d-589d849ded3c&vjfrom=vjs&asub=mob&astse=f8d57e8d30afd890&assa=2036
+------------------------------------------------------------
+
+This project investigates how neural scene representations based on 3D Gaussian Splatting can be extended to support simulation of sensor data in autonomous driving. The main goal is to design a sensor-ready Gaussian representation that encodes not only geometry and appearance, but also semantic and sensor-relevant properties required for simulating different sensing modalities.
+Starting from recorded sensor data, scenes shall be reconstructed and enriched with these attributes to enable simulation of different sensor types in the future. Rather than focusing on highly accurate sensor models, the project emphasizes the representation itself as a foundation for multimodal simulation.
+
+Kennziffer: J000020313
+Einstiegsart: Abschlussarbeit
+Einsatzort: Weissach
+Gesellschaft: Dr. Ing. h.c. F. Porsche AG
+Aufgaben
+AufgabenAufgaben
+1. What are the limitations of existing Gaussian-based scene representations for sensor simulation, and how can they be extended to become sensor-ready?
+
+2. Which semantic and physical attributes must be encoded in Gaussian primitives to enable flexible simulation of different sensor modalities?
+
+3. How well can sensor-ready Gaussian representations support re-simulation of sensor data compared to real-world observations?
+
+Anforderungen
+AnforderungenAnforderungen
+Studiengänge:
+Computer Science
+Artificial Intelligence
+Robotics
+Math, Data Science or comparable degree program
+
+Studienschwerpunkte:
+Software development / programming
+Machine learning / deep learning
+Digital image processing
+Statistics / data science
+
+Fachkenntnisse:
+Solid understanding of popular machine learning and deep learning concepts
+Experience with computer vision
+Experience with Gaussian splatting is a bonus
+
+IT-Kenntnisse:
+Confident use of Microsoft Office, Git, and Linux (Ubuntu)
+In-depth knowledge of Python, C, or C++
+Proven experience with popular machine learning frameworks
+
+Sprachkenntnisse:
+English (fluent spoken and written)
+German is an advantage
+
+Soft Skills:
+High level of initiative
+Strong analytical skills
+Structured and independent way of working
+Ability to work in a team
+Goal-oriented
+Unternehmensprofil
+UnternehmensprofilUnternehmensprofil
+„Am Anfang schaute ich mich um, konnte aber den Wagen, von dem ich träumte, nicht finden. Also beschloss ich, ihn mir selbst zu bauen.“ Dieser Satz von Ferry Porsche bringt alles auf den Punkt, was Porsche ausmacht. Mitarbeiter, die so denken, stoßen bei uns immer auf offene Türen. Porsche ist eine wertvolle Marke mit weltweiter Anziehungskraft und einer treuen Kundenbasis rund um den Globus.
+Die Art und Weise, wie wir bei Porsche zusammenarbeiten und als Team zusammenhalten, ist einzigartig. Unser Miteinander ist dabei geprägt durch unsere starke Porsche Kultur: Herzblut | Sportlichkeit | Pioniergeist | Eine Familie.
+Wir bei Porsche leben Vielfalt, setzen uns für Chancengleichheit ein und fördern aktiv ein inklusives Miteinander. Ebenso sind Respekt und Toleranz fest verankert in unserer Unternehmenskultur. So schaffen wir ein Umfeld, das die Individualität jedes einzelnen Menschen im Unternehmensinteresse fördert.
+Ein Schlüssel zu unserem Erfolg ist die Vielfalt an Perspektiven. Denn die sich daraus ergebende Kombination individueller Stärken und Erfahrungen treibt Innovationen voran und stärkt unsere Teams. Dazu haben wir uns auch durch Unterzeichnung der Charta der Vielfalt verpflichtet. Ganz nach dem Motto: Jeder einzigartig. Zusammen vielfältig. Gemeinsam erfolgreich.
+Exklusive Einblicke hinter die Kulissen
+Exklusive Einblicke hinter die KulissenExklusive Einblicke hinter die Kulissen
+Unabhängig von dem, was andere tun, sind wir stets bestrebt, unsere Grenzen ständig neu zu definieren und Maßstäbe zu setzen. Das können wir heute und in Zukunft aber nur mit Mitarbeitern und Führungskräften erreichen, die immer das „Etwas-mehr“ im Blick haben.
+Exklusive Einblicke in die Porsche Arbeitswelt erhalten Sie auch auf unseren Karriereprofilen in den sozialen Netzwerken:
+
+Hinweise zur Bewerbung
+Hinweise zur BewerbungHinweise zur Bewerbung
+Bitte fülle unser Online-Bewerbungsformular aus und füge am Ende deine vollständigen Bewerbungsdokumente bei, die aus Anschreiben, Lebenslauf, Arbeits- und (Hoch-)Schulzeugnissen sowie ggf. weiteren Bescheinigungen bestehen. Bitte habe Verständnis, dass wir keine Bewerbungen per Post oder E-mail entgegennehmen.
+Bitte beachte, dass du dich lediglich auf eine Praktikantenstelle bewerben kannst. Weitere Bewerbungseingänge können leider nicht berücksichtigt werden, sofern bereits eine aktive Bewerbung vorliegt.
+
+Bewerberinnen und Bewerber aus dem europäischen Wirtschaftsraum, die sich für ein Praktikum in Deutschland bewerben, benötigen einen Personalausweis oder Pass. Bewerberinnen und Bewerber, die nicht aus dem europäischen Wirtschaftsraum stammen benötigen für die Dauer des Praktikums eine Aufenthalts- und ggf. eine Arbeitserlaubnis.
+Weitere Informationen rund um die Bewerbung bei Porsche findest du hier.
+
+Wir begrüßen ausdrücklich die Bewerbung von Menschen mit Behinderung, deren Integration uns ein besonderes Anliegen ist.
+Jetzt bewerben: ?ac=application&jobad_id=20313

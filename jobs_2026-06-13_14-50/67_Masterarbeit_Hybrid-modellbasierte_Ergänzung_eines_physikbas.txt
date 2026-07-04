@@ -1,0 +1,80 @@
+TITEL: Masterarbeit Hybrid-modellbasierte Ergänzung eines physikbasierten Simulationsmodells zur Prognose charakteristischer Thermal-Runaway-Kenngrößen von Lithium-Ionen-Zellen
+BEWERBUNGS-LINK: https://de.indeed.com/applystart?jk=78840ad478ec7e40&from=vj&pos=bottom&mvj=0&jobsearchTk=1jr0gr5hqh851800&spon=0&xkcb=SoC767M3igpjblTCax0FbzkdCdPP&xfps=8960992b-4745-4a4a-8769-b52bca71b075&vjfrom=vjs&asub=mob&astse=c7556d6d7156a924&assa=9987
+------------------------------------------------------------
+
+Zur Beschreibung des Thermal-Runaway-Verhaltens steht ein physikbasiertes Simulationsmodell zur Verfügung, das unter anderem Zersetzungsreaktionen, die thermische Entwicklung in der Zelle sowie Venting-Charakteristika abbildet. Wie bei komplexen multiphysikalischen Modellen üblich, beruht dieses Modell auf Annahmen, empirischen Parametrisierungen und Vereinfachungen, die die Prognosegüte und Übertragbarkeit begrenzen können.
+
+Ziel dieser Arbeit ist die Entwicklung eines hybriden Modellierungsansatzes, bei dem das bestehende physikbasierte Simulationsmodell durch ein datengetriebenes bzw. AI-basiertes Modell gezielt ergänzt wird. Im Fokus steht nicht der Ersatz der physikalischen Modellierung, sondern die systematische Beschreibung, Korrektur oder Ergänzung von Modellabweichungen auf Basis experimenteller Daten. Dadurch soll die Prognose charakteristischer Thermal-Runaway-Kenngrößen – beispielsweise Onset-Zeitpunkte, Maximaltemperaturen, Maximaldrücke oder venting-relevanter Bewertungsgrößen – verbessert werden.
+
+Im ersten Schritt erfolgt eine systematische Analyse der vorhandenen experimentellen und simulativen Daten sowie der Abweichungen zwischen physikbasiertem Modell und Versuch. Darauf aufbauend sind geeignete Zielgrößen, Einflussparameter und Korrekturgrößen zu definieren. Anschließend wird ein geeigneter AI-/ML-Ansatz entwickelt, trainiert und mit dem bestehenden Simulationsframework gekoppelt, um systematische Modellfehler zu reduzieren, unsichere Parametrisierungen datenbasiert zu erfassen oder vereinfachte Modellannahmen gezielt zu ergänzen. Abschließend sind die Prognosegüte des hybriden Ansatzes, der Mehrwert gegenüber dem physikalischen Basismodell, die Übertragbarkeit innerhalb eines definierten Parameterraums sowie die methodischen Grenzen kritisch zu bewerten.
+Kennziffer: J000020708
+Einstiegsart: Abschlussarbeit
+Einsatzort: Weissach
+Gesellschaft: Dr. Ing. h.c. F. Porsche AG
+Aufgaben
+AufgabenAufgaben
+Durchführung einer systematischen Literaturrecherche zu hybriden, datengetriebenen und physics-informed Modellierungsansätzen im Bereich Lithium-Ionen-Batterien und Thermal Runaway
+Analyse und Aufbereitung vorhandener experimenteller Messdaten aus Thermal-Runaway-Versuchen
+Analyse bestehender Simulationsdaten und systematische Untersuchung der Abweichungen zwischen physikbasiertem Modell und Experiment
+Identifikation geeigneter charakteristischer Zielgrößen, z. B. Onset-Zeitpunkte, Maximaltemperaturen, Maximaldrücke, Venting-Kenngrößen oder weiterer geeigneter Bewertungsparameter
+Identifikation relevanter Eingangsgrößen, Modellparameter, Unsicherheiten und vereinfachter Modellannahmen mit Einfluss auf die Modellgüte
+Konzeption, Implementierung und Training eines geeigneten AI-/ML-Ansatzes zur Korrektur, Ergänzung oder datenbasierten Parametrisierung des bestehenden physikbasierten Modells
+Kopplung des entwickelten Ansatzes mit dem vorhandenen Simulationsframework
+Validierung und Bewertung des hybriden Modells anhand experimenteller und simulativer Daten
+Vergleich des hybriden Modellierungsansatzes mit dem bestehenden physikbasierten Basismodell hinsichtlich Prognosegüte und Robustheit
+Kritische Diskussion der Übertragbarkeit, Aussagekraft und Grenzen des entwickelten Modellierungsansatzes sowie Ableitung von Weiterentwicklungspotenzialen
+Anforderungen
+AnforderungenAnforderungen
+Studiengänge:
+Informatik
+Data Science
+Maschinenbau
+Fahrzeugtechnik
+Elektrotechnik
+Oder vergleichbarer Studiengang
+
+Studienschwerpunkte:
+Machine Learning / Künstliche Intelligenz
+Datenanalyse und Datenaufbereitung
+Statistik
+Modellbildung und Simulation
+
+Fachkenntnisse:
+Grundkenntnisse im Bereich Machine Learning, Statistik oder datengetriebener Modellierung
+Interesse an der Verknüpfung physikbasierter und datengetriebener Modelle
+Grundlegendes Verständnis technischer Messdaten, Modellierung und experimenteller Zusammenhänge
+Idealerweise erste Kenntnisse im Bereich Lithium-Ionen-Batterien oder Batteriesicherheit
+
+IT-Kenntnisse:
+Sicherer Umgang mit MS Office
+Gute Python-Kenntnisse wünschenswert
+Idealerweise erste Erfahrung mit ML-Frameworks, z. B. PyTorch, TensorFlow oder scikit-learn
+
+Sprachkenntnisse:
+Deutsch
+Englisch
+
+Sonstiges / Soft Skills:
+Hohe Eigeninitiative
+ausgeprägte analytische Fähigkeiten
+strukturierte Arbeitsweise
+Teamfähigkeit
+Unternehmensprofil
+UnternehmensprofilUnternehmensprofil
+„Am Anfang schaute ich mich um, konnte aber den Wagen, von dem ich träumte, nicht finden. Also beschloss ich, ihn mir selbst zu bauen.“
+Dieser Satz von Ferry Porsche bringt alles auf den Punkt, was Porsche ausmacht. Als Marke, als Unternehmen, als Automobilhersteller, als Arbeitgeber. Die „Idee Porsche“ hat so einzigartige Sportwagen wie den Porsche 356 oder den 911 hervorgebracht. Durch die Kombination von Tradition und Innovation mit den Porsche typischen, manchmal etwas unkonventionellen Denkweisen unserer Mitarbeiter, lassen wir automobile Träume wahr werden und haben so immer das „Etwas-mehr“ im Blick. Porsche ist allerdings viel mehr als "nur" ein exklusiver Sportwagenhersteller. Denn auch als Arbeitgeber hat Porsche viel zu bieten: vielfältige Einstiegs- und Karrieremöglichkeiten, Maßnahmen zur Vereinbarkeit von Beruf und Familie sowie flexible Arbeitszeitmodelle.
+Exklusive Einblicke hinter die Kulissen
+Exklusive Einblicke hinter die KulissenExklusive Einblicke hinter die Kulissen
+Unabhängig von dem, was andere tun, sind wir stets bestrebt, unsere Grenzen ständig neu zu definieren und Maßstäbe zu setzen. Das können wir heute und in Zukunft aber nur mit Mitarbeitern und Führungskräften erreichen, die immer das „Etwas-mehr“ im Blick haben.
+Exklusive Einblicke in die Porsche Arbeitswelt erhalten Sie auch auf unseren Karriereprofilen in den sozialen Netzwerken:
+
+Hinweise zur Bewerbung
+Hinweise zur BewerbungHinweise zur Bewerbung
+Bitte fülle unser Online-Bewerbungsformular aus und füge am Ende deine vollständigen Bewerbungsdokumente bei, die aus Anschreiben, Lebenslauf, Arbeits- und (Hoch-)Schulzeugnissen sowie ggf. weiteren Bescheinigungen bestehen. Bitte habe Verständnis, dass wir keine Bewerbungen per Post oder E-mail entgegennehmen.
+Bitte beachte, dass du dich lediglich auf eine Praktikantenstelle bewerben kannst. Weitere Bewerbungseingänge können leider nicht berücksichtigt werden, sofern bereits eine aktive Bewerbung vorliegt.
+
+Bewerberinnen und Bewerber aus dem europäischen Wirtschaftsraum, die sich für ein Praktikum in Deutschland bewerben, benötigen einen Personalausweis oder Pass. Bewerberinnen und Bewerber, die nicht aus dem europäischen Wirtschaftsraum stammen benötigen für die Dauer des Praktikums eine Aufenthalts- und ggf. eine Arbeitserlaubnis.
+Weitere Informationen rund um die Bewerbung bei Porsche findest du hier.
+
+Wir begrüßen ausdrücklich die Bewerbung von Menschen mit Behinderung, deren Integration uns ein besonderes Anliegen ist.
+Jetzt bewerben: ?ac=application&jobad_id=20708

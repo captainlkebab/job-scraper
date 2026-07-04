@@ -1,0 +1,77 @@
+TITEL: Masterarbeit Bewertung von Materialperformance unter Thermal Runaway Belastungen von Lithium-Ionen-Batterien mittels neuronaler Netze
+BEWERBUNGS-LINK: https://de.indeed.com/applystart?jk=d4513859a4922440&from=vj&pos=bottom&mvj=0&jobsearchTk=1jr0glgarhmj5800&spon=0&xkcb=SoAS67M3igpZ1QTNxR0GbzkdCdPP&xfps=86503cf6-3582-4da2-9ccf-d6282bf86cac&vjfrom=vjs&asub=mob&astse=ae2da6eb761822c1&assa=531
+------------------------------------------------------------
+
+Der verstärkte Einsatz von Lithium-Ionen-Batterien in zukünftigen Elektrofahrzeugen stellt neue Herausforderungen an die Systemsicherheit, insbesondere im Zusammenhang mit erhöhten Energiedichten und gesteigerten Leistungsanforderungen. Ein besonders sicherheitsrelevantes Szenario ist das thermische Durchgehen (Thermal Runaway) einzelner Batteriezellen. In diesem Prozess wird ein hochenergetischer Gas-Partikel-Strom freigesetzt, der durch stark transiente thermische, mechanische sowie abrasive Belastungen gekennzeichnet ist. Diese Beanspruchungen können erhebliche Schäden an benachbarten Komponenten verursachen und bis zum strukturellen Versagen führen.
+
+Ziel dieser Arbeit ist die Entwicklung einer prädiktiven Methodik zur Bewertung der Materialperformance im Hinblick auf Thermal-Runaway-Belastungen durch austretendes Gas und Partikel an Materialien, die in Entgasungsstrukturen eingesetzt werden. Dazu soll ein neuronales Netzwerk konzipiert, trainiert und auf neue Materialien angewendet werden. Das neuronale Netzwerk wird mit vorhandenen Versuchsdaten aus Experiment und Simulation trainiert und validiert. Die durch das Modell generierten Auswertedaten sind mit Ergebnissen klassischer Ersatz- und Zellversuche zu vergleichen, um die Leistungsfähigkeit und Aussagekraft des entwickelten Ansatzes zu evaluieren. Auf Basis der gewonnenen Daten sollen charakteristische Parameter zur Bewertung des Materialversagens identifiziert und abgeleitet werden.
+
+Im ersten Arbeitsschritt erfolgt eine systematische Literaturrecherche zu bestehenden experimentellen, analytischen und simulativen Verfahren zur Bewertung von Brandschutzmaterialien im Thermal-Runaway-Umfeld. Darauf aufbauend wird ein geeignetes Modell zur Beurteilung der Materialperformance im Kontext des Thermal Runaway entwickelt, trainiert und implementiert. Die Validierung des Modells erfolgt anhand experimenteller Daten, um dessen Prognosegüte und Robustheit zu bewerten. Abschließend werden die Anwendbarkeit des entwickelten Ansatzes sowie mögliche Weiterentwicklungspotenziale kritisch diskutiert.
+
+Kennziffer: J000020339
+Einstiegsart: Abschlussarbeit
+Einsatzort: Weissach
+Gesellschaft: Dr. Ing. h.c. F. Porsche AG
+Aufgaben
+AufgabenAufgaben
+Durchführung einer systematischen Literaturrecherche zu bestehenden experimentellen, analytischen und simulativen Verfahren zur Bewertung von Brandschutzmaterialien im Kontext von Thermal Runaway
+Konzeption, Training und Implementierung eines neuronalen Netzwerks zur prädiktiven Bewertung der Materialperformance bei Thermal-Runaway-Belastungen
+Auswertung und Analyse von Versuchsdaten aus Experiment und Simulation zur Modellvalidierung
+Vergleich der durch das Modell generierten Auswertedaten mit Ergebnissen klassischer Ersatz- und Zellversuche
+Identifikation und Ableitung charakteristischer Parameter zur Bewertung des Materialversagens unter Thermal-Runaway-Bedingungen
+Kritische Bewertung der Anwendbarkeit des entwickelten Ansatzes sowie Ableitung von Weiterentwicklungspotenzialen
+Anforderungen
+AnforderungenAnforderungen
+Studiengänge:
+Informatik
+Fahrzeugtechnik
+Maschinenbau
+Elektrotechnik
+Data Science oder vergleichbarer Studiengang
+
+Studienschwerpunkte:
+Softwareentwicklung und Programmierung
+Künstliche Intelligenz und Machine Learining
+Systems Engineering
+Data Science
+Batterietechnik
+Fachkenntnisse:
+Grundlagen des Machine Learnings
+Verständnis der Prinzipien der Batterieentwicklung
+Erfahrung in der Datenaufbereitung
+Erste Erfahrung in der Automobilindustrie (z.B. druch Praktika) wünschenswert
+
+IT-Kenntnisse:
+Sicherer Umgang mit MS Office
+Idealerweise fundierte Kenntnisse in Python
+Machine Learning und KI-Frameworks (z.B. PyTorch)
+Soft Skills:
+Hohe Eigeninitiative
+ausgeprägte analytische Fähigkeiten
+strukturierte Arbeitsweise
+Teamfähigkeit
+Zielorientierung
+Sprachkenntnisse:
+Englisch (sehr gute Kenntnisse) oder
+Deutsch (mind. B1)
+Unternehmensprofil
+UnternehmensprofilUnternehmensprofil
+„Am Anfang schaute ich mich um, konnte aber den Wagen, von dem ich träumte, nicht finden. Also beschloss ich, ihn mir selbst zu bauen.“ Dieser Satz von Ferry Porsche bringt alles auf den Punkt, was Porsche ausmacht. Mitarbeiter, die so denken, stoßen bei uns immer auf offene Türen. Porsche ist eine wertvolle Marke mit weltweiter Anziehungskraft und einer treuen Kundenbasis rund um den Globus.
+Die Art und Weise, wie wir bei Porsche zusammenarbeiten und als Team zusammenhalten, ist einzigartig. Unser Miteinander ist dabei geprägt durch unsere starke Porsche Kultur: Herzblut | Sportlichkeit | Pioniergeist | Eine Familie.
+Wir bei Porsche leben Vielfalt, setzen uns für Chancengleichheit ein und fördern aktiv ein inklusives Miteinander. Ebenso sind Respekt und Toleranz fest verankert in unserer Unternehmenskultur. So schaffen wir ein Umfeld, das die Individualität jedes einzelnen Menschen im Unternehmensinteresse fördert.
+Ein Schlüssel zu unserem Erfolg ist die Vielfalt an Perspektiven. Denn die sich daraus ergebende Kombination individueller Stärken und Erfahrungen treibt Innovationen voran und stärkt unsere Teams. Dazu haben wir uns auch durch Unterzeichnung der Charta der Vielfalt verpflichtet. Ganz nach dem Motto: Jeder einzigartig. Zusammen vielfältig. Gemeinsam erfolgreich.
+Exklusive Einblicke hinter die Kulissen
+Exklusive Einblicke hinter die KulissenExklusive Einblicke hinter die Kulissen
+Unabhängig von dem, was andere tun, sind wir stets bestrebt, unsere Grenzen ständig neu zu definieren und Maßstäbe zu setzen. Das können wir heute und in Zukunft aber nur mit Mitarbeitern und Führungskräften erreichen, die immer das „Etwas-mehr“ im Blick haben.
+Exklusive Einblicke in die Porsche Arbeitswelt erhalten Sie auch auf unseren Karriereprofilen in den sozialen Netzwerken:
+
+Hinweise zur Bewerbung
+Hinweise zur BewerbungHinweise zur Bewerbung
+Bitte fülle unser Online-Bewerbungsformular aus und füge am Ende deine vollständigen Bewerbungsdokumente bei, die aus Anschreiben, Lebenslauf, Arbeits- und (Hoch-)Schulzeugnissen sowie ggf. weiteren Bescheinigungen bestehen. Bitte habe Verständnis, dass wir keine Bewerbungen per Post oder E-mail entgegennehmen.
+Bitte beachte, dass du dich lediglich auf eine Praktikantenstelle bewerben kannst. Weitere Bewerbungseingänge können leider nicht berücksichtigt werden, sofern bereits eine aktive Bewerbung vorliegt.
+
+Bewerberinnen und Bewerber aus dem europäischen Wirtschaftsraum, die sich für ein Praktikum in Deutschland bewerben, benötigen einen Personalausweis oder Pass. Bewerberinnen und Bewerber, die nicht aus dem europäischen Wirtschaftsraum stammen benötigen für die Dauer des Praktikums eine Aufenthalts- und ggf. eine Arbeitserlaubnis.
+Weitere Informationen rund um die Bewerbung bei Porsche findest du hier.
+
+Wir begrüßen ausdrücklich die Bewerbung von Menschen mit Behinderung, deren Integration uns ein besonderes Anliegen ist.
+Jetzt bewerben: ?ac=application&jobad_id=20339

@@ -1,0 +1,51 @@
+TITEL: Masterarbeit: Unsicherheiten neuronaler Netze für autonome maritime Systeme
+BEWERBUNGS-LINK: https://de.indeed.com/applystart?jk=c0ebe94b2a859f77&from=vj&pos=bottom&mvj=0&jobsearchTk=1jr0gh5a6hbbi800&spon=0&xkcb=SoBB67M3igpLd6TNxB0MbzkdCdPP&xfps=f0d40129-350d-4757-868e-0584705a14de&vjfrom=vjs&asub=mob&astse=b730906e5a24b8ee&assa=6838
+------------------------------------------------------------
+
+Unternehmensvorstellung
+
+TKMS ATLAS ELEKTRONIK ist ein Unternehmen der TKMS Gruppe. Seit Jahrzehnten unterstützen wir Marinen auf der ganzen Welt dabei, die Meere sicherer zu machen. Unseren Kunden bieten wir umfassende Lösungen in Sensorik und Elektronik. Vom Sonar über unbemannte Fahrzeuge und Minenabwehrsystemen bis hin zu Kommunikationsanlagen. Alles aus einer Hand. Bereit mit den Besten zu arbeiten? Werde Teil unseres Teams aus mehr als 8.500 Kolleginnen und Kollegen bei TKMS. Als wachsendes Marineunternehmen bieten wir zukunftssichere Entwicklungsmöglichkeiten in einem internationalen, diversen Hightechumfeld. Wir entwickeln Stärke.
+
+Aufgaben
+Durchführung einer Literaturrecherche im Bereich Explainable AI (XAI)
+Implementierung einer Pipeline, um Unsicherheit und Erklärbarkeit neuronaler Netze gegenüberzustellen
+Evaluierung von Metriken im Kontext sicherheitskritischer Anforderungen für Unmanned Surface Vehicles (USVs)
+Entwicklung missionsspezifischer und sicherheitsrelevanter Bewertungskriterien
+
+Profil
+Laufendes technisches Studium, z. B. in Angewandter KI, Informatik, Physik, Machine Learning, Data Science oder vergleichbar
+Kenntnisse in den Bereichen Machine Learning oder Deep Learning
+Erfahrung im Bereich Computer Vision
+Sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift
+Selbstständige und systematische Arbeitsweise
+Ausgeprägte Kommunikationsfähigkeit und Fähigkeit zur interdisziplinären Zusammenarbeit
+
+Kontakt
+
+Alena Telch
+Talent Acquisition Partner
+
+Vorteile
+
+Für uns ist es selbstverständlich, Dir optimale Rahmenbedingungen zu bieten. Dazu gehören unter anderem:
+Welcomeday und Onboardingprogramm
+Attraktive (außer-) tarifliche Vergütung
+Flexible und familienfreundliche Arbeitszeitgestaltung durch Gleitzeit-/ und Lebensarbeitszeitkonto sowie mobiles Arbeiten
+30 Tage Jahresurlaub sowie Sonderurlaub gemäß Tarifvertrag
+Hervorragende betriebliche Altersversorgung
+Spannende Aufgaben an innovativen Produkten in einem wachsenden Marineunternehmen
+Zuschuss zum Jobticket bzw. Deutschlandticket
+Firmenfitness mit bundesweiten Verbundpartnern
+Bikeleasing
+Umfassende Zusatzleistungen / attraktive externe Angebote
+Individuelle Lern- & Entwicklungsmöglichkeiten in Präsenz und digital
+Umfassendes Gesundheitsmanagement inkl. Präventionsangebote
+Enge Zusammenarbeit mit Führungskräften und der Mitarbeitendenvertretung
+
+Kollegiale Zusammenarbeit und Respekt im Umgang miteinander – das findest Du bei uns seit über 185 Jahren! Wenn Dir das genauso wichtig ist, dann bewirb Dich jetzt online unter Angabe Deiner Gehaltsvorstellung und Deiner aktuellen Kündigungsfrist.
+
+Diversität
+
+Wir wertschätzen Vielfalt und begrüßen daher alle Bewerbungen unabhängig von Geschlecht, Nationalität, ethnischer und sozialer Herkunft, Religion/ Weltanschauung, Behinderung, Alter sowie sexueller Orientierung und Identität.
+
+Job Reference: DE_TKMS01140

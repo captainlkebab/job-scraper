@@ -1,0 +1,43 @@
+TITEL: Rottweil - AI-Engineer (m/w/d) – LLM-Systeme & Softwareintegration
+BEWERBUNGS-LINK: https://de.indeed.com/applystart?jk=6afa043b2d98ade4&from=vj&pos=bottom&mvj=0&jobsearchTk=1jr0goahghmj5800&spon=0&xkcb=SoBo67M3igpuj6TDN50IbzkdCdPP&xfps=e50997bd-9aa8-483c-90af-44a89759aa59&vjfrom=vjs&asub=mob&astse=ee6163a964417602&assa=8502
+------------------------------------------------------------
+
+Jobbasics
+Wir suchen einen AI-Engineer, der unser Entwicklungsteam dabei unterstützt, unsere bestehende Controlling-Software gezielt, um KI-Funktionalitäten zu erweitern. Ziel ist es, Controller und Anwender durch intelligente Automatisierung von Routineaufgaben zu entlasten und ihnen mächtige, proaktive Assistenzfunktionen (z. B. für Forecasting oder Abweichungsanalyse) bereitzustellen. Der Fokus liegt auf der praktischen Umsetzung von LLM-basierten Assistenzfunktionen. Teil dieses Vorhabens ist auch die fachliche Betreuung von Masterarbeiten im Bereich KI-gestützter Anwendungen.
+Über uns
+macs ist ein international tätiger Softwareanbieter für integrierte Unternehmensplanung, Controlling und Business Intelligence. Seit 1999 unterstützt das Unternehmen Kunden verschiedener Branchen mit fundierter betriebswirtschaftlicher Expertise sowie leistungsstarken Lösungen für Forecasting, Simulation und Kostenrechnung. Mit Sitz im Schwarzwald verbindet macs fachliche Kompetenz mit moderner Technologie für datengetriebene Entscheidungen.
+Jobtasks
+Konzeption und Umsetzung konkreter auf LLMs basierender KI-Anwendungen für unsere Controlling-Software, die Controller und Anwender bei wiederkehrenden Aufgaben wie Planung, Forecasting, Abweichungsanalyse und Berichterstellung intelligent unterstützt.
+Unterstützung beim Aufbau einfacher Konfigurationsoberflächen, die es Fachanwendern ermöglicht, KI-gestützte Workflows eigenständig zu konfigurieren und zu steuern – ohne größere Programmierkenntnisse.
+Entwicklung und Implementierung von Assistenzfunktionen und KI-Agenten, die eigenständig Datenanalysen durchführen, Anomalien erkennen, Simulationen ansteuern und kontextbezogene Handlungsempfehlungen generieren.
+Evaluation und Integration bestehender Cloud- und OnPremise-Lösungen (z. B. Azure OpenAI, Microsoft Copilot Studio, LangChain, AutoGen) in die bestehende Systemlandschaft.
+Enge Zusammenarbeit mit Produktmanagement, Entwicklungsteam und Key-Kunden, um KI-Funktionen praxisnah und anforderungsgerecht zu gestalten.
+Fachliche Begleitung und Betreuung eines laufenden Masterthesis-Projekts im Bereich Agentic AI und No-Code-Plattformen.
+Aufbau von Best Practices, internen Guidelines und Wissenstransfer rund um KI-Entwicklung im Team.
+Dein Profil
+Abgeschlossenes Studium der Informatik, Wirtschaftsinformatik, Data Science oder vergleichbare Qualifikation.
+Nachweisbare Umsetzungserfahrung in der Entwicklung und dem Einsatz von KI-Lösungen mit Fokus auf Large Language Models (LLMs), oder Agenten-Systemen – idealerweise mit produktivem Einsatz oder der Nutzung von realen Daten.
+Fundierte Kenntnisse in Python sowie Erfahrung mit KI-Frameworks wie LangChain, LlamaIndex, AutoGen, Semantic Kernel oder vergleichbaren Technologien.
+Erfahrung mit Cloud-Plattformen, insbesondere Microsoft Azure (Azure OpenAI Service, Azure AI Foundry, Power Platform) von Vorteil.
+Verständnis von No-Code/Low-Code-Plattformen und die Fähigkeit, technische Konzepte für nicht-technische Anwender verständlich umzusetzen.
+Interesse an betriebswirtschaftlichen Zusammenhängen, insbesondere in den Bereichen Controlling, Unternehmensplanung und Finanzanalyse.
+Eigenverantwortliche, strukturierte Arbeitsweise sowie die Bereitschaft, neue Technologien schnell zu erschließen und im Team voranzutreiben.
+Bitte beschreiben Sie in Ihrer Bewerbung ein konkretes KI-Projekt, das Sie eigenständig umgesetzt haben (Ziel, Architektur, Ihr Beitrag).
+Benefits
+Ein professionelles, agil agierendes Arbeitsumfeld mit modernstem Equipment.
+Als Microsoft Partner stets neueste Technologien und Werkzeuge, wie Azure / GitHub / diverse Codex.
+Die einzigartige Chance, eine etablierte Software-Plattform von Grund auf neu zu denken und mit KI-Technologie der nächsten Generation auszustatten.
+Training und Unterstützung beim Weiterentwickeln deiner Kenntnisse im Bereich Agentic AI, MLOps und Cloud-Architekturen.
+Engagierte Kollegen, flache Hierarchien, kurze Entscheidungswege und viel Raum für eigene Ideen.
+Eine attraktive, leistungsgerechte Vergütung ist für uns selbstverständlich.
+Klingt nach deiner nächsten Herausforderung? Melde dich bei
+macs Controlling GmbH
+Stadtwerg 36
+78658 Zimmern ob Rottweil
+Ansprechpartner
+Christian Seifried
+Mail: karriere@macscontrolling.com
+Jetzt bewerben
+macs Software
+Personalabteilung / Karriere
++49 741 942288-0 karriere@macscontrolling.com

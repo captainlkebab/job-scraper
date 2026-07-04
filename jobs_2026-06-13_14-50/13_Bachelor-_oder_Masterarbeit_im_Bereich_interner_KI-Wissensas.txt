@@ -1,0 +1,34 @@
+TITEL: Bachelor- oder Masterarbeit im Bereich interner KI-Wissensassistent (m/w/d)
+BEWERBUNGS-LINK: https://de.indeed.com/rc/clk?jk=59658178253a7959&bb=nUTc2-5bATr_TKL_T-ZPzeWUsXQBcFh9mnCyHklNE252LSo5FmzWH_nRGAjCw8BWrJMDykYYYNkpHT9PlwT_7kmPOb2h5p8FxiXZghEkFJ52gL2Dqd2Gl8QyIp4BX6sQ&xkcb=SoC767M3igpLd6TNxB0HbzkdCdPP&fccid=c5ffa10d83efdb1b&vjs=3
+------------------------------------------------------------
+
+Bachelor- oder Masterarbeit im Bereich interner KI-Wissensassistent (m/w/d)
+Standort: Dreieich (Rhein-Main-Gebiet)
+Wer wir sind:
+Die Pan Dacom Gruppe ist ein mittelständisches IT-Systemhaus mit rund 300 Mitarbeitenden. Als technologischführender Hersteller mit eigener Hard- und Softwareentwicklung in Deutschland verfügen wir über langjähriges IT-Know-how und planen sowie realisieren komplexe Netzwerke für unsere Kunden. Unser Erfolg basiert auf technologischer Innovation, exzellentem Service und langfristigen Partnerschaften mit unseren. Als inhabergeführtes Unternehmen, frei von Investoren, können wir langfristig denken und handeln.
+Seit über40 Jahrenentwickeln wir uns erfolgreich am Markt weiter und investieren kontinuierlich und langfristig in unsere Zukunft – aktuell beispielsweise durch den Neubau unserer Zentrale in Offenbach. Dass dabei nicht nur Technologie, sondern auch Zusammenarbeit und Führung überzeugen, zeigen die sehr guten Ergebnisse unserer Great Place to Work®-Mitarbeiterbefragung 2026.
+Unser Ziel:
+Entwicklung eines KI-gestützten Wissensassistenten für interne Dokumente (z.B. für die Bereiche Service, Sales, Presales)
+Unterstützung bei der strukturierten Nutzung undAufbereitung interner Informationen
+Konzeption und Implementierung vonLLMs
+Was dich erwartet:
+Analyse: Du analysierst relevante Anwendungsfälle im Bereich des internes Wissensmanagement.
+Recherche: Du untersuchst geeignete technische Ansätze für Suche, Aufbereitung und Bereitstellung von Informationen.
+Bewertung: Du analysierst und bewertest technische Voraussetzungen (Architektur, Ressourcen und Budget).
+Konzeption: Du konzipierst einen KI-gestützten Assistenten zur Beantwortung interner Fragestellungen.
+**Prototyp:**Auch die Evaluation im Praxiseinsatz und prototypische Umsetzung erwarten dich.
+Was du mitbringst: - Du befindets dich in deinem Bachelor- oder Masterstudium im Bereich Informatik, KI, Data Science, Wirtschaftsinformatik oder eines vergleichbaren Studiengangs und suchts einen Praxispartner für deine Abschlussarbeit. - Python: Du bringst einen sicheren Umgang mit Python mit. - Du konntest schon erste Erfahrung mit (Open Source) Sprachmodellen sammeln. - Sehr gute Deutschkenntnisse runden dein Profil ab.
+Was wir dir bieten:
+Sicherheit & Perspektive: Ein langfristig sicherer Arbeitsplatz in einem erfolgreichen, inhabergeführten Unternehmen mit individuellen Weiterbildungsangeboten.
+**Zukunft mitgestalten:**Arbeite aktiv an einem der wichtigsten Zukunftsthemen "Künstliche Intelligenz" mit und bringe Deine Ideen ein.
+**Top-Betreuung:**Erstklassige fachliche Unterstützung auf höchstem Niveau – damit Du Dich optimal entwickeln und Dein Potenzial voll entfalten kannst.
+Attraktive Zusatzleistungen: JobRad, betriebliche Altersvorsorge, Unfallversicherung sowie regelmäßige Mitarbeiterevents für ein starkes Miteinander.
+Wertschätzende Unternehmens- und Führungskultur: Flache Hierarchien, Duz-Kultur, kurze Entscheidungswege und eine Zusammenarbeit auf Augenhöhe.
+**Work-Life-Balance:**Bis zu 33 Tage Urlaub sowie flexible Arbeitsmöglichkeiten für die optimale Vereinbarkeit von Studium und Praxis.
+**Modernes Arbeitsumfeld:**Top ausgestatteter Office Campus mit idealer Anbindung (A661 und A3), kostenlosen Parkplätzen inkl. Tiefgarage und E-Ladeplätzen.
+**Praxisnahe Entwicklung:**Mitarbeit an zukunftsweisenden Projekten, Einsatz neuer Technologien sowie Raum für eigene Ideen und persönliche Weiterentwicklung.
+**Strukturiertes Onboarding:**Ein umfassendes Einarbeitungsprogramm sorgt für einen erfolgreichen und schnellen Start bei uns.
+Nachhaltigkeit: Unser Engagement für verantwortungsvolles Wirtschaften wird durch die Ecovadis-Zertifizierung bestätigt.
+Bei Fragen ruf gerne Frau Helen Davari an: Telefon 06103 / 932 -150.
+Sende deine aussagekräftige Bewerbung bitte ausschließlichüber unser Online Bewerbungsformular.
+Pan Dacom Direkt GmbH ‧ Dreieich Plaza 1B ‧ 63303 Dreieich

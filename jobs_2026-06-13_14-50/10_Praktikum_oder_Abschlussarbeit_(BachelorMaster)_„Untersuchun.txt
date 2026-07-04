@@ -1,0 +1,39 @@
+TITEL: Praktikum oder Abschlussarbeit (Bachelor/Master) „Untersuchung und mögliche Umsetzung von KI‑Anwendungen im Bereich Hotel‑Elektrik & Technical Hotel Equipment (THE)
+BEWERBUNGS-LINK: https://de.indeed.com/rc/clk?jk=e1af498227791364&bb=nUTc2-5bATr_TKL_T-ZPzW-M2IZrFd_wP8tpcgc25tJh_u347MsgWxpb0IYlPZpFRxkAu15WDkHvCm3VZ0o-ocLLsoR_m86p9SdKjjA8PjllLNOUoCfptUl_t0IHQrJj&xkcb=SoAc67M3igpLd6TNxB0CbzkdCdPP&fccid=6fd66a8600ad3a3e&vjs=3
+------------------------------------------------------------
+
+Praktikum oder Abschlussarbeit (Bachelor/Master) „Untersuchung und mögliche Umsetzung von KI‑Anwendungen im Bereich Hotel‑Elektrik & Technical Hotel Equipment (THE)
+Zur Verstärkung unseres Teams suchen wir motivierte Studierende (m/w/d) aus den Bereichen Informatik, Elektrotechnik, Wirtschaftsinformatik, Data Science oder vergleichbaren Studiengängen für ein Praktikum oder eine Abschlussarbeit (Bachelor oder Master) im Technischen Büro – Abteilung Elektrische Einrichtung / Technical Hotel Equipment (THE) ab 2026
+Im Rahmen deiner Arbeit soll die mögliche Anwendung und Umsetzung von KI‑basierten Lösungen im Umfeld der Hotel‑Elektrik an Bord von Schiffen untersucht, bewertet und konzeptionell ausgearbeitet werden.
+Folgende mögliche Themenschwerpunkte warten auf Dich:
+Analyse von Einsatzmöglichkeiten von KI‑ und Machine‑Learning‑Anwendungen im Bereich Hotel‑Elektrik (z. B. Beleuchtung, Entertainment, IT, Safety)
+Konzeptionelle Entwicklung einer KI‑gestützten Anwendung zur Optimierung von Engineering‑, Planungs‑ oder Betriebsprozessen im THE‑Umfeld
+Untersuchung von Datenquellen und Datenstrukturen (z. B. Sensordaten, Betriebs‑ oder Planungsdaten) als Grundlage für KI‑Modelle
+Bewertung geeigneter KI‑Modelle und Methoden (z. B. Predictive Analytics, Optimierung, Mustererkennung)
+Prototypische Umsetzung oder Simulation einer KI‑Anwendung (je nach Umfang und Abschlussart)
+Wirtschaftliche und technische Bewertung des KI‑Einsatzes im Schnittstellenbereich Engineering, Betrieb und Fertigung
+Analyse von Chancen, Risiken und Voraussetzungen für den Einsatz von KI‑Lösungen im schiffbaulichen Umfeld
+Dokumentation der Ergebnisse sowie Ableitung von Handlungsempfehlungen für einen möglichen Serieneinsatz
+Die genaue Ausgestaltung des Themas erfolgt individuell in Abstimmung mit dir und unseren Fachabteilungen und wird an Bachelor‑ oder Master‑Niveau angepasst.
+Was du mitbringst:
+Studium eines technisch oder IT‑orientierten Studienganges, z. B.:
+Informatik, Wirtschaftsinformatik, Data Science
+Elektrotechnik, Informationstechnik
+Systems Engineering oder vergleichbar
+Grundkenntnisse in KI‑, Machine‑Learning‑ oder Data‑Analytics‑Methoden
+Programmierkenntnisse, idealerweise Python (weitere Sprachen von Vorteil)
+Analytische, strukturierte und konzeptionelle Denkweise
+Interesse an der Schnittstelle zwischen IT, Elektrotechnik und Engineering
+Gutes technisches Verständnis und Freude an komplexen Fragestellungen
+Gute MS‑Office‑Kenntnisse
+Selbstständige Arbeitsweise sowie Team‑ und Kommunikationsfähigkeit
+Das bieten wir dir:
+Praxisnahe Bearbeitung eines aktuellen und zukunftsrelevanten KI‑Themas
+Enge fachliche Betreuung durch erfahrene Ingenieurinnen und Ingenieure
+Tiefe Einblicke in schiffbauliche Großprojekte und Hotel‑Elektrik
+Zusammenarbeit mit interdisziplinären Teams aus Engineering, IT und Betrieb
+Flexible Gestaltung von Praktikum, Bachelor‑ oder Masterarbeit
+Möglichkeit zur Weiterentwicklung des Themas über die Abschlussarbeit hinaus
+Wir begrüßen, betreuen und unterstützen die Anfertigung einer Abschlussarbeit (Bachelor oder Master) im Anschluss an ein Praktikum.
+Haben wir Dein Interesse geweckt? Dann sende uns bitte Deine vollständige und aussagekräftige Bewerbung, bestehend aus Lebenslauf (CV), aktuellem Notenspiegel und Anschreiben und teile uns mit, welcher Themenschwerpunkt Dich besonders interessiert.
+Du hast Fragen zum Praktikum? Dann wende Dich gerne an Lina Rosenboom (lina.rosenboom@meyerwerft.de).

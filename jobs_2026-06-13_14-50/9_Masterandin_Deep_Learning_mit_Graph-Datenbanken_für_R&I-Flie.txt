@@ -1,0 +1,35 @@
+TITEL: Masterand:in Deep Learning mit Graph-Datenbanken für R&I-Fließbilder (m/w/d)
+BEWERBUNGS-LINK: https://de.indeed.com/applystart?jk=a4b97a6156af4939&from=vj&pos=bottom&mvj=0&jobsearchTk=1jr0gh5a6hbbi800&spon=0&xkcb=SoCo67M3igpLd6TNxB0DbzkdCdPP&xfps=4eceb954-801d-4696-acaa-fad0f51092e1&vjfrom=vjs&asub=mob&astse=f8a09eace61c673b&assa=2154
+------------------------------------------------------------
+
+WILLKOMMEN BEI UNS
+Die Serviceeinheit Global Engineering Services trägt mit herausragender technischer Expertise dazu bei, eine nachhaltige Zukunft zu gestalten. Mit unseren engagierten, interdisziplinären Teams unterstützen wir die BASF-Unternehmensbereiche dabei, gemeinsam mit unseren Kunden und Märkten zu wachsen. Wir setzen Investitionen wettbewerbsfähig um. Rund um den Globus sorgen wir für sichere und zuverlässige Lösungen, damit die Produktionsanlagen exzellente Leistung erbringen. Dabei verbessern wir uns kontinuierlich und treiben den digitalen Wandel voran.
+WAS SIE ERWARTET
+Rohrleitungs‑ und Instrumentierungsdiagramme (R&I‑Fließbilder) stellen verfahrenstechnische Anlagen schematisch und funktional dar.
+Im Rahmen der Masterarbeit soll untersucht werden, ob sich auf Basis der R&I-Daten ein neuronales Netz mittels Deep Learning trainieren lässt und ob das trainierte, neuronale Netz zur Qualitätsprüfung von R&I-Fließbildern eingesetzt werden kann.
+Die Aufgabenstellung lässt sich wie folgt gliedern:
+Sie analysieren die Graph- und Anlagendaten und erstellen einen geeigneten Trainingsdatensatz.
+Darauf aufbauend entwerfen Sie eine geeignete Architektur für ein neuronales Netzwerk zur Verarbeitung der P&ID-Daten.
+Sie übernehmen das Training und die Optimierung des neuronalen Netzwerks mit den aufbereiteten Daten.
+Abschließend validieren Sie die Modellleistung und visualisieren die Ergebnisse.
+WAS SIE MITBRINGEN
+laufendes Masterstudium in Informatik, Data Science, Ingenieurwesen oder einem vergleichbaren Studiengang
+kenntnisse in Deep Learning und neuronalen Netzen
+praktische Erfahrung in Python und mit Frameworks wie PyTorch (oder vergleichbar)
+idealerweise Erfahrung im Umgang mit Graphdatenbanken (z. B. Neo4j) und Interesse an der Graph-Analyse
+selbstständige, analytische Arbeitsweise und Interesse daran, innovative Lösungen an einer praxisrelevanten Fragestellung zu erarbeiten
+WAS WIR BIETEN
+Praxisphase - Theorie aktiv in anspruchsvollen und abwechslungsreichen Aufgaben/Projekten anwenden
+Teambuddy - Ansprechperson für alle Fragen sowie regelmäßiges Feedback
+Netzwerke - unterschiedliche Perspektiven, Denkweisen und Arbeitsgebiete kennenlernen
+Praktikumsvergütung - eine Anerkennung des Einsatzes, weitere Infos hier: on.basf.com/VerguetungBASFSE
+Flexible Arbeitszeitgestaltung - je nach Einsatzort und -gebiet
+SO ERREICHEN SIE UNS
+Paula Männecke (Talent Acquisition), paula.maennecke@basf.com, Tel.:+49 30 2005-56093 beantwortet gerne Ihre Fragen zu dieser Position. Gerne können Sie sich auch einen Online-Termin buchen.
+Unser Recruiting-Team erreichen Sie auch hier
+Erste Informationen zu unserem Bewerbungsprozess finden Sie hier
+ÜBER UNS
+Die BASF SE mit Sitz in Ludwigshafen am Rhein ist die Konzernzentrale der BASF-Gruppe und Teil des Wirtschaftsballungsraums Metropolregion Rhein Neckar. Das Unternehmen BASF steht für Kompetenz in Chemie seit 1865 und ist heute mit einer breiten Produktpalette in den großen Consumer-Märkten der Welt vertreten. Als größter Arbeitgeber der Region bietet die BASF SE vielfältige Karrierechancen für Studenten, Hochschulabsolventen und Professionals und bildet in über 30 Berufen aus. Freizeit, Sport, Kultur und eine gute Infrastruktur prägen die Metropolregion Rhein Neckar, in der sich auch BASF mit zahlreichen Aktivitäten engagiert. Mehr über die BASF SE erfahren Sie unter: http://on.basf.com/BASFSE_LU
+Vielfalt ist unsere größte Stärke!
+Gestalten Sie mit uns die Zukunft – in einem globalen Team, das Inklusion und Chancengleichheit unabhängig von Geschlecht, Alter, Herkunft, sexueller Orientierung, Behinderung oder Weltanschauung lebt.
+Und übrigens, wir überlassen es unseren Mitarbeitenden, ob und wann sie sich duzen.

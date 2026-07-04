@@ -1,0 +1,18 @@
+# --- Python / Environment ---
+venv/
+.env
+__pycache__/
+*.pyc
+
+# --- Projekt-Outputs (Hier liegen deine Bewerbungen & Rohdaten) ---
+coverLetters/
+attachments/
+
+# --- Selenium Browser-Profile (Enthalten sensible Session-Cookies!) ---
+chrome_profile/
+indeed_profile/
+.chromedriver_data/
+
+# --- OS-spezifische Systemdateien ---
+.DS_Store
+Thumbs.db

@@ -1,0 +1,82 @@
+TITEL: Masterarbeit Partikeltracking beim Thermal Runaway von Lithium-Ionen-Batterien mittels neuronaler Netze
+BEWERBUNGS-LINK: https://de.indeed.com/applystart?jk=a5d9ac7c431798a0&from=vj&pos=bottom&mvj=0&jobsearchTk=1jr0glgarhmj5800&spon=0&xkcb=SoAo67M3igpZ1QTNxR0AbzkdCdPP&xfps=ca01bec1-e3a6-4e70-8611-b41c0a6844e3&vjfrom=vjs&asub=mob&astse=89f273df06662800&assa=8248
+------------------------------------------------------------
+
+Der zunehmende Einsatz von Lithium-Ionen-Batterien in zukünftigen Elektrofahrzeugen erfordert eine vertiefte Untersuchung der Systemsicherheit, insbesondere vor dem Hintergrund steigender Energiedichten und wachsender Leistungsanforderungen. Ein zentrales sicherheitskritisches Szenario stellt das thermische Durchgehen (Thermal Runaway) einzelner Batteriezellen dar. In diesem Ereignis wird ein hochenergetischer Gas-Partikel-Strom freigesetzt, der durch stark transiente thermische, mechanische sowie abrasive Belastungen charakterisiert ist. Diese Beanspruchungen können zu erheblichen Schäden an benachbarten Komponenten bis hin zum strukturellen Versagen führen.
+
+Ziel der ausgeschriebenen Abschlussarbeit ist die Entwicklung einer Methodik zur Detektion, Verfolgung und qualitativen wie quantitativen Bewertung von Partikeln im Entgasungsprozess eines Thermal-Runaway-Ereignisses. Hierzu soll ein neuronales Netzwerk konzipiert, trainiert und auf Hochgeschwindigkeitsaufnahmen des Venting-Vorgangs angewendet werden. Die mittels des Modells generierten Auswertedaten sind mit Ergebnissen klassischer PIV-Methoden (Particle Image Velocimetry) zu vergleichen, um die Leistungsfähigkeit und Aussagekraft des Ansatzes zu beurteilen. Auf Basis der gewonnenen Daten sollen charakteristische Parameter zur Beschreibung des Partikelausstoßes identifiziert und abgeleitet werden.
+
+Im ersten Arbeitsschritt erfolgt eine systematische Literaturrecherche zu bestehenden Verfahren des Partikel-Trackings und angrenzenden bildbasierten Analysemethoden. Darauf aufbauend wird ein geeignetes Modell zur Partikelverfolgung im Kontext des Thermal Runaway entwickelt und implementiert. Die Validierung des Modells erfolgt anhand experimenteller Daten, um dessen Prognosegüte und Robustheit zu bewerten. Abschließend werden die Anwendbarkeit des entwickelten Ansatzes sowie dessen Weiterentwicklungspotenziale kritisch diskutiert.
+
+Kennziffer: J000020341
+Einstiegsart: Abschlussarbeit
+Einsatzort: Weissach
+Gesellschaft: Dr. Ing. h.c. F. Porsche AG
+Aufgaben
+AufgabenAufgaben
+Zu deinen Aufgaben gehören die Analyse sicherheitskritischer Thermal-Runaway-Szenarien in Lithium-Ionen-Batterien sowie die Entwicklung einer Methodik zur KI-gestützten Detektion, Verfolgung und Bewertung von Partikeln im Entgasungsprozess. Dabei identifizierst du geeignete neuronale Netzarchitekturen für das Partikeltracking in hochdynamischen, optisch herausfordernden Umgebungen und bewertest deren Leistungsfähigkeit im Vergleich zu etablierten bildbasierten Verfahren wie der Particle Image Velocimetry (PIV). Auf Basis experimenteller Hochgeschwindigkeitsaufnahmen leitest du relevante physikalische Kenngrößen ab und bewertest deren Aussagekraft für die Charakterisierung des Thermal-Runaway-Ereignisses.
+
+Die Arbeit umfasst dabei typischerweise folgende Schwerpunkte:
+Literaturrecherche zu Partikeltracking-Verfahren, bildbasierter Strömungsanalyse und KI-Methoden im Kontext sicherheitskritischer Batterieszenarien (u. a. neuronale Netze, Deep Learning für Computer Vision, Tracking-Algorithmen).
+Analyse der physikalischen und messtechnischen Randbedingungen beim Thermal Runaway von Lithium-Ionen-Batterien, insbesondere des Gas‑Partikel-Ausstoßes und der damit verbundenen thermischen, mechanischen und abrasiven Belastungen
+Konzeption, Implementierung und Training eines neuronalen Netzwerks zur Detektion und Verfolgung von Partikeln in Hochgeschwindigkeitsaufnahmen des Venting‑Vorgangs
+Evaluation und Validierung des entwickelten Ansatzes anhand experimenteller Daten sowie Vergleich mit klassischen PIV-Methoden hinsichtlich Genauigkeit, Robustheit und Aussagekraft
+Ableitung charakteristischer Parameter zur quantitativen und qualitativen Beschreibung des Partikelausstoßes während des Thermal Runaway
+Dokumentation und wissenschaftliche Aufbereitung der Ergebnisse im Rahmen einer Bachelor- oder Masterarbeit mit starkem Praxisbezug
+Anforderungen
+AnforderungenAnforderungen
+Studiengänge:
+Informatik
+Fahrzeugtechnik
+Maschinenbau
+Elektrotechnik
+Data Science oder vergleichbarer Studiengang
+Studienschwerpunkte:
+Softwareentwicklung und Programmierung
+Künstliche Intelligenz und Machine Learining
+Systems Engineering
+Data Science
+Batterietechnik
+Fachkenntnisse:
+Grundlagen des Machine Learnings
+Verständnis der Prinzipien der Batterieentwicklung
+Erfahrung in der Datenaufbereitung
+Erste Erfahrung in der Automobilindustrie (z.B. druch Praktika) wünschenswert
+
+IT-Kenntnisse:
+Sicherer Umgang mit MS Office
+Idealerweise fundierte Kenntnisse in Python
+Machine Learning und KI-Frameworks (z.B. PyTorch)
+
+Soft Skills:
+Hohe Eigeninitiative
+ausgeprägte analytische Fähigkeiten
+strukturierte Arbeitsweise
+Teamfähigkeit
+Zielorientierung
+
+Sprachkenntnisse:
+Englisch (sehr gute Kenntnisse) oder
+Deutsch (mind. B1)
+
+Unternehmensprofil
+UnternehmensprofilUnternehmensprofil
+„Am Anfang schaute ich mich um, konnte aber den Wagen, von dem ich träumte, nicht finden. Also beschloss ich, ihn mir selbst zu bauen.“ Dieser Satz von Ferry Porsche bringt alles auf den Punkt, was Porsche ausmacht. Mitarbeiter, die so denken, stoßen bei uns immer auf offene Türen. Porsche ist eine wertvolle Marke mit weltweiter Anziehungskraft und einer treuen Kundenbasis rund um den Globus.
+Die Art und Weise, wie wir bei Porsche zusammenarbeiten und als Team zusammenhalten, ist einzigartig. Unser Miteinander ist dabei geprägt durch unsere starke Porsche Kultur: Herzblut | Sportlichkeit | Pioniergeist | Eine Familie.
+Wir bei Porsche leben Vielfalt, setzen uns für Chancengleichheit ein und fördern aktiv ein inklusives Miteinander. Ebenso sind Respekt und Toleranz fest verankert in unserer Unternehmenskultur. So schaffen wir ein Umfeld, das die Individualität jedes einzelnen Menschen im Unternehmensinteresse fördert.
+Ein Schlüssel zu unserem Erfolg ist die Vielfalt an Perspektiven. Denn die sich daraus ergebende Kombination individueller Stärken und Erfahrungen treibt Innovationen voran und stärkt unsere Teams. Dazu haben wir uns auch durch Unterzeichnung der Charta der Vielfalt verpflichtet. Ganz nach dem Motto: Jeder einzigartig. Zusammen vielfältig. Gemeinsam erfolgreich.
+Exklusive Einblicke hinter die Kulissen
+Exklusive Einblicke hinter die KulissenExklusive Einblicke hinter die Kulissen
+Unabhängig von dem, was andere tun, sind wir stets bestrebt, unsere Grenzen ständig neu zu definieren und Maßstäbe zu setzen. Das können wir heute und in Zukunft aber nur mit Mitarbeitern und Führungskräften erreichen, die immer das „Etwas-mehr“ im Blick haben.
+Exklusive Einblicke in die Porsche Arbeitswelt erhalten Sie auch auf unseren Karriereprofilen in den sozialen Netzwerken:
+
+Hinweise zur Bewerbung
+Hinweise zur BewerbungHinweise zur Bewerbung
+Bitte fülle unser Online-Bewerbungsformular aus und füge am Ende deine vollständigen Bewerbungsdokumente bei, die aus Anschreiben, Lebenslauf, Arbeits- und (Hoch-)Schulzeugnissen sowie ggf. weiteren Bescheinigungen bestehen. Bitte habe Verständnis, dass wir keine Bewerbungen per Post oder E-mail entgegennehmen.
+Bitte beachte, dass du dich lediglich auf eine Praktikantenstelle bewerben kannst. Weitere Bewerbungseingänge können leider nicht berücksichtigt werden, sofern bereits eine aktive Bewerbung vorliegt.
+
+Bewerberinnen und Bewerber aus dem europäischen Wirtschaftsraum, die sich für ein Praktikum in Deutschland bewerben, benötigen einen Personalausweis oder Pass. Bewerberinnen und Bewerber, die nicht aus dem europäischen Wirtschaftsraum stammen benötigen für die Dauer des Praktikums eine Aufenthalts- und ggf. eine Arbeitserlaubnis.
+Weitere Informationen rund um die Bewerbung bei Porsche findest du hier.
+
+Wir begrüßen ausdrücklich die Bewerbung von Menschen mit Behinderung, deren Integration uns ein besonderes Anliegen ist.
+Jetzt bewerben: ?ac=application&jobad_id=20341

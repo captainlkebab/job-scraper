@@ -1,0 +1,32 @@
+TITEL: Praktikant / Masterarbeit Deep Learning zur Bildverbesserung (m/w/d)
+BEWERBUNGS-LINK: https://de.indeed.com/applystart?jk=303e1f2960334b0a&from=vj&pos=bottom&mvj=0&jobsearchTk=1jr0gh5a6hbbi800&spon=1&adid=415193866&xkcb=SoA76_M3igpLd6TNxB0LbzkdCdPP&xfps=d02f3886-43d6-4cd0-b376-f17a098eb17f&vjfrom=vjs&asub=mob&astse=9f82f197759af1a5&assa=8095
+------------------------------------------------------------
+
+WOFÜR WIR SIE SUCHEN
+Als Praktikant (m/w/d) im Bereich Deep Learning zur Bildverbesserung sind Sie verantwortlich für die Unterstützung im Training von neuronalen Netzen.
+Ihre weiteren Aufgaben:
+Sammlung von Bilddaten
+Vorverarbeitung von Bilddaten
+Modell-Pruning, Quantisierung und Testen
+
+WAS SIE MITBRINGEN SOLLTEN
+Masterstudiengang im Bereich Data Science, Informatik, Computerwissenschaften, Mathematik oder vergleichbar
+Gültige Immatrikulation für den gesamten Zeitraum des Praktikums
+Kenntnisse in PyTorch, CUDA und anderen relevanten Deep-Learning-Frameworks
+Gute Programmierkenntnisse in Python und / oder C++
+Starke Fähigkeit, Forschungsarbeiten im Bereich Deep Learning zu verstehen, zu analysieren und zu präsentieren
+Gute Deutsch- und Englischkenntnisse in Wort und Schrift
+Fähigkeit, eigenständig und intensiv an einem wissenschaftlichen Thema zu arbeiten
+
+WAS WIR IHNEN BIETEN
+An unserem Standort in Bremen bieten wir Ihnen:
+Attraktive Vergütung
+Flexible Arbeitszeiten (Gleit- und Vertrauensarbeitszeit)
+Mitarbeiterbenefits, z. B. Corporate Benefits Plattform, Kantine für unsere Mitarbeiter (m/w/d)
+Das Gefühl eines StartUp-Unternehmens mit den Vorteilen eines Großkonzerns
+Spannende, interdisziplinäre und internationale Projekte in einer Matrix-Organisation
+Eine Unternehmenskultur, die berufliche und persönliche Entwicklung fördert
+
+KONTAKTDETAILS
+Zuständige/r Ansprechpartner/in: Charlene Schnaars
+Für Fragen zu Ihrer Bewerbung, nutzen Sie bitte das Kontaktformular.

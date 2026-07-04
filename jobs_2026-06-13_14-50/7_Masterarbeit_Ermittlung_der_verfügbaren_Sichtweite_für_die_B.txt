@@ -1,0 +1,35 @@
+TITEL: Masterarbeit Ermittlung der verfügbaren Sichtweite für die Berechnung komfortabler Motorradfahrgeschwindigkeiten
+BEWERBUNGS-LINK: https://de.indeed.com/rc/clk?jk=d1a9529fe4cf3bf2&bb=nUTc2-5bATr_TKL_T-ZPzb6lJZIe3_lA5tbmdP3enQMsgoTcQd37yd6kPKVmrcK9jNBOht4E1H0EWQbpfsMGjr9JLImuzBRyl8HbKXmC_CigtrnuK9skPtiFehtdb9BV&xkcb=SoD167M3igpLd6TNxB0NbzkdCdPP&fccid=a2faf1301ac6ad4b&vjs=3
+------------------------------------------------------------
+
+Unternehmensbeschreibung
+
+Bei Bosch gestalten wir Zukunft mit hochwertigen Technologien und Dienstleistungen, die Begeisterung wecken und das Leben der Menschen verbessern. Unser Versprechen an unsere Mitarbeiterinnen und Mitarbeiter steht dabei felsenfest: Wir wachsen gemeinsam, haben Freude an unserer Arbeit und inspirieren uns gegenseitig. Willkommen bei Bosch.
+Die Robert Bosch GmbH freut sich auf deine Bewerbung!
+
+Stellenbeschreibung
+
+Werde Teil der zentralen Forschung der Robert Bosch GmbH in Renningen und arbeite mit uns an den Motorradsicherheitssystemen von morgen! Unser Fokus liegt auf der Reduzierung des Unfallrisikos bei gleichzeitig hohem Fahrkomfort und Fahrspaß. Im Rahmen deiner Masterarbeit schätzt du die verfügbare Sichtweite mittels verschiedener Ansätze und Algorithmen – ein entscheidender Einflussfaktor für komfortable Geschwindigkeiten in zukünftigen Fahrerassistenzsystemen.
+Du führst in deiner Einarbeitung eine Literaturrecherche zum aktuellen Stand der Forschung durch, um bekannte Verfahren und Algorithmen zu erfassen.
+Darüber hinaus entwickelst du neuartige Ansätze zur Schätzung der verfügbaren Sichtweite auf Grund unterschiedlicher Datendomänen (beispielsweise kamerabasiert).
+Durch die Auswertung von empirischen Messdaten validierst du deine entwickelten Methoden.
+Deine Arbeit findet direkte Anwendung in der praxisnahen Forschung und bildet eine Vergleichs- und Entwicklungsbasis für zukünftige Assistenzsysteme.
+
+Qualifikationen
+Ausbildung: Masterstudium im Bereich Data Science, Mathematik, Mechatronik oder in einem vergleichbaren Studiengang der Ingenieurs- oder Naturwissenschaften mit guten Studienleistungen
+Erfahrung und Know-how: sehr gutes Verständnis für Datenauswertung und Bildverarbeitung; Grundkenntnisse im Umgang mit Geodaten; Programmierkenntnisse in Python und C++
+Persönlichkeit und Arbeitsweise: du denkst analytisch und strukturiert, arbeitest gerne im Team und erfasst neue Inhalte schnell
+Arbeitsalltag: wir bieten dir die Möglichkeit, nach Absprache hybrid zu arbeiten
+Begeisterung: Leidenschaft für Innovation und Technologie
+Sprachen: verhandlungssicheres Deutsch und Englisch
+
+Zusätzliche Informationen
+
+Beginn: nach Absprache
+Dauer: 6 Monate
+Voraussetzung für die Abschlussarbeit ist die Immatrikulation an einer Hochschule. Bitte füge deiner Bewerbung deinen Lebenslauf, deinen aktuellen Notenspiegel, die Prüfungsordnung sowie ggf. eine gültige Arbeits- und Aufenthaltserlaubnis bei.
+Vielfalt und Inklusion sind für uns keine Trends, sondern fest verankert in unserer Unternehmenskultur. Daher freuen wir uns über alle Bewerbungen: unabhängig von Geschlecht, Alter, Behinderung, Religion, ethnischer Herkunft oder sexueller Identität.
+Du hast fachliche Fragen zum Job?
+Max Prochaska (Fachabteilung)
+max.prochaska@de.bosch.com
+Work #LikeABosch beginnt hier: Jetzt bewerben!

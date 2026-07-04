@@ -1,0 +1,44 @@
+TITEL: Masterarbeit Data Science in der MEMS-Entwicklung - Identifikation und Modellierung von kausalen Beziehungen
+BEWERBUNGS-LINK: https://de.indeed.com/applystart?jk=269ec089229a2681&from=vj&pos=bottom&mvj=0&jobsearchTk=1jr0gh5a6hbbi800&spon=0&xkcb=SoDm67M3igpLd6TNxB0JbzkdCdPP&xfps=33a5a12e-8ff4-4ed8-b36d-50ad418542ca&vjfrom=vjs&asub=mob&astse=d06f629af6883ade&assa=8978
+------------------------------------------------------------
+
+Aufgaben
+MEMS (Mikro-Elektro-Mechanische Systeme) sind Geräte mit mechanischen Strukturen im Mikrometerbereich. Durch die Kombination mit einer Elektronik (ASIC) entsteht eine Sensorik auf einem einzelnen Chip. Sie sind in unserem Alltag unverzichtbar und finden Anwendung in Smartphones, Automobilen, Computern und Smart-Devices. Die Herstellung dieser feinen Strukturen ist ein mehrstufiger, komplexer Prozess. Während die kausalen Zusammenhänge für Teilsysteme der Produktionskette implizit bekannt sind, fehlt eine explizite Darstellung und systematische Aufarbeitung dieser Beziehungen. In anderen Bereichen der Produktion sind die kausalen Mechanismen weitestgehend unbekannt, man spricht von einer fehlenden, kausalen „Grundwahrheit“. Ziel der Arbeit ist die Modellierung der kausalen Grundwahrheit für das bekannte Teilsystem, sowie die Proposition und Validation einer Hypothese der Grundwahrheit des unbekannten Teilsystems.
+Während deiner Masterarbeit eignest du dir fundierte Kenntnisse über Kausalität und deren Abgrenzung zu Korrelation an, um die theoretischen Grundlagen deiner Arbeit zu festigen.
+Tiefgehend beschäftigst du dich mit der MEMS-Technologie, den spezifischen Produktionsprozessen und der komplexen MEMS-Produktion.
+Du identifizierst und analysierst kausale Beziehungen in bekannten Teilsystemen, indem du relevante Variablen verstehst und diese anhand von Literatur und Lehrbüchern herleitest.
+Anschließend entwickelst du Hypothesen und Modelle für die kausale Grundwahrheit dieser Systeme, die du explizit, analytisch und grafisch darstellst.
+Deine entwickelten Hypothesen validierst du im engen Austausch mit dem Bosch-Expertenteam und wendest die erarbeitete Methodik auf unbekannte Teilsysteme mit komplexeren Zusammenhängen an.
+Du evaluierst bekannte Algorithmen zur datengetriebenen Inferenz kausaler Beziehungen mithilfe deiner selbst entwickelten Modelle.
+Deine Ergebnisse bereitest du sorgfältig auf, analysierst sie und präsentierst sie regelmäßig in der Arbeitsgruppe.
+Profil
+Ausbildung: Masterstudium im Bereich Elektrotechnik, Mechatronik, Physik, Informatik, Mathematik oder vergleichbar mit guten bis sehr guten Studienleistungen
+Erfahrungen und Know-how: Programmierkenntnisse in Python; gutes Verständnis von Statistik und Wahrscheinlichkeitstheorie; Grundverständnis elektro-mechanischer Systeme; Erfahrung im Umgang mit Git; einfache SQL-Kenntnisse
+Persönlichkeit und Arbeitsweise: dir gelingt es, offen auf neue Themen zuzugehen, selbstständig Lösungen zu erarbeiten und dich engagiert in komplexe Problemstellungen einzuarbeiten, wobei du auch vor ungelösten Herausforderungen nicht zurückschreckst
+Arbeitsalltag: deine Präsenz vor Ort ist erforderlich, mobiles Arbeiten teilweise möglich
+Begeisterung: Interesse an physikalischen Systemen, sowie derer mathematischer Beschreibung
+Sprachen: gutes Deutsch und Englisch
+Wissenswertes zum Job
+Beginn: nach Absprache
+Dauer: 6 Monate
+Voraussetzung für die Abschlussarbeit ist die Immatrikulation an einer Hochschule. Bitte füge deiner Bewerbung deinen Lebenslauf, deinen aktuellen Notenspiegel, die Prüfungsordnung sowie ggf. eine gültige Arbeits- und Aufenthaltserlaubnis bei.
+Dein Bachelorabschluss ist so gut wie in der Tasche und bevor du dich in das nächste akademische Abenteuer Master aufmachst, möchtest du erstmal praktische Erfahrungen sammeln? Dann passt du perfekt zu unserem PreMaster Programm. Schau dir hier direkt unsere offenen Stellen an.
+
+Vielfalt und Inklusion sind für uns keine Trends, sondern fest verankert in unserer Unternehmenskultur. Daher freuen wir uns über alle Bewerbungen: unabhängig von Geschlecht, Alter, Behinderung, Religion, ethnischer Herkunft oder sexueller Identität.
+Work #LikeABosch beginnt hier: Jetzt bewerben!
+Hinweise zur Bewerbung
+Solange diese Stelle in unserer Jobbörse ausgeschrieben ist, suchen wir nach passenden Kandidatinnen und Kandidaten.
+Aus Datenschutzgründen ist eine Bewerbung nur über unser Bewerbungsportal möglich. Bewerbungen per Mail oder Post können wir daher leider nicht berücksichtigen.
+
+Was wir bieten: Benefits bei Bosch
+Finanzielle Benefits „Ich zahle nicht gute Löhne, weil ich viel Geld habe, sondern ich habe viel Geld, weil ich gute Löhne bezahle.“ – Robert Bosch, 1931. Das leben wir bei Bosch bis heute: Neben attraktiven Gehältern bieten wir viele finanzielle Zusatzleistungen, beispielsweise Boni für den gemeinsamen Beitrag zum Unternehmenserfolg, eine individuelle Leistungsvergütung sowie private und betriebliche Altersvorsorge. Zusätzlich können sich unsere Mitarbeitenden auf Vergünstigungen freuen: Neben Vorteilsportalen mit Rabatten für zahlreiche Online-Shops und Dienstleistungen profitieren sie selbstverständlich auch von Sonderkonditionen auf Bosch Produkte.
+
+Willkommen in Reutlingen-Kusterdingen
+In Reutlingen, südlich von Stuttgart, befindet sich der Stammsitz des Geschäftsbereichs Mobility Electronics. An unserem Standort in der Tübinger Straße werden Halbleiter, Sensoren und Steuergeräte entwickelt und gefertigt. Nur wenige Kilometer entfernt liegt Kusterdingen. Hier befinden sich darüber hinaus der Geschäftsbereich Bosch eBike Systems sowie die Tochtergesellschaft Bosch Sensortec. Neben den Entwicklungsbereichen und den Fertigungswerken sind in Reutlingen und Kusterdingen auch zahlreiche technische und kaufmännische Funktionen sowie die Aus- und Weiterbildung angesiedelt.
+Mehr zum Standort erfahren
+
+Willkommen bei Bosch
+Bei Bosch gestalten wir Zukunft mit hochwertigen Technologien und Dienstleistungen, die Begeisterung wecken und das Leben der Menschen verbessern. Unser Versprechen an unsere Mitarbeiterinnen und Mitarbeiter steht dabei felsenfest: Wir wachsen gemeinsam, haben Freude an unserer Arbeit und inspirieren uns gegenseitig. Willkommen bei Bosch.
+Die Robert Bosch GmbH freut sich auf eine Bewerbung!
+
+Noch Fragen? Wir helfen gerne weiter! Rund um den Job Technischer Support Fachliche Fragen zum Job? Anna Hunstig (Fachabteilung) hat die Antworten. +49 7121 35 18315
